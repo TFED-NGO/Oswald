@@ -154,7 +154,19 @@
          as they appear in the MS.</p>
 				<!-- include all other editorial declarations and decisions here -->
 			</editorialDecl>
-			<charDecl></charDecl>
+			<charDecl>
+    <char xml:id="w_macron">
+        <unicodeProp name="Canonical_Combining_Class" value="230"/>
+        <localProp name="name"
+            value="W CHARACTER WITH A MACRON OVER IT"/>
+        <mapping type="standard">w&#x00AF;</mapping>
+    </char>
+    <char xml:id="n_macron">
+        <unicodeProp name="Canonical_Combining_Class" value="230"/>
+        <localProp name="name"
+            value="N CHARACTER WITH A MACRON OVER IT"/>
+        <mapping type="standard">n&#x00AF;</mapping>
+    </char></charDecl>
 		</encodingDesc>
 		<revisionDesc>
 			<list>
@@ -214,15 +226,13 @@
 						</choice> iugoðe
   
 						<choice>
-							<abbr>fra:
-								<macron/>
+							<abbr>frā
 							</abbr>
 							<expan>fram:</expan>
 						</choice>
 						<add place="above">:his</add>
 						<choice>
-							<abbr>freondu
-								<macron/>
+							<abbr>freondū
 							</abbr>
 							<expan>freondum</expan>
 						</choice>
@@ -272,8 +282,7 @@
 							</choice> him siþedon ⋅ Betwux 
   
 							<choice>
-								<abbr>þa
-									<macron/>
+								<abbr>þā
 								</abbr>
 								<expan>þam</expan>
 							</choice>
@@ -316,8 +325,7 @@
   nan twam
   
 							<choice>
-								<abbr>gearu
-									<macron/>
+								<abbr>gearū
 								</abbr>
 								<expan>gearum</expan>
 							</choice> ⋅ 
@@ -359,8 +367,7 @@
   adwæscte ⋅ Oswold him 
   
 									<choice>
-										<abbr>co
-											<macron/>
+										<abbr>cō
 										</abbr>
 										<expan>com</expan>
 									</choice> to⋅
@@ -537,8 +544,7 @@
 									</choice>
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>hi
-											<macron/>
+											<thornwithstroke/>hī
 										</orig>
 										<reg>þæt him</reg>
 									</choice>
@@ -648,8 +654,7 @@
   
 									<choice>
 										<abbr>geearnung
-											<add place="inline">u
-												<macron/>
+											<add place="inline">ū
 											</add>
 										</abbr>
 										<expan>geearnungum</expan>
@@ -1101,8 +1106,7 @@
  lice leofode betwux ðam 
  
 									<choice>
-										<abbr>læwedu
-											<macron/>
+										<abbr>læwedū
 										</abbr>
 										<expan>læwedum</expan>
 									</choice> folce ⋅ 
@@ -1121,8 +1125,7 @@
 										<reg>and soþum</reg>
 									</choice>
 									<choice>
-										<abbr>mægnu
-											<macron/>
+										<abbr>mægnū
 										</abbr>
 										<expan>mægnum</expan>
 									</choice>⋅ 
@@ -1272,8 +1275,7 @@
 									</choice> sona þam 
  
 									<chocie>
-										<abbr>þearfu
-											<macron/>
+										<abbr>þearfū
 										</abbr>
 										<expan>þearfum</expan>
 									</chocie> þo
@@ -1310,8 +1312,7 @@
 									</chocie> þam 
  
 									<choice>
-										<abbr>þearfu
-											<macron/>
+										<abbr>þearfū
 										</abbr>
 										<expan>þearfum</expan>
 									</choice> heo
@@ -1454,8 +1455,7 @@
 									</choice> ⋅ for oswoldes 
  
 									<choice>
-										<orig>ge earnungu
-											<macron/>
+										<orig>ge earnungū
 										</orig>
 										<reg>geearnungum</reg>
 									</choice>
@@ -1558,8 +1558,7 @@
 								<add place="above">þæs</add> heofones weard.
   
 								<choice>
-									<orig>Onþa
-										<macron/>
+									<orig>Onþā
 									</orig>
 									<reg>On þam</reg>
 								</choice>
@@ -2156,8 +2155,7 @@
  ælcere brosnunge swa se bisceop. 
 								<add place="above">ge</add>
 								<choice>
-									<abbr>cw
-										<macron/>
+									<abbr>c<g ref="#w_macron"/>
 									</abbr>
 									<expan>cwæð</expan>
 								</choice>. Se earm
@@ -2177,8 +2175,7 @@
  asmiþod · 
  
 								<choice>
-									<orig>onsce
-										<macron/>
+									<orig>onscē
 									</orig>
 									<reg>on sancte</reg>
 								</choice> petres mẏnstre binnan 
@@ -2211,8 +2208,7 @@
 								<choice>
 									<orig>onmẏrcan</orig>
 									<reg>on mẏrcan</reg>
-								</choice> wearð cwe
-								<macron/>n · 
+								</choice> wearð cwēn · 
  
 								<choice>
 									<orig>⁊
@@ -2222,8 +2218,7 @@
 								</choice> his	
  
 								<line n="171"/>
- ban
-								<macron/> · 
+ ba<g ref="#n_macron"/> · 
  
 								<choice>
 									<orig>⁊
@@ -2274,8 +2269,7 @@
 								</choice> ofer
  
 								<line n="175"/>
- þa halgan ban
-								<macron/> binnan þære licr
+ þa halgan ba<g ref="#n_macron"/> binnan þære licr
 								<del rend="scraped">a</del>este · Hwæt
  
 								<line n="176"/>
@@ -2404,8 +2398,7 @@
   his halgan geearnunge fela mettrume menn 
   
 								<choice>
-									<abbr>fra
-										<macron/>
+									<abbr>frā
 									</abbr>
 									<expan>fram</expan>
 								</choice>
@@ -2544,8 +2537,7 @@
 								</choice> eorðan wodum gelicost · mid 
   
 								<choice>
-									<abbr>þa
-										<macron/>
+									<abbr>þā
 									</abbr>
 									<expan>þam</expan>
 								</choice>
@@ -2662,8 +2654,7 @@
 								<add place="inline">an</add>sund
    
 								<choice>
-									<abbr>eallu
-										<macron/>
+									<abbr>eallū
 									</abbr>
 									<expan>eallum</expan>
 								</choice>
@@ -2703,8 +2694,7 @@
 								</choice>. Eft siððan ferde eac 
   
 								<choice>
-									<abbr>su
-										<macron/>
+									<abbr>sū
 									</abbr>
 									<expan>sum</expan>
 								</choice>
@@ -2936,8 +2926,7 @@
 							<add place="above">men</add> sæde · Se preost 
   
 							<choice>
-								<abbr>cw
-									<macron/>
+								<abbr>c<g ref="#w_macron"/>
 								</abbr>
 								<expan>cwæð</expan>
 							</choice>
@@ -3003,8 +2992,7 @@
   
 							<choice>
 								<orig>⁊
-									<tironianet/>cw
-									<macron/>
+									<tironianet/>c<g ref="#w_macron"/>
 								</orig>
 								<reg>and cwæð</reg>
 							</choice> him to sona mid sarlicre
@@ -3032,8 +3020,7 @@
 							</choice> helle faran for 
   
 							<choice>
-								<abbr>fracodu
-									<macron/>
+								<abbr>fracodū
 								</abbr>
 								<expan>fracodum</expan>
 							</choice> dædum. Nu
@@ -3254,8 +3241,7 @@
 							</choice> hwider swa 
    
 							<choice>
-								<orig>heco
-									<macron/>
+								<orig>hecō
 								</orig>
 								<reg>he com</reg>
 							</choice> · he
@@ -3311,8 +3297,7 @@
 							</choice> · Nu 
   
 							<choice>
-								<orig>cw
-									<macron/>.sehalga
+								<orig>c<g ref="#w_macron"/>.sehalga
 								</orig>
 								<reg>cwæð se halga</reg>
 							</choice> beda 
