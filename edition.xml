@@ -338,7 +338,7 @@
 							<choice>
 								<orig>⁊
 									<tironianet/>tosceame
-									<orig>
+									</orig>
 										<reg>and to sceame</reg>
 									</choice>
 									<line n= "11"/>
@@ -620,7 +620,7 @@
 									<choice>
 										<orig>þeheo</orig>
 										<reg>þe heo
-										</orig>
+                              </reg>
 									</choice>mid beweaxen wæs⋅
   
 									<line n="36"/>
@@ -1166,7 +1166,7 @@
 										</abbr>
 										<expan>and</expan>
 									</choice>
-									<line n=82/>
+									<line n="82"/>
  man ahrærde cẏrcan 
  
 									<choice>
@@ -2863,7 +2863,7 @@
   
 								<line n="227"/> 
   drodė
-								<add place="above"/>o</add>n þæs halgan weres 
+								<add place="above">o</add>n þæs halgan weres 
   
 							<choice>
 								<orig>ge earnunga</orig>
@@ -3491,7 +3491,9 @@
 								<orig>toworulde</orig>
 								<reg>to worulde</reg>
 							</choice> · AMEN ·
-  
-						</body>
-					</text>
-				</TEI>
+               <del></del>
+				</ab>
+			</div>
+		</body>
+	</text>
+</TEI>
