@@ -185,7 +185,7 @@
 						<orig>SCI</orig>
 						<reg>SANCTI</reg>
 					</choice> OSWALDI REGIS ET MARTẎRIS
-  
+            </head>
 					<ab>
 						<lb n="1"/>
 						<hi style="font-variant: smallcaps" rend="decorInit 3lines">Æ</hi>FTER ÐAN ÐE AUGUSTINUS TO ENGLA
@@ -1545,7 +1545,6 @@
 											<add place="inline">and</add>and swa
 										</reg>
 									</choice>
-								</add>
 								<line n="114"/>
   hwær swa he wæs 
   
