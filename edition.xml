@@ -28,7 +28,7 @@
 				</respStmt>
 				<respStmt>
 					<resp>Encoding in TEI-conformant markup:</resp>
-               <name>Erik Andrew Hanson</name>
+					<name>Erik Andrew Hanson</name>
 					<name>Hunter Corb</name>
 					<name>Sarah Bulger</name>
 					<name>Jackson Meade</name>
@@ -154,9 +154,7 @@
          as they appear in the MS.</p>
 				<!-- include all other editorial declarations and decisions here -->
 			</editorialDecl>
-			<charDecl>
-
-			</charDecl>
+			<charDecl></charDecl>
 		</encodingDesc>
 		<revisionDesc>
 			<list>
@@ -166,2330 +164,3334 @@
 			</list>
 		</revisionDesc>
 	</teiHeader>
-<text>
-  <body>
-  <pb n="153r" facs=".png" />
-  <div type="manuscript">
-  <head style="text-align: left; font-variant: smallcaps">
-  <choice>
-  <orig>NON</orig>
-  <reg>NONAS</reg>
-  </choice>
-  <choice>
-  <orig>AG</orig>
-  <reg>AUGUSTI.</reg>
-  </choice>
-  <choice>
-  <orig>NATL</orig>
-  <reg>NATALE</reg>
-  </choice>
-  <choice>
-  <orig>SCI</orig>
-  <reg>SANCTI</reg>
-  </choice> OSWALDI REGIS ET MARTẎRIS
-  <ab>
-  <lb n="1"/>
-  <hi style="font-variant: smallcaps" rend="decorInit 3lines">Æ</hi>FTER ÐAN ÐE AUGUSTINUS TO ENGLA
-  <choice>
-  <orig>LANDEBE</orig>
-  <reg>LANDE BE</reg>
-  </choice>
-  <lb n="2"/> 
+	<text>
+		<body>
+			<pb n="153r" facs=".png" />
+			<div type="manuscript">
+				<head style="text-align: left; font-variant: smallcaps">
+					<choice>
+						<orig>NON</orig>
+						<reg>NONAS</reg>
+					</choice>
+					<choice>
+						<orig>AG</orig>
+						<reg>AUGUSTI.</reg>
+					</choice>
+					<choice>
+						<orig>NATL</orig>
+						<reg>NATALE</reg>
+					</choice>
+					<choice>
+						<orig>SCI</orig>
+						<reg>SANCTI</reg>
+					</choice> OSWALDI REGIS ET MARTẎRIS
+  
+					<ab>
+						<lb n="1"/>
+						<hi style="font-variant: smallcaps" rend="decorInit 3lines">Æ</hi>FTER ÐAN ÐE AUGUSTINUS TO ENGLA
+  
+						<choice>
+							<orig>LANDEBE</orig>
+							<reg>LANDE BE</reg>
+						</choice>
+						<lb n="2"/> 
   com⋅wæs sum æðele cẏning Oswold gehaten
-  <lb n=“3”/>
+  
+						<lb n="3"/>
   on Norðhẏmbra lande gelẏfed swẏþe 
-  <choice> 
-    <orig>ongod</orig>
-    <reg>on god</reg>
-  </choice> ⋅ se 		
-  <lb n=“4”/>
+  
+						<choice>
+							<orig>ongod</orig>
+							<reg>on god</reg>
+						</choice> ⋅ se 		
+  
+						<lb n="4"/>
   ferde 
-  <choice>
-    <orig>onhis</orig>
-    <reg>on his</reg>
-  </choice> iugoðe
-  <choice>
-    <abbr>fra:<macron/></abbr>
-    <expan>fram:</expan> 
-  </choice><add @place =“above”>:his</add>
-  <choice>
-    <abbr>freondu<macron/></abbr>
-    <expan>freondum</expan>
-   </choice> 	
-  <choice>
-    <orig>⁊<tironianet/>magum</orig>
-    <reg>and magum</reg>
-  </choice> to
-  <lb n="5"/>
+  
+						<choice>
+							<orig>onhis</orig>
+							<reg>on his</reg>
+						</choice> iugoðe
+  
+						<choice>
+							<abbr>fra:
+								<macron/>
+							</abbr>
+							<expan>fram:</expan>
+						</choice>
+						<add place="above">:his</add>
+						<choice>
+							<abbr>freondu
+								<macron/>
+							</abbr>
+							<expan>freondum</expan>
+						</choice>
+						<choice>
+							<orig>⁊
+								<tironianet/>magum
+							</orig>
+							<reg>and magum</reg>
+						</choice> to
+  
+						<lb n="5"/>
   Scotlande 
-  <choice>
-    <orig>onsæ</orig>
-    <reg>on onsæ</reg> 
-  </choice> ⋅
-  <choice> 
-    <orig>⁊<tironianet/>þær</orig> 
-    <reg>and þær</reg>
-  </choice> sona wearð  
-  <choice>
-    <orig><add @place =“above”>ge</add>fullod</orig>
-    <reg><gefullod></reg>
-  </choice> ⋅ 
-  <choice> 
-    <orig>⁊<tironianet/>his</orig>
-    <reg>and his</reg>
-  </choice>
-  <lb n=“6”/>
+  
+						<choice>
+							<orig>onsæ</orig>
+							<reg>on onsæ</reg>
+						</choice> ⋅
+  
+						<choice>
+							<orig>⁊
+								<tironianet/>þær
+							</orig>
+							<reg>and þær</reg>
+						</choice> sona wearð  
+  
+						<choice>
+							<orig>
+								<add place="above">ge</add>fullod
+							</orig>
+							<reg>
+								gefullod
+								</reg>
+							</choice> ⋅ 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>his
+								</orig>
+								<reg>and his</reg>
+							</choice>
+							<lb n="6"/>
  geferan samod 
-  <choice>
-    <orig>þemid</orig>
-    <reg>þe mid</reg>
-  </choice> him siþedon ⋅ Betwux 
-  <choice> 
-    <abbr>þa<macron/></abbr>
-    <expan>þam</expan> 
-  </choice> 
-  <lb n=“7”/>
+  
+							<choice>
+								<orig>þemid</orig>
+								<reg>þe mid</reg>
+							</choice> him siþedon ⋅ Betwux 
+  
+							<choice>
+								<abbr>þa
+									<macron/>
+								</abbr>
+								<expan>þam</expan>
+							</choice>
+							<lb n="7"/>
   wearð ofslagen eadwine his eam norðhẏmbra 
-  <lb n= “8”/>
+  
+							<lb n= "8"/>
  cẏnincg 
-  <choice> 
-    <orig>oncrist</orig>
-   <reg>on crist</reg> 
-  </choice> 
-  <choice> 
-    <orig>ge lẏfed</orig>
-    <reg>gelẏfed</reg> 
-  </choice>  ⋅ fram brẏtta cẏninge
-  <lb n=“9”/>
-  <choice>
-    <orig>ce<add @place=“above”>a</add>dwalla</orig> 
-    <reg>ceadwalla</reg>
-  </choice> geciged ⋅ 
-  <choice> 
-    <orig>⁊<tironianet/>twegen</orig> 
-    <reg>and twegen</reg> 
-  </choice> his 
-  <choice> 
-    <orig>æfter gengan</orig>
-    <reg>æftergengan</reg>
-  </choice> bin
-  <lb n=“10”/>
+  
+							<choice>
+								<orig>oncrist</orig>
+								<reg>on crist</reg>
+							</choice>
+							<choice>
+								<orig>ge lẏfed</orig>
+								<reg>gelẏfed</reg>
+							</choice>  ⋅ fram brẏtta cẏninge
+  
+							<lb n="9"/>
+							<choice>
+								<orig>ce
+									<add place="above">a</add>dwalla
+								</orig>
+								<reg>ceadwalla</reg>
+							</choice> geciged ⋅ 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>twegen
+								</orig>
+								<reg>and twegen</reg>
+							</choice> his 
+  
+							<choice>
+								<orig>æfter gengan</orig>
+								<reg>æftergengan</reg>
+							</choice> bin
+  
+							<lb n="10"/>
   nan twam
-  <choice>
-    <abbr>gearu<macron/></abbr>
-    <expan>gearum</expan>
-  </choice> ⋅ 
-  <choice> 
-   <orig>⁊<tironianet/>se</orig>
-    <reg>and se</reg>
-  </choice>
-  <choice>
-    <orig>ce<add @place=“above”>a</add>dwalla</orig>
-    <reg>ceadwalla</reg>
-  </choice> sloh 
-  <choice>
-    <orig>⁊<tironianet/>tosceame<orig>
-    <reg>and to sceame</reg>
-  </choice>
- <line n= “11”/>
+  
+							<choice>
+								<abbr>gearu
+									<macron/>
+								</abbr>
+								<expan>gearum</expan>
+							</choice> ⋅ 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>se
+								</orig>
+								<reg>and se</reg>
+							</choice>
+							<choice>
+								<orig>ce
+									<add place="above">a</add>dwalla
+								</orig>
+								<reg>ceadwalla</reg>
+							</choice> sloh 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>tosceame
+									<orig>
+										<reg>and to sceame</reg>
+									</choice>
+									<line n= "11"/>
   tucode þa norðhẏmbran leode æfter heora hla
- <line n=“12”/>
+ 
+									<line n="12"/>
     fordes fẏlle ⋅ 
-  <choice>
-    <orig>oðꝥ<thornwithstroke/></orig>
-   <reg>oð þæt</reg>
-  </choice>
+  
+									<choice>
+										<orig>oðꝥ
+											<thornwithstroke/>
+										</orig>
+										<reg>oð þæt</reg>
+									</choice>
   oswold se eadiga his ẏfelnẏsse
-  <line n="13"/>
+  
+									<line n="13"/>
   adwæscte ⋅ Oswold him 
-  <choice>
-   <abbr>co<macron/></abbr>
-   <expan>com</expan>
-  </choice> to⋅
-  <choice>
-    <orig>⁊<tironianet/>him</orig>
-    <reg> and him</reg>
-  </choice>cenlice wiðfeaht 
-  <line n="14"/>
+  
+									<choice>
+										<abbr>co
+											<macron/>
+										</abbr>
+										<expan>com</expan>
+									</choice> to⋅
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>him
+										</orig>
+										<reg> and him</reg>
+									</choice>cenlice wiðfeaht 
+  
+									<line n="14"/>
   mid lẏtlum werode ⋅ 
-  <choice>
-    <orig>achis</orig>
-    <reg>ac his</reg>
-  </choice> geleafa hine 
-  <choice>
-    <orig>ge trẏm</orig>
-    <reg>getrẏm</reg>
-  </choice>
-  <line n="15"/>
+  
+									<choice>
+										<orig>achis</orig>
+										<reg>ac his</reg>
+									</choice> geleafa hine 
+  
+									<choice>
+										<orig>ge trẏm</orig>
+										<reg>getrẏm</reg>
+									</choice>
+									<line n="15"/>
   de ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>crist</orig>
-    <reg>and crist</reg>
-  </choice> him 
-  <choice>
-    <orig>ge fẏlste</orig>
-    <reg>gefẏlste</reg>
-  </choice>
-  <choice>
-    <orig>tohis</orig>
-    <reg>to his</reg>
-  </choice> feonda slege ⋅ Os
-  <line n="16"/>
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>crist
+										</orig>
+										<reg>and crist</reg>
+									</choice> him 
+  
+									<choice>
+										<orig>ge fẏlste</orig>
+										<reg>gefẏlste</reg>
+									</choice>
+									<choice>
+										<orig>tohis</orig>
+										<reg>to his</reg>
+									</choice> feonda slege ⋅ Os
+  
+									<line n="16"/>
   wold 
-  <choice>
-    <orig>þaarærde</orig>
-    <reg>þa arærde</reg>
-  </choice> ane rode sona gode to wurðmẏn
-  <line n="17"/>
+  
+									<choice>
+										<orig>þaarærde</orig>
+										<reg>þa arærde</reg>
+									</choice> ane rode sona gode to wurðmẏn
+  
+									<line n="17"/>
   te ær þan 
-  <choice>
-    <orig>þehe</orig>
-    <reg>þe he</reg>
-  </choice>
-  <choice>
-    <orig>toðam</orig>
-    <reg>to ðam</reg>
-  </choice> gewinne come ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>clypode</orig>
-    <reg>and clypode</reg>
-  </choice>
-  <line n="18"/>
+  
+									<choice>
+										<orig>þehe</orig>
+										<reg>þe he</reg>
+									</choice>
+									<choice>
+										<orig>toðam</orig>
+										<reg>to ðam</reg>
+									</choice> gewinne come ⋅ 
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>clypode
+										</orig>
+										<reg>and clypode</reg>
+									</choice>
+									<line n="18"/>
   to his geferum ⋅ Uton feallan 
-  <choice>
-    <orig>toðære</orig>
-    <reg>to ðære</reg>
-  </choice>rode 
-  <choice>
-    <orig>⁊<tironianet/>þo</orig>
-    <reg>and þo</reg>
-  </choice>
-  <line n="19"/>
+  
+									<choice>
+										<orig>toðære</orig>
+										<reg>to ðære</reg>
+									</choice>rode 
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>þo
+										</orig>
+										<reg>and þo</reg>
+									</choice>
+									<line n="19"/>
   ne ælmihtigan biddan 
-  <choice>
-    <abbr>ꝥ<thornwithstroke/></abbr>
-    <expan>þæt</expan>
-  </choice>he us ahredde wið þone mo
-  <line n="20"/>
+  
+									<choice>
+										<abbr>ꝥ
+											<thornwithstroke/>
+										</abbr>
+										<expan>þæt</expan>
+									</choice>he us ahredde wið þone mo
+  
+									<line n="20"/>
   digan feond 
-  <choice>
-    <orig>þeus</orig>
-    <reg>þe us</reg>
-  </choice>afẏllan wile ⋅ god sẏlf wat gea
-  <line n="21"/>
+  
+									<choice>
+										<orig>þeus</orig>
+										<reg>þe us</reg>
+									</choice>afẏllan wile ⋅ god sẏlf wat gea
+  
+									<line n="21"/>
   re  
-  <choice>
-    <orig>ꝥ<thornwithstroke/>we</orig>
-    <reg>þæt we</reg>
-  </choice>winnað rihtlice wið þẏsne reðan cẏning
-  <line n="22"/>
+  
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>we
+										</orig>
+										<reg>þæt we</reg>
+									</choice>winnað rihtlice wið þẏsne reðan cẏning
+  
+									<line n="22"/>
   to ahreddenne ure leode ⋅
-  <choice>
-    <orig>Hifeollon</orig>
-    <reg>Hi feollon</reg>
-  </choice>þa ealle
-  <line n="23"/>
-  mid oswolde: <add @place="above">:cyninge</add>
-  <choice>
-    <orig>ongebedum</orig>
-    <reg>on gebedum</reg>
-  </choice>⋅ 
-  <choice>
-    <orig>⁊<tironianet/>sẏþþan</orig>
-    <reg>and sẏþþan</reg>
-  </choice>
-  <choice>
-    <orig>onoðerne</orig>
-    <reg>on oðerne</reg>
-  </choice> 
-  <line n="24"/>
-  me<add @place="above">r</add>gen eodon 
-  <choice>
-    <orig>toþam</orig>
-    <reg>to þam</reg>
-  </choice> gefeohte ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>gewunnon</orig>
-    <reg>and gewunnon</reg>
-  </choice> þær 
-  <line n="25"/>
-  sige swa swa se: <add @place="above">:eall</add> wealdend hi<add @place="above">eo</add>m uðe ⋅for oswoldes ge
-  <line n="26"/>
+  
+									<choice>
+										<orig>Hifeollon</orig>
+										<reg>Hi feollon</reg>
+									</choice>þa ealle
+  
+									<line n="23"/>
+  mid oswolde: 
+									<add place="above">:cyninge</add>
+									<choice>
+										<orig>ongebedum</orig>
+										<reg>on gebedum</reg>
+									</choice>⋅ 
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>sẏþþan
+										</orig>
+										<reg>and sẏþþan</reg>
+									</choice>
+									<choice>
+										<orig>onoðerne</orig>
+										<reg>on oðerne</reg>
+									</choice>
+									<line n="24"/>
+  me
+									<add place="above">r</add>gen eodon 
+  
+									<choice>
+										<orig>toþam</orig>
+										<reg>to þam</reg>
+									</choice> gefeohte ⋅ 
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>gewunnon
+										</orig>
+										<reg>and gewunnon</reg>
+									</choice> þær 
+  
+									<line n="25"/>
+  sige swa swa se: 
+									<add place="above">:eall</add> wealdend hi
+									<add place="above">eo</add>m uðe ⋅for oswoldes ge
+  
+									<line n="26"/>
   leafan ⋅
-  <choice>
-    <orig>⁊<tironianet/>aledon</orig>
-    <reg>and aledon</reg>
-  </choice> heora fẏnd þone modigan ced
- <line n="27"/> 
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>aledon
+										</orig>
+										<reg>and aledon</reg>
+									</choice> heora fẏnd þone modigan ced
+ 
+									<line n="27"/> 
  wallan mid his micclan werode ⋅ 
- <choice>
-    <orig>þewende</orig>
-    <reg>þe wende</reg>
- </choice> 
- <choice>
-    <orig>ꝥ<thornwithstroke/>hi<macron/></orig>
-    <reg>þæt him</reg>
- </choice>
- <line n="28"/>
+ 
+									<choice>
+										<orig>þewende</orig>
+										<reg>þe wende</reg>
+									</choice>
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>hi
+											<macron/>
+										</orig>
+										<reg>þæt him</reg>
+									</choice>
+									<line n="28"/>
  ne mihte nan werod wiðstandan ⋅ Seo ẏlce rod
- <line n="29"/>
+ 
+									<line n="29"/>
  siððan þe oswold þær arærde 
- <choice>
-    <orig>onworðmẏnte</orig>
-    <reg>on worðmẏnte</reg>
- </choice> þær
- <line n="30"/>
+ 
+									<choice>
+										<orig>onworðmẏnte</orig>
+										<reg>on worðmẏnte</reg>
+									</choice> þær
+ 
+									<line n="30"/>
  stod⋅ 
-  <choice>
-    <orig>⁊<tironianet/>wurdon</orig>
-    <reg>and wurdon</reg>
-  </choice> fela gehælde untrumra manna 
-  <line n="31"/>
-  <choice>
-    <orig>⁊<tironianet/>eacswilce</orig>
-    <reg>and eac swilce</reg>
-  </choice> nẏtena þurh ða ẏlcan rode ⋅ swa
-  <line n="32"/>
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>wurdon
+										</orig>
+										<reg>and wurdon</reg>
+									</choice> fela gehælde untrumra manna 
+  
+									<line n="31"/>
+									<choice>
+										<orig>⁊
+											<tironianet/>eacswilce
+										</orig>
+										<reg>and eac swilce</reg>
+									</choice> nẏtena þurh ða ẏlcan rode ⋅ swa
+  
+									<line n="32"/>
   swa us rehte beda ⋅ Sum man feoll 
-  <choice>
-    <orig>onise</orig>
-    <reg>on ise</reg>
-  </choice>
-  <choice>
-    <orig>ꝥ<thornwithstroke/>his</orig>
-    <reg>þæt his</reg>
-  </choice>
-  <line n="33"/>
+  
+									<choice>
+										<orig>onise</orig>
+										<reg>on ise</reg>
+									</choice>
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>his
+										</orig>
+										<reg>þæt his</reg>
+									</choice>
+									<line n="33"/>
   earm tobærst ⋅
-  <choice> 
-    <orig>⁊<tironianet/>læg</orig>
-    <reg>and læg</reg>
-  </choice> þa 
-  <choice>
-    <orig>onbedde</orig>
-    <reg>on bedde</reg>
-  </choice> gebrocod forðear
-  <line n="34"/> 
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>læg
+										</orig>
+										<reg>and læg</reg>
+									</choice> þa 
+  
+									<choice>
+										<orig>onbedde</orig>
+										<reg>on bedde</reg>
+									</choice> gebrocod forðear
+  
+									<line n="34"/> 
   le 
-  <choice> 
-    <orig>oðꝥ<thornwithstroke/>man</orig>
-    <reg>oð þæt man</reg>
-  </choice>him fette 
-  <choice>
-    <orig>ofðære</orig>
-    <reg>of ðære</reg>
-  </choice> foresædan rode ⋅	
-  <line n="35"/>
+  
+									<choice>
+										<orig>oðꝥ
+											<thornwithstroke/>man
+										</orig>
+										<reg>oð þæt man</reg>
+									</choice>him fette 
+  
+									<choice>
+										<orig>ofðære</orig>
+										<reg>of ðære</reg>
+									</choice> foresædan rode ⋅	
+  
+									<line n="35"/>
   sumne dæl þæs meoses 
-  <choice> 
-    <orig>þeheo</orig>
-    <reg>þe heo</orig>
-  </choice>mid beweaxen wæs⋅
-  <line n="36"/>
-  <choice>
-    <orig>⁊<tironianet/>seadliga</orig>
-    <reg>and se adliga</reg>
-  </choice>sona 
-  <choice>
-    <orig>onslæpe</orig>
-   <reg>on slæpe</reg>
-  </choice> wearð gehæled 
-  <choice>
-    <orig>onðære</orig>
-    <reg>on ðære</reg>
-  </choice> 
-  <line n="37"/>
-  <choice>
-    <orig>ẏlcannihte</orig>
-    <reg>ẏlcan nihte</reg>
-  </choice> þurh oswoldes 
-  <choice> 
-    <abbr>geearnung<add @place =“inline”>u<macron/></add></abbr>
-    <expan>geearnungum</expan> 
-  </choice>
-  <choice>
-    <orig>seostow</orig>
-    <reg>seo stow</reg>
-  </choice> 
-  <line n="38"/>
+  
+									<choice>
+										<orig>þeheo</orig>
+										<reg>þe heo
+										</orig>
+									</choice>mid beweaxen wæs⋅
+  
+									<line n="36"/>
+									<choice>
+										<orig>⁊
+											<tironianet/>seadliga
+										</orig>
+										<reg>and se adliga</reg>
+									</choice>sona 
+  
+									<choice>
+										<orig>onslæpe</orig>
+										<reg>on slæpe</reg>
+									</choice> wearð gehæled 
+  
+									<choice>
+										<orig>onðære</orig>
+										<reg>on ðære</reg>
+									</choice>
+									<line n="37"/>
+									<choice>
+										<orig>ẏlcannihte</orig>
+										<reg>ẏlcan nihte</reg>
+									</choice> þurh oswoldes 
+  
+									<choice>
+										<abbr>geearnung
+											<add place="inline">u
+												<macron/>
+											</add>
+										</abbr>
+										<expan>geearnungum</expan>
+									</choice>
+									<choice>
+										<orig>seostow</orig>
+										<reg>seo stow</reg>
+									</choice>
+									<line n="38"/>
   is gehaten  heofon feld 
-  <choice>
-    <orig>onenglisc</orig>
-    <reg>on englisc</reg>
-  </choice> ⋅ wið þone langan 
-  <line n="39"/>
+  
+									<choice>
+										<orig>onenglisc</orig>
+										<reg>on englisc</reg>
+									</choice> ⋅ wið þone langan 
+  
+									<line n="39"/>
   weall 
-  <choice>
-    <orig>þeþa</orig>
-    <reg>þe þa</reg>
-  </choice> romaniscan worhtan 
-  <choice>
-    <orig>þærþær</orig>
-    <reg>þær þær</reg>
-  </choice> oswold 
-  <line n="40"/>
-  ofer wan<add place="inline">n</add> þone wælhreowan cẏnincg ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>þær</orig>
-    <reg>and þær</reg>
-  </choice>wearð 
-  <line n="41"/>
+  
+									<choice>
+										<orig>þeþa</orig>
+										<reg>þe þa</reg>
+									</choice> romaniscan worhtan 
+  
+									<choice>
+										<orig>þærþær</orig>
+										<reg>þær þær</reg>
+									</choice> oswold 
+  
+									<line n="40"/>
+  ofer wan
+									<add place="inline">n</add> þone wælhreowan cẏnincg ⋅ 
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>þær
+										</orig>
+										<reg>and þær</reg>
+									</choice>wearð 
+  
+									<line n="41"/>
   siþþan aræred swiðe mære cẏrce gode 
-  <choice>
-    <orig>towurð</orig>
-    <reg>to wurð</reg>
-  </choice>
-  <line n="42"/>
+  
+									<choice>
+										<orig>towurð</orig>
+										<reg>to wurð</reg>
+									</choice>
+									<line n="42"/>
   mẏnte þe wunað a 
-  <choice>
-    <orig>onecnẏsse</orig>
-    <reg>on ecnẏsse</reg>
-  </choice> ⋅
-  <choice>
-    <orig>Hwaetða</orig>
-    <reg>Hwaet ða</reg>
-  </choice> oswold 
-  <line n="43"/>
+  
+									<choice>
+										<orig>onecnẏsse</orig>
+										<reg>on ecnẏsse</reg>
+									</choice> ⋅
+  
+									<choice>
+										<orig>Hwaetða</orig>
+										<reg>Hwaet ða</reg>
+									</choice> oswold 
+  
+									<line n="43"/>
   ongann embe godes willan 
-  <choice>
-    <orig>tosmeagenne</orig>
-    <reg>to smeagenne</reg>
-  </choice> sona 
-  <line n="44"/>
+  
+									<choice>
+										<orig>tosmeagenne</orig>
+										<reg>to smeagenne</reg>
+									</choice> sona 
+  
+									<line n="44"/>
   swa he rices geweold ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>wolde</orig>
-    <reg>and wolde</reg>
-  </choice> gebigan his leoda 
-  <line n="45"/>
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>wolde
+										</orig>
+										<reg>and wolde</reg>
+									</choice> gebigan his leoda 
+  
+									<line n="45"/>
   to geleafan 
-  <choice>
-    <orig>⁊<tironianet/>to</orig>
-    <reg>and to</reg>
-  </choice> þam lifigendan gode ⋅
-  <choice>
-    <orig>sendeða</orig>
-    <reg>sende ða</reg>
-  </choice> 
-  <line n="46"/>
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>to
+										</orig>
+										<reg>and to</reg>
+									</choice> þam lifigendan gode ⋅
+  
+									<choice>
+										<orig>sendeða</orig>
+										<reg>sende ða</reg>
+									</choice>
+									<line n="46"/>
   to scotlande þær 
-  <choice>
-   <orig>segeleafa</orig>
-   <reg>se geleafa</reg>
-  </choice> 
- <choice>
-    <orig>wæsða</orig>
-    <reg>wæs ða</reg>
- </choice>⋅ 
- <choice>
-    <orig>⁊<tironianet/>bædðahea</orig>
-    <reg>and bæd ða hea</reg>
- </choice>
- <line n="47"/>
+  
+									<choice>
+										<orig>segeleafa</orig>
+										<reg>se geleafa</reg>
+									</choice>
+									<choice>
+										<orig>wæsða</orig>
+										<reg>wæs ða</reg>
+									</choice>⋅ 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>bædðahea
+										</orig>
+										<reg>and bæd ða hea</reg>
+									</choice>
+									<line n="47"/>
  fodmenn
- <choice>
-    <orig>ꝥ<thornwithstroke/>hi</orig>
-    <reg>þæt hi</reg>
- </choice> his benum <add place="above">ge</add>tiþodon ⋅ 
- <choice>
-   <orig>⁊<tironianet/>him</orig>
-    <reg>and him</reg>
- </choice> sumne 
- <line n="48"/>
+ 
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>hi
+										</orig>
+										<reg>þæt hi</reg>
+									</choice> his benum 
+									<add place="above">ge</add>tiþodon ⋅ 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>him
+										</orig>
+										<reg>and him</reg>
+									</choice> sumne 
+ 
+									<line n="48"/>
  lareow sendon 
- <choice>
-    <orig>þehis</orig>
-    <reg>þe his</reg>
- </choice>leoda mihte 
- <choice>
-    <orig>togode</orig>
-    <reg>to gode</reg>
- </choice> gewe
- <line n="49"/>
+ 
+									<choice>
+										<orig>þehis</orig>
+										<reg>þe his</reg>
+									</choice>leoda mihte 
+ 
+									<choice>
+										<orig>togode</orig>
+										<reg>to gode</reg>
+									</choice> gewe
+ 
+									<line n="49"/>
  man ⋅
- <choice>
-    <orig>⁊<tironianet/>him</orig>
-    <reg>and him</reg>
- </choice> wearð þæs getiþod ⋅ 
- <choice>
-    <orig>Hisendon</orig>
-    <reg>Hi sendon</reg>
- </choice> þa 
- <line n="50"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>him
+										</orig>
+										<reg>and him</reg>
+									</choice> wearð þæs getiþod ⋅ 
+ 
+									<choice>
+										<orig>Hisendon</orig>
+										<reg>Hi sendon</reg>
+									</choice> þa 
+ 
+									<line n="50"/>
  sona 
- <choice>
-    <orig>þamge sæligan</orig>
-    <reg>þam gesæligan</reg>
- </choice> cẏninge sumne arwurðne 
- <line n="51"/> 
+ 
+									<choice>
+										<orig>þamge sæligan</orig>
+										<reg>þam gesæligan</reg>
+									</choice> cẏninge sumne arwurðne 
+ 
+									<line n="51"/> 
  bisceop aidan gehaten ⋅ 
- <choice>
-    <orig>sewæsmæres</orig>
-    <reg>se wæs mæres</reg>
- </choice> lifes man <add place="margin">Bishop Aydan</add>
- <line n="52"/>
+ 
+									<choice>
+										<orig>sewæsmæres</orig>
+										<reg>se wæs mæres</reg>
+									</choice> lifes man 
+									<add place="margin">Bishop Aydan</add>
+									<line n="52"/>
  on munuclicre drohtnunge ⋅ 
- <choice>
-    <orig>⁊<tironianet/>he</orig>
-    <reg>and he</reg>
- </choice> ealle woruld
- <line n="53"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>he
+										</orig>
+										<reg>and he</reg>
+									</choice> ealle woruld
+ 
+									<line n="53"/>
  cara awearp fram his heortan nanes þinges
- <line n="54"/>
+ 
+									<line n="54"/>
  wilnigende butan godes willan ⋅ Swa hwæt swa
- <line n="55"/>
+ 
+									<line n="55"/>
  him becom 
- <choice>
-    <orig>ofþæs</orig>
-    <reg>of þæs</reg>
- </choice> cẏninges gifum ⋅ oððe ricra 
- <line n="56"/>
+ 
+									<choice>
+										<orig>ofþæs</orig>
+										<reg>of þæs</reg>
+									</choice> cẏninges gifum ⋅ oððe ricra 
+ 
+									<line n="56"/>
  manna 
- <choice>
-    <orig>ꝥ<thornwithstroke/>hehraðe</orig>
-    <reg>þæt he hraðe</reg>
- </choice>
+ 
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>hehraðe
+										</orig>
+										<reg>þæt he hraðe</reg>
+									</choice>
  dælde ⋅þearfum ⋅ 
- <choice>
-    <orig>⁊<tironianet/>wædlum⋅</orig>
-    <reg>and wædlum⋅</reg>
- </choice> 
- <line n="57"/>
- mid wilwillend<add place="inline">um</add> mode ⋅Hwæt ða oswold cẏning 
- <line n="58"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>wædlum⋅
+										</orig>
+										<reg>and wædlum⋅</reg>
+									</choice>
+									<line n="57"/>
+ mid wilwillend
+									<add place="inline">um</add> mode ⋅Hwæt ða oswold cẏning 
+ 
+									<line n="58"/>
  his cẏmes fægnode ⋅ 
- <choice>
-    <orig>⁊<tironianet/>hine</orig>
-    <reg>and hine</reg>
- </choice> arwurðlice under
- <line n="59"/>
- feng <del rend="scraped">⋅</del> his folce 
- <choice>
-    <orig>toðearfė</orig>
-    <reg>to ðearfė</reg>
- </choice> ⋅ 
- <choice>
-    <orig>ꝥ<thornwithstroke/>heora</orig>
-    <reg>þæt heora</reg>
- </choice> geleafa 
- <line n="60"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>hine
+										</orig>
+										<reg>and hine</reg>
+									</choice> arwurðlice under
+ 
+									<line n="59"/>
+ feng 
+									<del rend="scraped">⋅</del> his folce 
+ 
+									<choice>
+										<orig>toðearfė</orig>
+										<reg>to ðearfė</reg>
+									</choice> ⋅ 
+ 
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>heora
+										</orig>
+										<reg>þæt heora</reg>
+									</choice> geleafa 
+ 
+									<line n="60"/>
  wurde awend eft 
- <choice>
-    <orig>togode</orig>
-    <reg> to gode</reg>
- </choice> fram þam wiþersace 
- <line n="61"/>
- <choice>
-    <orig>þehi</orig>
-    <reg>þe hi</reg>
- </choice> to <del rend="scraped">
-    <gap/>
-  </del>gewende wæron ⋅ Hit gelamp 
-  <choice>
-    <orig>þaswa</orig>
-    <reg>þa swa</reg>
-  </choice>
-  <line n="62"/>
-  <choice>
-    <orig>ꝥ<thornwithstroke/>segeleaffulla</orig>
-    <reg>þæt se geleaffulla</reg>
-  </choice>
+ 
+									<choice>
+										<orig>togode</orig>
+										<reg> to gode</reg>
+									</choice> fram þam wiþersace 
+ 
+									<line n="61"/>
+									<choice>
+										<orig>þehi</orig>
+										<reg>þe hi</reg>
+									</choice> to 
+									<del rend="scraped">
+										<gap/>
+									</del>gewende wæron ⋅ Hit gelamp 
+  
+									<choice>
+										<orig>þaswa</orig>
+										<reg>þa swa</reg>
+									</choice>
+									<line n="62"/>
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>segeleaffulla
+										</orig>
+										<reg>þæt se geleaffulla</reg>
+									</choice>
  cẏning gerehte his witan on 
- <line n="63"/>
- heora agenum gereorde þæs bisceopes <del rend="scraped">ge</del>bo
- <line n="64"/>
+ 
+									<line n="63"/>
+ heora agenum gereorde þæs bisceopes 
+									<del rend="scraped">ge</del>bo
+ 
+									<line n="64"/>
  dunge mid bliþum mode. 
- <choice>
-    <orig>⁊<tironianet/>wæs</orig>
-    <reg>and wæs</reg>
- </choice> his wealhstod
- <line n="65"/>
- <choice>
-    <orig>forþan</orig>
-    <reg>for þan</reg>
- </choice> 
- <choice>
-    <orig>þehe</orig>
-    <reg>þe he</reg>
- </choice> wel cuþe scẏttysc ⋅ 
- <choice>
-    <orig>⁊<tironianet/>sebisceop</orig>
-    <reg>and se bisceop</reg>
- </choice> 
- <line n="66"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>wæs
+										</orig>
+										<reg>and wæs</reg>
+									</choice> his wealhstod
+ 
+									<line n="65"/>
+									<choice>
+										<orig>forþan</orig>
+										<reg>for þan</reg>
+									</choice>
+									<choice>
+										<orig>þehe</orig>
+										<reg>þe he</reg>
+									</choice> wel cuþe scẏttysc ⋅ 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>sebisceop
+										</orig>
+										<reg>and se bisceop</reg>
+									</choice>
+									<line n="66"/>
  aidan 
- <choice>
-    <orig>nemihte</orig>
-    <reg>ne mihte</reg>
- </choice> gebigan his spræce 
- <choice>
-    <orig>tonorðhẏm</orig>
-    <reg>to norðhẏm</reg>
- </choice>
- <line n="67"/>
+ 
+									<choice>
+										<orig>nemihte</orig>
+										<reg>ne mihte</reg>
+									</choice> gebigan his spræce 
+ 
+									<choice>
+										<orig>tonorðhẏm</orig>
+										<reg>to norðhẏm</reg>
+									</choice>
+									<line n="67"/>
  briscum gereorde swa hraþe 
- <choice>
-    <orig>þagit</orig>
-    <reg>þa git</reg>
- </choice> . 
- <choice>
-    <orig>Sebiscop</orig>
-    <reg>Se biscop</reg>
- </choice>
- <line n="68"/>
+ 
+									<choice>
+										<orig>þagit</orig>
+										<reg>þa git</reg>
+									</choice> . 
+ 
+									<choice>
+										<orig>Sebiscop</orig>
+										<reg>Se biscop</reg>
+									</choice>
+									<line n="68"/>
  þa ferde bodigende geond eall 
- <choice>
-    <sic>Norhẏmbra</sic>
-    <corr>Norðhẏmbra</corr>
- </choice>
- <line n="69"/>
+ 
+									<choice>
+										<sic>Norhẏmbra</sic>
+										<corr>Norðhẏmbra</corr>
+									</choice>
+									<line n="69"/>
  lande geleafan ⋅ 
- <choice>
-    <orig>⁊<tironianet/>fulluht</orig>
-    <reg>and fulluht</reg>
- </choice> ⋅ 
- <choice>
-    <orig>⁊<tironianet/>þaleode</orig>
-    <reg>⁊ þa leode</reg>
- </choice> gebig
- <line n="70"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>fulluht
+										</orig>
+										<reg>and fulluht</reg>
+									</choice> ⋅ 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>þaleode
+										</orig>
+										<reg>⁊ þa leode</reg>
+									</choice> gebig
+ 
+									<line n="70"/>
  de
- <choice>
-    <orig>togodes</orig>
-    <reg>to godes</reg>
- </choice> geleafan 
- <choice>
-    <orig>⁊<tironianet/>him</orig>
-    <reg>and him</reg>
- </choice> wel gebẏsnode mid 
- <line n="71"/>
+ 
+									<choice>
+										<orig>togodes</orig>
+										<reg>to godes</reg>
+									</choice> geleafan 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>him
+										</orig>
+										<reg>and him</reg>
+									</choice> wel gebẏsnode mid 
+ 
+									<line n="71"/>
  weorcum sẏmle ⋅ 
- <choice>
-    <orig>⁊<tironianet/>sẏlf</orig>
-    <reg>and sẏlf</reg>
- </choice> swa leofode 
- <choice>
-    <orig>swaswa</orig>
-    <reg>swa swa</reg>
- </choice> he 
- <line n="72"/>
- lærde oðre <del rend="scraped">
-    <gap/>
- </del>⋅ He lufode forhæfednẏsse 
- <choice>
-    <orig>⁊<tironianet/>ha</orig>
-    <reg>and ha</reg>
- </choice>
- <line n="73"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>sẏlf
+										</orig>
+										<reg>and sẏlf</reg>
+									</choice> swa leofode 
+ 
+									<choice>
+										<orig>swaswa</orig>
+										<reg>swa swa</reg>
+									</choice> he 
+ 
+									<line n="72"/>
+ lærde oðre 
+									<del rend="scraped">
+										<gap/>
+									</del>⋅ He lufode forhæfednẏsse 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>ha
+										</orig>
+										<reg>and ha</reg>
+									</choice>
+									<line n="73"/>
  lige rædinge ⋅ 
- <choice>
-    <orig>⁊<tironianet/>Iunge</orig>
-    <reg>And iunge</reg>
- </choice> men teah georne 
- <choice>
-    <orig>midlare</orig>
-    <reg>mid lare</reg>
- </choice>.
- <line n="74"/> 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>Iunge
+										</orig>
+										<reg>And iunge</reg>
+									</choice> men teah georne 
+ 
+									<choice>
+										<orig>midlare</orig>
+										<reg>mid lare</reg>
+									</choice>.
+ 
+									<line n="74"/> 
  swa 
- <choice>
-    <orig>ꝥ<thornwithstroke/></orig>
-    <reg>þæt</reg>
- </choice> ealle his geferan 
- <choice>
-    <orig>þehim</orig>
-    <reg>þe him</reg>
- </choice> mid eodon sceoldon 
- <line n="75"/>
+ 
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>
+										</orig>
+										<reg>þæt</reg>
+									</choice> ealle his geferan 
+ 
+									<choice>
+										<orig>þehim</orig>
+										<reg>þe him</reg>
+									</choice> mid eodon sceoldon 
+ 
+									<line n="75"/>
  sealmas leornian ⋅ oððe sume rædinge 
- <choice>
-    <orig>swahwi</orig>
-    <reg>swa hwi</reg>
- </choice>
- <line n="76"/>
+ 
+									<choice>
+										<orig>swahwi</orig>
+										<reg>swa hwi</reg>
+									</choice>
+									<line n="76"/>
  der swa hi ferdon þam folce bodigende ⋅ Seldon 
- <line n="77"/>
+ 
+									<line n="77"/>
  he wolde ridan ac siðode 
- <choice>
-    <orig>onhis</orig>
-    <reg>on his</reg>
- </choice> fotum 
- <choice>
-    <orig>⁊<tironianet/>munuc</orig>
-    <reg>and munuc</reg>
- </choice>
- <line n="78"/>
+ 
+									<choice>
+										<orig>onhis</orig>
+										<reg>on his</reg>
+									</choice> fotum 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>munuc
+										</orig>
+										<reg>and munuc</reg>
+									</choice>
+									<line n="78"/>
  lice leofode betwux ðam 
- <choice>
-    <abbr>læwedu<macron/></abbr>
-    <expan>læwedum</expan>
- </choice> folce ⋅ 
- <choice>
-    <orig>midmẏ</orig>
-    <reg>mid mẏ</reg>
- </choice>
- <line n="79"/>
+ 
+									<choice>
+										<abbr>læwedu
+											<macron/>
+										</abbr>
+										<expan>læwedum</expan>
+									</choice> folce ⋅ 
+ 
+									<choice>
+										<orig>midmẏ</orig>
+										<reg>mid mẏ</reg>
+									</choice>
+									<line n="79"/>
  celre gesceadwisnẏsse 
- <choice>
-    <orig>⁊<tironianet/>soþum</orig>
-    <reg>and soþum</reg>
- </choice> 
- <choice>
-    <abbr>mægnu<macron/></abbr>
-    <expan>mægnum</expan>
- </choice>⋅ 
- <choice>
-    <orig>Þawe</orig>
-    <reg>Þa we</reg>
- </choice>
- <line n="80"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>soþum
+										</orig>
+										<reg>and soþum</reg>
+									</choice>
+									<choice>
+										<abbr>mægnu
+											<macron/>
+										</abbr>
+										<expan>mægnum</expan>
+									</choice>⋅ 
+ 
+									<choice>
+										<orig>Þawe</orig>
+										<reg>Þa we</reg>
+									</choice>
+									<line n="80"/>
  arð 
- <choice>
-    <orig>secẏnincg</orig>
-    <reg>se cẏnincg</reg>
- </choice> oswold swiðe ælmes. georn ⋅ 
- <choice>
-    <orig>⁊<tironaianet/>ead</orig>
-    <reg>and ead</reg>
- </choice>
- <line n="81"/>
+ 
+									<choice>
+										<orig>secẏnincg</orig>
+										<reg>se cẏnincg</reg>
+									</choice> oswold swiðe ælmes. georn ⋅ 
+ 
+									<choice>
+										<orig>⁊
+											<tironaianet/>ead
+										</orig>
+										<reg>and ead</reg>
+									</choice>
+									<line n="81"/>
  mod 
- <choice>
-    <orig>onþeawum</orig>
-    <reg>on þeawum</reg>
- </choice> ⋅ 
- <choice>
-    <orig>⁊<tironianet/>oneallum</orig>
-    <reg>and on eallum</reg>
- </choice> þingum cẏstig ⋅ ⋅
- <choice>
-    <abbr>⁊<tironianet/></abbr>
-    <expan>and</expan>
- </choice>
- <line n=82/>
+ 
+									<choice>
+										<orig>onþeawum</orig>
+										<reg>on þeawum</reg>
+									</choice> ⋅ 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>oneallum
+										</orig>
+										<reg>and on eallum</reg>
+									</choice> þingum cẏstig ⋅ ⋅
+ 
+									<choice>
+										<abbr>⁊
+											<tironianet/>
+										</abbr>
+										<expan>and</expan>
+									</choice>
+									<line n=82/>
  man ahrærde cẏrcan 
- <choice>
-    <orig>onhis</orig>
-    <reg>on his</reg>
- </choice> rice geond eall. 
- <line n="83"/>
- <choice>
-    <orig>⁊<tironianet/>mẏnsterlice</orig>
-    <reg>and mẏnsterlice</reg>
- </choice> gesetnẏssẹ<add place="above">a</add>  mid micelre geornful
- <line n="84"/>
+ 
+									<choice>
+										<orig>onhis</orig>
+										<reg>on his</reg>
+									</choice> rice geond eall. 
+ 
+									<line n="83"/>
+									<choice>
+										<orig>⁊
+											<tironianet/>mẏnsterlice
+										</orig>
+										<reg>and mẏnsterlice</reg>
+									</choice> gesetnẏssẹ
+									<add place="above">a</add>  mid micelre geornful
+ 
+									<line n="84"/>
  nẏsse ⋅ Hit gelamp 
- <choice>
-    <orig>onsumne</orig>
-    <reg>on sumne</reg>
- </choice> sæl 
- <choice>
-    <orig>ꝥ<thornwithstroke/>hi</orig>
-    <reg>þæt hi</reg>
- </choice> sæton æt
- <line n="85"/>
+ 
+									<choice>
+										<orig>onsumne</orig>
+										<reg>on sumne</reg>
+									</choice> sæl 
+ 
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>hi
+										</orig>
+										<reg>þæt hi</reg>
+									</choice> sæton æt
+ 
+									<line n="85"/>
  gædere ⋅ oswold ⋅ 
- <choice>
-    <orig>⁊<tironianet/>aidan</orig>
-    <reg>and aidan</reg>
- </choice> ⋅ 
- <choice>
-    <orig>onþam</orig>
-    <reg>on þam</reg>
- </choice> halgan eastėr
- <line n="86"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>aidan
+										</orig>
+										<reg>and aidan</reg>
+									</choice> ⋅ 
+ 
+									<choice>
+										<orig>onþam</orig>
+										<reg>on þam</reg>
+									</choice> halgan eastėr
+ 
+									<line n="86"/>
  dæge ⋅ Þa bær man þam cẏninge cynelice þenun
- <line n="87"/>
+ 
+									<line n="87"/>
  ga on anum sẏlfrenan disce ⋅ 
- <choice>
-    <orig>⁊<tironianet/>sona</orig>
-    <reg>and sona</reg>
- </choice> þa inn 
- <line n="88"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>sona
+										</orig>
+										<reg>and sona</reg>
+									</choice> þa inn 
+ 
+									<line n="88"/>
  eode 
- <choice>
-    <orig>anþæs</orig>
-    <reg>an þæs</reg>
- </choice> cẏninges þenga  
- <choice>
-    <orig>þehis</orig>
-    <reg>þe his</reg>
- </choice> ælmẏssan 
- <line n="89"/>
+ 
+									<choice>
+										<orig>anþæs</orig>
+										<reg>an þæs</reg>
+									</choice> cẏninges þenga  
+ 
+									<choice>
+										<orig>þehis</orig>
+										<reg>þe his</reg>
+									</choice> ælmẏssan 
+ 
+									<line n="89"/>
  bewiste ⋅ 
- <choice>
-    <orig>⁊<tironianet/>sæde</orig>
-    <reg>and sæde</reg>
- </choice> 
- <choice>
-    <orig>ꝥ<thornwithstroke/>fela</orig>
-    <reg>þæt fela</reg>
- </choice> þearfan sætan geond þa 
- <line n="90"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>sæde
+										</orig>
+										<reg>and sæde</reg>
+									</choice>
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>fela
+										</orig>
+										<reg>þæt fela</reg>
+									</choice> þearfan sætan geond þa 
+ 
+									<line n="90"/>
  stræt ⋅ gehwanon cumene 
- <choice>
-    <orig>toþæs</orig>
-    <reg>to þæs</reg>
- </choice> cẏninges ælmẏs
- <line n="91"/>
+ 
+									<choice>
+										<orig>toþæs</orig>
+										<reg>to þæs</reg>
+									</choice> cẏninges ælmẏs
+ 
+									<line n="91"/>
  san ⋅ Þa sende 
- <choice>
-    <orig>secẏning</orig>
-    <reg>se cẏning</reg>
- </choice> sona þam 
- <chocie>
-    <abbr>þearfu<macron/></abbr>
-    <expan>þearfum</expan>
- </chocie> þo
- <line n="92"/>
+ 
+									<choice>
+										<orig>secẏning</orig>
+										<reg>se cẏning</reg>
+									</choice> sona þam 
+ 
+									<chocie>
+										<abbr>þearfu
+											<macron/>
+										</abbr>
+										<expan>þearfum</expan>
+									</chocie> þo
+ 
+									<line n="92"/>
  ne sẏlfrenan disc 
- <choice>
-    <orig>midsande</orig>
-    <reg>mid sande</reg>
- </choice>
- <choice>
-    <orig>midealle</orig>
-    <reg>mid ealle</reg>
- </choice> ⋅ 
- <choice>
-    <orig>⁊<tironianet/>het</orig>
-    <reg>and het</reg>
- </choice> 
- <line n="93"/>
- <choice>
-    <orig>to ceorfan</orig>
-    <reg>toceorfan</reg>
- </choice> þone disc ⋅  
- <chocie>
-    <orig>⁊<tironianet/>sẏllan</orig>
-    <reg>and sẏllan</reg>
- </chocie> þam 
- <choice>
-    <abbr>þearfu<macron/></abbr>
-    <expan>þearfum</expan>
- </choice> heo
- <line n="94"/> 
+ 
+									<choice>
+										<orig>midsande</orig>
+										<reg>mid sande</reg>
+									</choice>
+									<choice>
+										<orig>midealle</orig>
+										<reg>mid ealle</reg>
+									</choice> ⋅ 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>het
+										</orig>
+										<reg>and het</reg>
+									</choice>
+									<line n="93"/>
+									<choice>
+										<orig>to ceorfan</orig>
+										<reg>toceorfan</reg>
+									</choice> þone disc ⋅  
+ 
+									<chocie>
+										<orig>⁊
+											<tironianet/>sẏllan
+										</orig>
+										<reg>and sẏllan</reg>
+									</chocie> þam 
+ 
+									<choice>
+										<abbr>þearfu
+											<macron/>
+										</abbr>
+										<expan>þearfum</expan>
+									</choice> heo
+ 
+									<line n="94"/> 
  ra ælcum his dæl ⋅ 
- <choice>
-    <orig>⁊<tironianet/>mandẏdeða</orig>
-    <reg>and man dẏde ða</reg>
- </choice> swa ⋅ Þa ge
- <line n="95"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>mandẏdeða
+										</orig>
+										<reg>and man dẏde ða</reg>
+									</choice> swa ⋅ Þa ge
+ 
+									<line n="95"/>
  nam aidanus 
- <choice>
-    <orig>seæðela</orig>
-    <reg>se æðela</reg>
- </choice> bisceop þæs cẏninges swẏ
- <line n="96"/>
+ 
+									<choice>
+										<orig>seæðela</orig>
+										<reg>se æðela</reg>
+									</choice> bisceop þæs cẏninges swẏ
+ 
+									<line n="96"/>
  þran hand 
- <choice>
-    <orig>midswiðlicre</orig>
-    <reg>mid swiðlicre</reg>
- </choice> blysse 
- <chocie>
-    <orig>⁊<tironianet/>clẏpode</orig>
-    <reg>and clẏpode</reg>
- </chocie> mid 
- <line n="97"/>
+ 
+									<choice>
+										<orig>midswiðlicre</orig>
+										<reg>mid swiðlicre</reg>
+									</choice> blysse 
+ 
+									<chocie>
+										<orig>⁊
+											<tironianet/>clẏpode
+										</orig>
+										<reg>and clẏpode</reg>
+									</chocie> mid 
+ 
+									<line n="97"/>
  geleafan þus cwæðende 
- <choice>
-    <orig>himto</orig>
-    <reg>him to</reg>
- </choice> ⋅ Ne for rotige 
- <line n="98"/>
- <choice>
-    <orig>onbrosnung<add place="inline">e</add></orig>
-    <reg>on brosnunge</reg>
- </choice> 
- þ<add place="inline">ēos</add> gebletsode swẏðr<add place="inline">e</add>: <add place="above">hand.</add> 
- <choice>
-    <orig>⁊<tironianet/>him</orig>
-    <reg>and him</reg>
- </choice> eac 
- <line n="99"/>
+ 
+									<choice>
+										<orig>himto</orig>
+										<reg>him to</reg>
+									</choice> ⋅ Ne for rotige 
+ 
+									<line n="98"/>
+									<choice>
+										<orig>onbrosnung
+											<add place="inline">e</add>
+										</orig>
+										<reg>on brosnunge</reg>
+									</choice> 
+ þ
+									<add place="inline">ēos</add> gebletsode swẏðr
+									<add place="inline">e</add>: 
+									<add place="above">hand.</add>
+									<choice>
+										<orig>⁊
+											<tironianet/>him
+										</orig>
+										<reg>and him</reg>
+									</choice> eac 
+ 
+									<line n="99"/>
  swa 
- <choice>
-    <orig>ge eode</orig>
-    <reg>geeode</reg>
- </choice> ⋅ 
- <choice>
-    <orig>swaswa</orig>
-    <reg>swa swa</reg>
- </choice> aidanus him bæd ⋅ 
- <choice>
-    <orig>ꝥ<thornwithstroke/>his</orig>
-    <reg>þæt his</reg>
- </choice> 
- <line n="100"/>
+ 
+									<choice>
+										<orig>ge eode</orig>
+										<reg>geeode</reg>
+									</choice> ⋅ 
+ 
+									<choice>
+										<orig>swaswa</orig>
+										<reg>swa swa</reg>
+									</choice> aidanus him bæd ⋅ 
+ 
+									<choice>
+										<orig>ꝥ
+											<thornwithstroke/>his
+										</orig>
+										<reg>þæt his</reg>
+									</choice>
+									<line n="100"/>
  swiðre hand is gesundful oð þis ⋅ Oswoldes cẏne
- <line n="101"/>
+ 
+									<line n="101"/>
  rice wearð gerẏmed þa swẏðe ⋅ 
- <choice>
-    <orig>swaꝥ<thornwithstroke/>feower</orig>
-    <reg>swa þæt feower</reg>
- </choice>
+ 
+									<choice>
+										<orig>swaꝥ
+											<thornwithstroke/>feower
+										</orig>
+										<reg>swa þæt feower</reg>
+									</choice>
  þeoda
- <line n="102"/>
+ 
+									<line n="102"/>
  hine 
- <choice>
-    <orig>under fengon</orig>
-    <reg>underfengon</reg>
- </choice> to hlaforde ⋅ peohtas 
- <choice>
-    <orig>⁊<tironianet/>brẏt</orig>
-    <reg>and brẏt</reg>
- </choice>
- <line n="103"/>
+ 
+									<choice>
+										<orig>under fengon</orig>
+										<reg>underfengon</reg>
+									</choice> to hlaforde ⋅ peohtas 
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>brẏt
+										</orig>
+										<reg>and brẏt</reg>
+									</choice>
+									<line n="103"/>
  tas ⋅ Scottas ⋅ 
- <choice>
-    <orig>⁊<tironianet/>angle</orig>
-    <reg>and angle</reg>
- </choice> ⋅ 
- <choice>
-    <orig>swaswa</orig>
-    <reg>swa swa</reg>
- </choice> 
- <choice>
-    <orig>seælmihtiga</orig>
-    <reg>se ælmihtiga</reg>
- </choice> god 
- <line n="104"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>angle
+										</orig>
+										<reg>and angle</reg>
+									</choice> ⋅ 
+ 
+									<choice>
+										<orig>swaswa</orig>
+										<reg>swa swa</reg>
+									</choice>
+									<choice>
+										<orig>seælmihtiga</orig>
+										<reg>se ælmihtiga</reg>
+									</choice> god 
+ 
+									<line n="104"/>
  hi 
- <choice>
-    <orig>ge anlæhte</orig>
-    <reg>geanlæhte</reg>
- </choice> 
- <choice>
-    <orig>toðam</orig>
-    <reg>to ðam</reg>
- </choice> ⋅ for oswoldes 
- <choice>
-    <orig>ge earnungu<macron/></orig>
-    <reg>geearnungum</reg>
- </choice>           
- <line n="105"/>
+ 
+									<choice>
+										<orig>ge anlæhte</orig>
+										<reg>geanlæhte</reg>
+									</choice>
+									<choice>
+										<orig>toðam</orig>
+										<reg>to ðam</reg>
+									</choice> ⋅ for oswoldes 
+ 
+									<choice>
+										<orig>ge earnungu
+											<macron/>
+										</orig>
+										<reg>geearnungum</reg>
+									</choice>
+									<line n="105"/>
  þe hine æfre wurðode ⋅ He fulworhte 
- <choice>
-    <orig>oneferwic</orig>
-    <reg>on eferwic</reg>
- </choice> 
- <line n="106"/>
- <choice>
-    <abbr>ꝥ<thornwithstroke/></abbr>
-    <expan>þæt</expan>
- </choice> ænlice mẏnster 
- <choice>
-    <orig>þehis</orig>
-    <reg>þe his</reg>
- </choice> mæg eadwine ær begun
- <line n="107"/>
+ 
+									<choice>
+										<orig>oneferwic</orig>
+										<reg>on eferwic</reg>
+									</choice>
+									<line n="106"/>
+									<choice>
+										<abbr>ꝥ
+											<thornwithstroke/>
+										</abbr>
+										<expan>þæt</expan>
+									</choice> ænlice mẏnster 
+ 
+									<choice>
+										<orig>þehis</orig>
+										<reg>þe his</reg>
+									</choice> mæg eadwine ær begun
+ 
+									<line n="107"/>
  non hæfde 
- <choice>
-    <orig>⁊<tironianet/>heswanc</orig>
-    <reg>and he swanc</reg>
-  </choice> 
-  <choice>
-   <orig>forheofonan</orig>
-   <reg>for heofonan</reg>
-  </choice>rice mid 
-  <line n="108"/>
+ 
+									<choice>
+										<orig>⁊
+											<tironianet/>heswanc
+										</orig>
+										<reg>and he swanc</reg>
+									</choice>
+									<choice>
+										<orig>forheofonan</orig>
+										<reg>for heofonan</reg>
+									</choice>rice mid 
+  
+									<line n="108"/>
   singalum gebedum ⋅ swiþor þonne he hogode
-  <line n="109"/>
-  <choice>
-    <orig>huhe</orig>
-    <reg>hu he</reg>
-  </choice> geheolde 
-  <choice>
-    <orig>onworulde</orig>
-    <reg>on worulde</reg>
-  </choice> þa hwilwend lican ge
-  <line n="110"/>
+  
+									<line n="109"/>
+									<choice>
+										<orig>huhe</orig>
+										<reg>hu he</reg>
+									</choice> geheolde 
+  
+									<choice>
+										<orig>onworulde</orig>
+										<reg>on worulde</reg>
+									</choice> þa hwilwend lican ge
+  
+									<line n="110"/>
   þincðu ⋅ 
-  <choice>
-    <orig>þehe</orig>
-    <reg>þe he</reg>
-  </choice> hwonlice lufode ⋅ He wolde æfter 	
-  <line n="111"/>
+  
+									<choice>
+										<orig>þehe</orig>
+										<reg>þe he</reg>
+									</choice> hwonlice lufode ⋅ He wolde æfter 	
+  
+									<line n="111"/>
   uht sange oftost hine gebiddan ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>oncẏrcan</orig>
-    <reg>and on cẏrcan</reg>
-  </choice> 
-  <line n="112"/>
+  
+									<choice>
+										<orig>⁊
+											<tironianet/>oncẏrcan
+										</orig>
+										<reg>and on cẏrcan</reg>
+									</choice>
+									<line n="112"/>
   standan 
-  <choice>
-    <orig>onsẏndrigum</orig>
-    <reg>on sẏndrigum</reg>
-  </choice> gebedum of sunnan 
-  <line n="113"/>
+  
+									<choice>
+										<orig>onsẏndrigum</orig>
+										<reg>on sẏndrigum</reg>
+									</choice> gebedum of sunnan 
+  
+									<line n="113"/>
   up gange mid swẏðlicre onbrẏrdnẏsse ⋅
- <choice>
-   <orig><add place="inline">⁊<tironianet/></add>swa</orig>
-   <reg><add place="inline">and</add>and swa</reg>
- </choice></add>
-  <line n="114"/>
+ 
+									<choice>
+										<orig>
+											<add place="inline">⁊
+												<tironianet/>
+											</add>swa
+										</orig>
+										<reg>
+											<add place="inline">and</add>and swa
+										</reg>
+									</choice>
+								</add>
+								<line n="114"/>
   hwær swa he wæs 
-  <choice>
-    <orig>hewurðode</orig>
-    <reg>he wurðode</reg>
-  </choice> æfre god . up awen
-  <line n="115"/>
-  dum handbredum wiþ: <add place="above">þæs</add> heofones weard.
-  <choice>
-    <orig>Onþa<macron/></orig>
-    <reg>On þam</reg>
-  </choice>
-  <line n="116"/>
+  
+								<choice>
+									<orig>hewurðode</orig>
+									<reg>he wurðode</reg>
+								</choice> æfre god . up awen
+  
+								<line n="115"/>
+  dum handbredum wiþ: 
+								<add place="above">þæs</add> heofones weard.
+  
+								<choice>
+									<orig>Onþa
+										<macron/>
+									</orig>
+									<reg>On þam</reg>
+								</choice>
+								<line n="116"/>
   ẏlcan timan  com eac sum bisceop fram rome
-  <line n="117"/>
+  
+								<line n="117"/>
   bẏrig 
-  <choice>
-    <abbr>birin<tironiannote/></abbr>
-    <expan>birinus</expan>
-  </choice> gehaten ⋅ to west sexena kẏninge
-  <line n="118"/>
+  
+								<choice>
+									<abbr>birin
+										<tironiannote/>
+									</abbr>
+									<expan>birinus</expan>
+								</choice> gehaten ⋅ to west sexena kẏninge
+  
+								<line n="118"/>
   cẏnegẏls gehaten ⋅ 
-  <choice>
-    <orig>sewæsða</orig>
-    <reg>se wæs ða</reg>
-  </choice> git hæðen 
-  <choice>
-   <orig>⁊<tironianet/>eallwest</orig>
-   <reg>and eall west</reg>
-  </choice>
-  <line n="119"/>
+  
+								<choice>
+									<orig>sewæsða</orig>
+									<reg>se wæs ða</reg>
+								</choice> git hæðen 
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>eallwest
+									</orig>
+									<reg>and eall west</reg>
+								</choice>
+								<line n="119"/>
   sexena land ⋅ Birinus witodlice gewende fram ro
-  <line n="120"/>
+  
+								<line n="120"/>
   me 
-  <choice>
-    <orig>beðæs</orig>
-    <reg>be ðæs</reg>
-  </choice> papan ræde 
-  <choice>
-    <orig>þeða</orig>
-    <reg>þe ða</reg>
-  </choice> 
-  <choice>
-    <orig>onrome</orig>
-    <reg>on rome</reg>
-  </choice> wæs ⋅ 
-  <choice>
-    <abbr>⁊<tironianet/></abbr>
-    <expan>and</expan>
-  </choice>	
-  <line n="121"/>
+  
+								<choice>
+									<orig>beðæs</orig>
+									<reg>be ðæs</reg>
+								</choice> papan ræde 
+  
+								<choice>
+									<orig>þeða</orig>
+									<reg>þe ða</reg>
+								</choice>
+								<choice>
+									<orig>onrome</orig>
+									<reg>on rome</reg>
+								</choice> wæs ⋅ 
+  
+								<choice>
+									<abbr>⁊
+										<tironianet/>
+									</abbr>
+									<expan>and</expan>
+								</choice>
+								<line n="121"/>
   behet 
-  <choice>
-    <orig>ꝥ<thornwithstroke/>he</orig>
-    <reg>þæt he</reg>
-  </choice> þæt he wolde godes willan gefremman ⋅ 
-  <choice>
-    <abbr>⁊</abbr>
-    <expan>and</expan>
-  </choice> 
-  <line n="122"/>
+  
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>he
+									</orig>
+									<reg>þæt he</reg>
+								</choice> þæt he wolde godes willan gefremman ⋅ 
+  
+								<choice>
+									<abbr>⁊</abbr>
+									<expan>and</expan>
+								</choice>
+								<line n="122"/>
   bodian þam hæþenum þæs hælendes naman ⋅
-  <line n="123"/>
-  <choice>
-    <orig>⁊<tironianet/><damage>þo</damage>ne</orig>
-    <reg>and<damage>þo</damage>ne</reg>
-  </choice> soðan geleafan 
-  <choice>
-    <orig>onfẏrlenum</orig>
-    <reg>on fẏrlenum</reg>
-  </choice> landum ⋅
-  <line n="124"/>
+  
+								<line n="123"/>
+								<choice>
+									<orig>⁊
+										<tironianet/>
+										<damage>þo</damage>ne
+									</orig>
+									<reg>and
+										<damage>þo</damage>ne
+									</reg>
+								</choice> soðan geleafan 
+  
+								<choice>
+									<orig>onfẏrlenum</orig>
+									<reg>on fẏrlenum</reg>
+								</choice> landum ⋅
+  
+								<line n="124"/>
   Þa becom he 
-  <choice>
-    <orig>towest</orig>
-    <reg>to west</reg>
-  </choice> seaxan 
-  <choice>
-    <orig>þewæs</orig>
-    <reg>þe wæs</reg>
-  </choice> ða gẏt hæ
-  <line n="125"/>
+  
+								<choice>
+									<orig>towest</orig>
+									<reg>to west</reg>
+								</choice> seaxan 
+  
+								<choice>
+									<orig>þewæs</orig>
+									<reg>þe wæs</reg>
+								</choice> ða gẏt hæ
+  
+								<line n="125"/>
   þen ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>gebigde</orig>
-    <reg>and gebigde</reg>
-  </choice> þone cẏnincg kẏnegẏls to gode⋅
-  <line n="126"/>
-  <choice>
-    <orig>⁊<tironianet/>ealle</orig>
-    <reg>and ealle</reg>
-  </choice> his leode 
-  <choice>
-    <orig>togelēafan</orig>
-    <reg>to gelēafan</reg>
-  </choice> mid him ⋅  Hit ge
-  <line n="127"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>gebigde
+									</orig>
+									<reg>and gebigde</reg>
+								</choice> þone cẏnincg kẏnegẏls to gode⋅
+  
+								<line n="126"/>
+								<choice>
+									<orig>⁊
+										<tironianet/>ealle
+									</orig>
+									<reg>and ealle</reg>
+								</choice> his leode 
+  
+								<choice>
+									<orig>togelēafan</orig>
+									<reg>to gelēafan</reg>
+								</choice> mid him ⋅  Hit ge
+  
+								<line n="127"/>
   lamp þa swa 
-  <choice>
-    <orig>ꝥ<thornwithstroke/>segeleaffulla</orig>
-    <reg>þæt se geleaffulla</reg>
-  </choice> oswold norðhẏm
-  <line n="128"/>
+  
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>segeleaffulla
+									</orig>
+									<reg>þæt se geleaffulla</reg>
+								</choice> oswold norðhẏm
+  
+								<line n="128"/>
   bra cẏning wæs cumen to cẏnegẏlse ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>hine</orig>
-    <reg>and hine</reg>
-  </choice> to 
-  <line n="129"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>hine
+									</orig>
+									<reg>and hine</reg>
+								</choice> to 
+  
+								<line n="129"/>
   fulluhte nam ⋅ fægen his gecẏrred nẏsse ⋅ Þa 
-  <line n="130"/>
+  
+								<line n="130"/>
   geafon 
-  <choice>
-    <orig>þacẏnegas</orig>
-    <reg>þa cẏnegas</reg>
-  </choice> ⋅ cẏnegẏls 
-  <choice>
-    <orig>⁊<tironianet/>oswold</orig>
-    <reg>and oswold</reg>
-  </choice> þam halgan
-  <line n="131"/>
+  
+								<choice>
+									<orig>þacẏnegas</orig>
+									<reg>þa cẏnegas</reg>
+								</choice> ⋅ cẏnegẏls 
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>oswold
+									</orig>
+									<reg>and oswold</reg>
+								</choice> þam halgan
+  
+								<line n="131"/>
   birine him to bisceop stole þa burh dorcan cea
-  <line n="132"/>
+  
+								<line n="132"/>
   ster ⋅ 
-  <choice>
-    <orig>⁊<tironianet/>heþær</orig>
-    <reg>and he þær</reg>
-  </choice> binnan wunode godes lof aræren
-  <line n="133"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>heþær
+									</orig>
+									<reg>and he þær</reg>
+								</choice> binnan wunode godes lof aræren
+  
+								<line n="133"/>
   de ⋅ 
-  <choice>
-    <choice>⁊<tironianet/>geriht</choice>
-    <reg>and geriht</reg>
-  </choice> læcende
-  <choice>
-    <orig>ꝥ<thornwithstroke/>folc</orig>
-    <reg>þæt folc</reg>
-  </choice> mid lare 
-  <choice>
-    <orig>togeleafan</orig>
-    <reg>to geleafan</reg>
-  </choice> 
-  <line n="134"/>
+  
+								<choice>
+									<choice>⁊
+										<tironianet/>geriht
+									</choice>
+									<reg>and geriht</reg>
+								</choice> læcende
+  
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>folc
+									</orig>
+									<reg>þæt folc</reg>
+								</choice> mid lare 
+  
+								<choice>
+									<orig>togeleafan</orig>
+									<reg>to geleafan</reg>
+								</choice>
+								<line n="134"/>
   to langum fẏrste 
-  <choice>
-    <orig>oðꝥ<thornwithstroke/>he</orig>
-    <reg>oð þæt he</reg>
-  </choice> 
-  <choice>
-    <orig>ge sælig</orig>
-    <reg>gesælig</reg>
-  </choice> siþode to criste ⋅
-  <line n="135"/>
-  <choice>
-    <orig>⁊<tironianet/>his</orig>
-    <reg>and his</reg>
-  </choice>lic wearþ bebẏrged 
-  <choice>
-    <orig>onðære</orig>
-    <reg>on ðære</reg>
-  </choice> ẏlcan bẏrig ⋅ oð 
-  <line n="136"/>
-  <choice>
-    <orig>ꝥ<thornwithstroke/>hædde</orig>
-    <reg>þæt hædde</reg>
-  </choice> bisceop eft his ban ferode 
-  <choice>
-    <orig>towintan</orig>
-    <reg>to wintan</reg>
-  </choice>
-  <line n="137"/>
+  
+								<choice>
+									<orig>oðꝥ
+										<thornwithstroke/>he
+									</orig>
+									<reg>oð þæt he</reg>
+								</choice>
+								<choice>
+									<orig>ge sælig</orig>
+									<reg>gesælig</reg>
+								</choice> siþode to criste ⋅
+  
+								<line n="135"/>
+								<choice>
+									<orig>⁊
+										<tironianet/>his
+									</orig>
+									<reg>and his</reg>
+								</choice>lic wearþ bebẏrged 
+  
+								<choice>
+									<orig>onðære</orig>
+									<reg>on ðære</reg>
+								</choice> ẏlcan bẏrig ⋅ oð 
+  
+								<line n="136"/>
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>hædde
+									</orig>
+									<reg>þæt hædde</reg>
+								</choice> bisceop eft his ban ferode 
+  
+								<choice>
+									<orig>towintan</orig>
+									<reg>to wintan</reg>
+								</choice>
+								<line n="137"/>
   ceastre  ⋅ 
-  <chocie>
-    <orig>⁊<tironianet/>mid</orig>
-    <reg>and mid</reg>
-  </chocie> wurð mẏnte gelogode binnan eal
-  <line n="138"/>
+  
+								<chocie>
+									<orig>⁊
+										<tironianet/>mid
+									</orig>
+									<reg>and mid</reg>
+								</chocie> wurð mẏnte gelogode binnan eal
+  
+								<line n="138"/>
   dan mẏnstre ⋅ þær man hine wurðað gẏt ⋅ Hwæt 
-  <line n="139"/>
+  
+								<line n="139"/>
   þa oswold cẏning his cẏnedom geheold hlisful 
-  <line n="140"/>
+  
+								<line n="140"/>
   lice for worulde
-  <choice>
-    <orig> ⁊<tironianet/>mid</orig>
-    <reg>and mid</reg>
-  </choice> micclum 
-  <choice>
-    <orig>ge leafan</orig>
-    <reg>geleafan</reg>
-  </choice> · 
-  <choice>
-    <orig>⁊<tironianet/>on</orig>
-    <reg>and on</reg>
-  </choice>
-  <line n="141"/>
+  
+								<choice>
+									<orig> ⁊
+										<tironianet/>mid
+									</orig>
+									<reg>and mid</reg>
+								</choice> micclum 
+  
+								<choice>
+									<orig>ge leafan</orig>
+									<reg>geleafan</reg>
+								</choice> · 
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>on
+									</orig>
+									<reg>and on</reg>
+								</choice>
+								<line n="141"/>
   eallum dædum his drihten arwurðode · 
-  <choice>
-    <orig>oðꝥ<thronwithstroke/>heof</orig>
-    <reg>oð þæt he of</reg>
-  </choice>
-  <line n="142"/>
+  
+								<choice>
+									<orig>oðꝥ
+										<thronwithstroke/>heof
+									</orig>
+									<reg>oð þæt he of</reg>
+								</choice>
+								<line n="142"/>
   slagen wearð 
-  <choice>
-    <orig>forhis</orig>
-    <reg>for his</reg>
-  </choice> folces ware · 
-  <choice>
-    <orig>onþam</orig>
-    <reg>on þam</reg>
-  </choice> nigoðan
- <line n="143"/>
+  
+								<choice>
+									<orig>forhis</orig>
+									<reg>for his</reg>
+								</choice> folces ware · 
+  
+								<choice>
+									<orig>onþam</orig>
+									<reg>on þam</reg>
+								</choice> nigoðan
+ 
+								<line n="143"/>
  geare 
- <choice>
-  <orig>þehe</orig>
-  <reg>þe he</reg>
- </choice> rices <add place="inline">,</add> <add place="above">ge</add>weold · 
- <choice>
-    <orig>þaþa</orig>
-    <reg>þa þa</reg>
-  </choice> 
-  <choice>
-    <orig>hesẏlf</orig>
-    <reg>he sẏlf</reg>
-  </choice> wæs 
-  <choice>
-    <orig>onẏld<add place="inline">e</add></orig>
-    <reg>on ẏld<add place="inline">e</add></reg>
-  </choice>
- <line n="144"/>
+ 
+								<choice>
+									<orig>þehe</orig>
+									<reg>þe he</reg>
+								</choice> rices 
+								<add place="inline">,</add>
+								<add place="above">ge</add>weold · 
+ 
+								<choice>
+									<orig>þaþa</orig>
+									<reg>þa þa</reg>
+								</choice>
+								<choice>
+									<orig>hesẏlf</orig>
+									<reg>he sẏlf</reg>
+								</choice> wæs 
+  
+								<choice>
+									<orig>onẏld
+										<add place="inline">e</add>
+									</orig>
+									<reg>on ẏld
+										<add place="inline">e</add>
+									</reg>
+								</choice>
+								<line n="144"/>
  eahta 
- <choice>
-    <orig>⁊<tironianet/>þrittig</orig>
-    <reg>and þrittig</reg>
- </choice> gearẹ<add place="above">a</add> · 
- <choice>
-    <orig>Hitge</orig>
-    <reg>Hit ge</reg>
- </choice> wearð swa 
- <choice>
-    <orig>beþam</orig>
-    <reg>be þam</reg>
- </choice>    	
- <line n="145"/>
- <choice>
-    <orig>ꝥhim</orig>
-    <reg>þæt him</reg>
- </choice>him wann on penda mẏrcena cẏning 
- <choice>
-    <orig>þeæt</orig>
-    <reg>þe æt</reg>
- </choice>
- <line n="146"/>
- his mæges slege his ær eadwines cẏninges ce<add place="above">a</add>dwallan
- <line n="147"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>þrittig
+									</orig>
+									<reg>and þrittig</reg>
+								</choice> gearẹ
+								<add place="above">a</add> · 
+ 
+								<choice>
+									<orig>Hitge</orig>
+									<reg>Hit ge</reg>
+								</choice> wearð swa 
+ 
+								<choice>
+									<orig>beþam</orig>
+									<reg>be þam</reg>
+								</choice>
+								<line n="145"/>
+								<choice>
+									<orig>ꝥhim</orig>
+									<reg>þæt him</reg>
+								</choice>him wann on penda mẏrcena cẏning 
+ 
+								<choice>
+									<orig>þeæt</orig>
+									<reg>þe æt</reg>
+								</choice>
+								<line n="146"/>
+ his mæges slege his ær eadwines cẏninges ce
+								<add place="above">a</add>dwallan
+ 
+								<line n="147"/>
  fẏlste · 
- <choice>
-    <orig>⁊<tironianet/>sependa</orig>
- </choice> 
- <choice>
-    <orig>necuðe</orig>
-    <reg>ne cuðe</reg>
- </choice> 
- <choice>
-    <orig>becriste</orig>
-    <reg>be criste</reg>
- </choice> nan þincg · 
- <choice>
-    <abbr>⁊<tironianet/></abbr>
-    <expan>and</expan>
- </choice>
- <line n="148"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>sependa
+									</orig>
+								</choice>
+								<choice>
+									<orig>necuðe</orig>
+									<reg>ne cuðe</reg>
+								</choice>
+								<choice>
+									<orig>becriste</orig>
+									<reg>be criste</reg>
+								</choice> nan þincg · 
+ 
+								<choice>
+									<abbr>⁊
+										<tironianet/>
+									</abbr>
+									<expan>and</expan>
+								</choice>
+								<line n="148"/>
  eall mẏrcena folc wæs 
- <choice>
-    <orig>unge fullod</orig>
-    <reg>ungefullod</reg>
-  </choice>
-  <choice>
-    <orig>Hico</orig>
-    <reg>Hi co</reg>
-  </choice>
- <line n="149"/>
+ 
+								<choice>
+									<orig>unge fullod</orig>
+									<reg>ungefullod</reg>
+								</choice>
+								<choice>
+									<orig>Hico</orig>
+									<reg>Hi co</reg>
+								</choice>
+								<line n="149"/>
  mon þa 
- <choice>
-    <orig>togefeohte</orig>
-    <reg>to gefeohte</reg>
-  </choice> to 
-  <choice>
-    <orig>maser felda</orig>
-    <reg>maserfelda</reg>
-  </choice> begen
-  <choice>
-    <orig>⁊<tironianet/>fen</orig>
-    <reg>and fen</reg>
-  </choice>
- <line n="150"/>
+ 
+								<choice>
+									<orig>togefeohte</orig>
+									<reg>to gefeohte</reg>
+								</choice> to 
+  
+								<choice>
+									<orig>maser felda</orig>
+									<reg>maserfelda</reg>
+								</choice> begen
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>fen
+									</orig>
+									<reg>and fen</reg>
+								</choice>
+								<line n="150"/>
  gon togædere oð 
- <choice>
-    <abbr>ꝥ<thornwithstroke/></abbr>
-    <expan>þæt</expan>
- </choice> þær feollon 
- <choice>
-    <orig>þacristenan</orig>
-    <reg>þa cristenan</reg>
- </choice> · 
- <choice>
-    <orig>⁊<tironianet/>þa</orig>
-    <reg>and þa</reg>
- </choice>	
- <line n="151"/>
+ 
+								<choice>
+									<abbr>ꝥ
+										<thornwithstroke/>
+									</abbr>
+									<expan>þæt</expan>
+								</choice> þær feollon 
+ 
+								<choice>
+									<orig>þacristenan</orig>
+									<reg>þa cristenan</reg>
+								</choice> · 
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>þa
+									</orig>
+									<reg>and þa</reg>
+								</choice>
+								<line n="151"/>
  hæðenan 
- <choice>
-    <orig>ge nealæhton</orig>
-    <reg>genealæhton</reg>
- </choice> 
- <choice>
-    <orig>toþamhalgan</orig>
-    <reg>to þam halgan</reg>
- </choice> oswolde ·
- <line n="152"/>
- <choice>
-    <orig>þageseah</orig>
-    <reg>þa geseah</reg>
- </choice>he genealecan his lifes geendunge ·
- <line n="153"/>
- <choice>
-    <orig>⁊<tironianet/>gebæd</orig>
-    <reg>and gebæd</reg>
- </choice> 
- <choice>
-    <orig>forhis</orig>
-    <reg>for his</reg>
- </choice> folc 
- <choice>
-    <orig>þeþær</orig>
-    <reg>þe þær</reg>
- </choice> feallende sweolt · 
- <choice>
-    <abbr>⁊<tironianet/></abbr>
-    <expan>and</expan>
- </choice>
- <line n="154"/>
+ 
+								<choice>
+									<orig>ge nealæhton</orig>
+									<reg>genealæhton</reg>
+								</choice>
+								<choice>
+									<orig>toþamhalgan</orig>
+									<reg>to þam halgan</reg>
+								</choice> oswolde ·
+ 
+								<line n="152"/>
+								<choice>
+									<orig>þageseah</orig>
+									<reg>þa geseah</reg>
+								</choice>he genealecan his lifes geendunge ·
+ 
+								<line n="153"/>
+								<choice>
+									<orig>⁊
+										<tironianet/>gebæd
+									</orig>
+									<reg>and gebæd</reg>
+								</choice>
+								<choice>
+									<orig>forhis</orig>
+									<reg>for his</reg>
+								</choice> folc 
+ 
+								<choice>
+									<orig>þeþær</orig>
+									<reg>þe þær</reg>
+								</choice> feallende sweolt · 
+ 
+								<choice>
+									<abbr>⁊
+										<tironianet/>
+									</abbr>
+									<expan>and</expan>
+								</choice>
+								<line n="154"/>
  betæhte heora sawla 
- <choice>
-    <orig>⁊<tironianet/>hine</orig>
-    <reg>and hine</reg>
- </choice> sẏlfne gode · 
- <choice>
-    <orig>⁊<tironianet/>þus</orig>
-    <reg>and þus</reg>
- </choice>
- <line n="155"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>hine
+									</orig>
+									<reg>and hine</reg>
+								</choice> sẏlfne gode · 
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>þus
+									</orig>
+									<reg>and þus</reg>
+								</choice>
+								<line n="155"/>
  clẏpode 
- <choice>
-    <orig>onhis</orig>
-    <reg>on his</reg>
- </choice> fẏlle · God gemiltsa urum saw
- <line n="156"/>
+ 
+								<choice>
+									<orig>onhis</orig>
+									<reg>on his</reg>
+								</choice> fẏlle · God gemiltsa urum saw
+ 
+								<line n="156"/>
  lum · þa het 
- <choice>
-    <orig>sehæþena</orig>
-    <reg>se hæþena</reg>
- </choice> cẏnincg his heafod of
- <line n="157"/>
+ 
+								<choice>
+									<orig>sehæþena</orig>
+									<reg>se hæþena</reg>
+								</choice> cẏnincg his heafod of
+ 
+								<line n="157"/>
  aslean · 
- <choice>
-    <orig>⁊<tironianet/>his</orig>
-    <reg>and his</reg>
- </choice> swiðran earm · 
- <choice>
-    <orig>⁊<tironianet/>settan</orig>
-    <reg>and settan</reg>
- </choice> hi to mẏr
- <line n="158"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>his
+									</orig>
+									<reg>and his</reg>
+								</choice> swiðran earm · 
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>settan
+									</orig>
+									<reg>and settan</reg>
+								</choice> hi to mẏr
+ 
+								<line n="158"/>
  celse · þa æfter oswoldes slege feng oswig his
- <line n="159"/>
+ 
+								<line n="159"/>
  broðor to norðhẏmbra rice · 
- <choice>
-    <orig>⁊<tironianet/>rad</orig>
-    <reg>and rad</reg>
- </choice> mid werode
- <line n="160"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>rad
+									</orig>
+									<reg>and rad</reg>
+								</choice> mid werode
+ 
+								<line n="160"/>
  to þær his broðor heafod stod onstacan gefæst
- <line n="161"/>
+ 
+								<line n="161"/>
  nod · 
- <choice>
-      <oirg>⁊<tironianet/>ge nam</oirg>
-      <reg>and genam</reg>
- </choice> 
- <choice>
-      <orig>ꝥ<thornwithstroke/>heafod</orig>
-      <reg>þæt heafod</reg>
- </choice> 
- <choice>
-      <orig>⁊<tironianet/>his</orig>
- </choice> swiðran hand · 
- <choice>
-      <orig>⁊<tironianet/>mid</orig>
-      <reg>and mid</reg>
- </choice>
- <line n="162"/>
+ 
+								<choice>
+									<oirg>⁊
+										<tironianet/>ge nam
+									</oirg>
+									<reg>and genam</reg>
+								</choice>
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>heafod
+									</orig>
+									<reg>þæt heafod</reg>
+								</choice>
+								<choice>
+									<orig>⁊
+										<tironianet/>his
+									</orig>
+								</choice> swiðran hand · 
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>mid
+									</orig>
+									<reg>and mid</reg>
+								</choice>
+								<line n="162"/>
  arwurðnẏsse ferode 
- <choice>
-      <orig>tolindis</orig>
-      <reg>to lindis</reg>
-   </choice> farnea cẏrcan ·
- <line n="163"/>
- <choice>
-      <orig>þawearð</orig>
-      <reg>þa wearð</reg>
- </choice> gefẏlled swa we her fore sædon 
- <choice>
-      <orig>ꝥ<thornwithstroke/>his</orig>
-      <reg>þæt his</reg>
- </choice> ·
- <line n="164"/>
+ 
+								<choice>
+									<orig>tolindis</orig>
+									<reg>to lindis</reg>
+								</choice> farnea cẏrcan ·
+ 
+								<line n="163"/>
+								<choice>
+									<orig>þawearð</orig>
+									<reg>þa wearð</reg>
+								</choice> gefẏlled swa we her fore sædon 
+ 
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>his
+									</orig>
+									<reg>þæt his</reg>
+								</choice> ·
+ 
+								<line n="164"/>
  swiðre hand wunað hal 
- <choice>
-      <orig>midþam</orig>
-      <reg>mid þam</reg>
- </choice> flæsce. butan
- <line n="165"/>
- ælcere brosnunge swa se bisceop. <add place="above">ge</add>
- <choice>
-   <abbr>cw<macron/></abbr>
-   <expan>cwæð</expan>
- </choice>. Se earm
- <line n="166"/>
+ 
+								<choice>
+									<orig>midþam</orig>
+									<reg>mid þam</reg>
+								</choice> flæsce. butan
+ 
+								<line n="165"/>
+ ælcere brosnunge swa se bisceop. 
+								<add place="above">ge</add>
+								<choice>
+									<abbr>cw
+										<macron/>
+									</abbr>
+									<expan>cwæð</expan>
+								</choice>. Se earm
+ 
+								<line n="166"/>
  wearþ geled arwurðlice 
- <choice>
-      <orig>onscrine</orig>
-      <reg>on scrine</reg>
- </choice> 
- <choice>
-      <orig>ofseolfre</orig>
-      <reg>of seolfre</reg>
- </choice>
- <line n="167"/>
+ 
+								<choice>
+									<orig>onscrine</orig>
+									<reg>on scrine</reg>
+								</choice>
+								<choice>
+									<orig>ofseolfre</orig>
+									<reg>of seolfre</reg>
+								</choice>
+								<line n="167"/>
  asmiþod · 
- <choice>
-      <orig>onsce<macron/></orig>
-      <reg>on sancte</reg>
- </choice> petres mẏnstre binnan 
- <choice>
-      <orig>b ebban</orig>
-      <reg>bæbban</reg>
- </choice>
- <line n="168"/>
+ 
+								<choice>
+									<orig>onsce
+										<macron/>
+									</orig>
+									<reg>on sancte</reg>
+								</choice> petres mẏnstre binnan 
+ 
+								<choice>
+									<orig>b ebban</orig>
+									<reg>bæbban</reg>
+								</choice>
+								<line n="168"/>
  byrig 
- <choice>
-      <orig>beþære</orig>
-      <reg>be þære</reg>
- </choice> sæ strande · 
- <choice>
-      <orig>⁊<tironianet/>lið</orig>
-      <reg>and lið</reg>
- </choice> þær swa andsund
- <line n="169"/>
+ 
+								<choice>
+									<orig>beþære</orig>
+									<reg>be þære</reg>
+								</choice> sæ strande · 
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>lið
+									</orig>
+									<reg>and lið</reg>
+								</choice> þær swa andsund
+ 
+								<line n="169"/>
  swa he ofaslagen wæs · His broþor dohtor eft
- <line n="170"/>
+ 
+								<line n="170"/>
  siððan 
- <choice>
-      <orig>onmẏrcan</orig>
-      <reg>on mẏrcan</reg>
- </choice> wearð cwe<macron/>n · 
- <choice>
-      <orig>⁊<tironianet/>geaxode</orig>
-      <reg>and geaxode</reg>
- </choice> his	
- <line n="171"/>
- ban<macron/> · 
- <choice>
-      <orig>⁊<tironianet/>gebrohte</orig>
-      <reg>and gebrohte</reg>
- </choice> hi 
- <choice>
-      <orig>tolindes</orig>
-      <reg>to lindes</reg>
- </choice> ige 
- <choice>
-      <orig>tobar
-         <subst>
-            <del rend="scraped">
-               <gap/>
-            </del>
-            <add place="inline">d</add>
-         </subst>
-         anige</orig>
-      <reg>to bardanige</reg>
- </choice>
- <line n="172"/>
+ 
+								<choice>
+									<orig>onmẏrcan</orig>
+									<reg>on mẏrcan</reg>
+								</choice> wearð cwe
+								<macron/>n · 
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>geaxode
+									</orig>
+									<reg>and geaxode</reg>
+								</choice> his	
+ 
+								<line n="171"/>
+ ban
+								<macron/> · 
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>gebrohte
+									</orig>
+									<reg>and gebrohte</reg>
+								</choice> hi 
+ 
+								<choice>
+									<orig>tolindes</orig>
+									<reg>to lindes</reg>
+								</choice> ige 
+ 
+								<choice>
+									<orig>tobar
+         
+										<subst>
+											<del rend="scraped">
+												<gap/>
+											</del>
+											<add place="inline">d</add>
+										</subst>
+         anige
+									</orig>
+									<reg>to bardanige</reg>
+								</choice>
+								<line n="172"/>
  mẏnstre þe heo micclum lufode · ac 
- <choice>
-      <orig>þamẏnster</orig>
-      <reg>þa mẏnster</reg>
- </choice>
- <line n="173"/>
+ 
+								<choice>
+									<orig>þamẏnster</orig>
+									<reg>þa mẏnster</reg>
+								</choice>
+								<line n="173"/>
  menn noldon for menniscum gedwẏlde þone
- <line n="174"/>
+ 
+								<line n="174"/>
  sanct 
- <choice>
-      <orig>under fon</orig>
-      <reg>underfon</reg>
- </choice> · ac man sloh 
- <choice>
-      <orig>ange teld</orig>
-      <reg>an geteld</reg>
- </choice> ofer
- <line n="175"/>
- þa halgan ban<macron/> binnan þære licr<del rend="scraped">a</del>este · Hwæt
- <line n="176"/>
+ 
+								<choice>
+									<orig>under fon</orig>
+									<reg>underfon</reg>
+								</choice> · ac man sloh 
+ 
+								<choice>
+									<orig>ange teld</orig>
+									<reg>an geteld</reg>
+								</choice> ofer
+ 
+								<line n="175"/>
+ þa halgan ban
+								<macron/> binnan þære licr
+								<del rend="scraped">a</del>este · Hwæt
+ 
+								<line n="176"/>
  þa god 
- <choice>
-      <orig>ge swutelode</orig>
-      <reg>geswutelode</reg>
- </choice> 
- <choice>
-      <orig>ꝥ<thornwithstroke/>hehalig</orig>
-      <reg>þæt he halig</reg>
- </choice> sanct wæs · 
- <choice>
-      <orig>swaꝥ<thornwithstroke/></orig>
-      <reg>swa þæt</reg>
- </choice>
- <line n="177"/>
- heofon: <add place="above">lic</add>leoht ofer 
- <choice>
-      <abbr>ꝥ<thornwithstroke/></abbr>
-      <expan>þæt </expan>
- </choice>ge<del rend="scraped"><gap/></del>teld astr<del rend="scraped">a</del>eht stod up to
- <line n="178"/>
+ 
+								<choice>
+									<orig>ge swutelode</orig>
+									<reg>geswutelode</reg>
+								</choice>
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>hehalig
+									</orig>
+									<reg>þæt he halig</reg>
+								</choice> sanct wæs · 
+ 
+								<choice>
+									<orig>swaꝥ
+										<thornwithstroke/>
+									</orig>
+									<reg>swa þæt</reg>
+								</choice>
+								<line n="177"/>
+ heofon: 
+								<add place="above">lic</add>leoht ofer 
+ 
+								<choice>
+									<abbr>ꝥ
+										<thornwithstroke/>
+									</abbr>
+									<expan>þæt </expan>
+								</choice>ge
+								<del rend="scraped">
+									<gap/>
+								</del>teld astr
+								<del rend="scraped">a</del>eht stod up to
+ 
+								<line n="178"/>
  heofonum swilce healic 
- <choice>
-      <orig>sunn beam</orig>
-      <reg>sunnbeam</reg>
- </choice> ofer ealle ða
- <line n="179"/>
+ 
+								<choice>
+									<orig>sunn beam</orig>
+									<reg>sunnbeam</reg>
+								</choice> ofer ealle ða
+ 
+								<line n="179"/>
  niht · 
- <choice>
-      <orig>⁊<tironianet/>þa</orig>
-      <reg>and þa</reg>
- </choice> leoda beheoldon geond ealle þa scire        
- <line n="180"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>þa
+									</orig>
+									<reg>and þa</reg>
+								</choice> leoda beheoldon geond ealle þa scire        
+ 
+								<line n="180"/>
  swiðe wundrigende · þa wurdon þa 
- <choice>
-      <orig>mẏnster men</orig>
-      <reg>mẏnstermen</reg>
- </choice>	
- <line n="181"/>
+ 
+								<choice>
+									<orig>mẏnster men</orig>
+									<reg>mẏnstermen</reg>
+								</choice>
+								<line n="181"/>
  micclum afẏrhte · 
- <choice>
-      <orig>⁊<tironianet/>bædon</orig>
-      <reg>and bædon</reg> 
-   </choice> þæs onmergen 
-   <choice>
-      <orig>ꝥ<thornwithstroke/>hi</orig>
-      <reg>þæt hi</reg>
-   </choice>
-   <line n="182"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>bædon
+									</orig>
+									<reg>and bædon</reg>
+								</choice> þæs onmergen 
+   
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>hi
+									</orig>
+									<reg>þæt hi</reg>
+								</choice>
+								<line n="182"/>
    moston þone sanct 
-   <choice>
-      <orig>midarwurðnẏsse</orig>
-      <reg>mid arwurðnẏsse</reg>
-   </choice> underfon ·
-   <line n="183"/>
+   
+								<choice>
+									<orig>midarwurðnẏsse</orig>
+									<reg>mid arwurðnẏsse</reg>
+								</choice> underfon ·
+   
+								<line n="183"/>
    þone 
-   <choice>
-      <orig>þehi</orig>
-      <reg>þe hi</reg>
-   </choice> ær forsocon · þa ðwōh man þa halgan
-  <line n="184"/>
+   
+								<choice>
+									<orig>þehi</orig>
+									<reg>þe hi</reg>
+								</choice> ær forsocon · þa ðwōh man þa halgan
+  
+								<line n="184"/>
  bān 
- <choice>
-      <orig>⁊<tironianet/>bær</orig>
-      <reg>and bær</reg>
- </choice> into þære cẏrcan arwurðice 
- <choice>
-      <orig>onscrine</orig>
-      <reg>on scrine</reg>
- </choice> ·
-  <line n="185"/>
-  <choice>
-      <orig>⁊<tironianet/>gelogodon</orig>
-      <reg>and gelogodon</reg>
-  </choice>hi upp · 
-  <choice>
-      <orig>⁊<tironianet/>þær</orig>
-      <reg>and þær</reg>
-  </choice> wurdon gehælede þurh
-  <line n="186"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>bær
+									</orig>
+									<reg>and bær</reg>
+								</choice> into þære cẏrcan arwurðice 
+ 
+								<choice>
+									<orig>onscrine</orig>
+									<reg>on scrine</reg>
+								</choice> ·
+  
+								<line n="185"/>
+								<choice>
+									<orig>⁊
+										<tironianet/>gelogodon
+									</orig>
+									<reg>and gelogodon</reg>
+								</choice>hi upp · 
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>þær
+									</orig>
+									<reg>and þær</reg>
+								</choice> wurdon gehælede þurh
+  
+								<line n="186"/>
   his halgan geearnunge fela mettrume menn 
-  <choice>
-      <abbr>fra<macron/></abbr>
-      <expan>fram</expan>
-  </choice>
- <line n="187"/>
+  
+								<choice>
+									<abbr>fra
+										<macron/>
+									</abbr>
+									<expan>fram</expan>
+								</choice>
+								<line n="187"/>
  mislicum coþum · 
- <choice>
-      <abbr>ꝥ<thornwithstroke/></abbr>
-      <expan>þæt</expan>
- </choice> wæter 
- <choice>
-      <orig>þeman</orig>
-      <reg>þe man</reg>
- </choice>  þa mid
-  <line n="188"/>
+ 
+								<choice>
+									<abbr>ꝥ
+										<thornwithstroke/>
+									</abbr>
+									<expan>þæt</expan>
+								</choice> wæter 
+ 
+								<choice>
+									<orig>þeman</orig>
+									<reg>þe man</reg>
+								</choice>  þa mid
+  
+								<line n="188"/>
   aþwoh binnan þære cẏrcan wearð agoten swa
   
- <line n="189"/>
+ 
+								<line n="189"/>
  on anre hẏrnan · 
- <choice>
-      <orig>⁊<tironianet/>seo</orig>
-      <reg>and seo</reg>
- </choice> eorðe siþþan 
- <choice>
-      <orig>þeꝥ<thornwithstroke/>wæter</orig>
-      <reg>þe þæt wæter</reg>
- </choice>
-  <line n="190"/>
-  <choice>
-      <orig>under feng</orig>
-      <reg>underfeng</reg>
-  </choice> wearð manegum 
-  <choice>
-      <orig>tobote</orig>
-      <reg>to bote</reg>
-  </choice> · Mid þam
-  <line n="191"/>
+ 
+								<choice>
+									<orig>⁊
+										<tironianet/>seo
+									</orig>
+									<reg>and seo</reg>
+								</choice> eorðe siþþan 
+ 
+								<choice>
+									<orig>þeꝥ
+										<thornwithstroke/>wæter
+									</orig>
+									<reg>þe þæt wæter</reg>
+								</choice>
+								<line n="190"/>
+								<choice>
+									<orig>under feng</orig>
+									<reg>underfeng</reg>
+								</choice> wearð manegum 
+  
+								<choice>
+									<orig>tobote</orig>
+									<reg>to bote</reg>
+								</choice> · Mid þam
+  
+								<line n="191"/>
   duste wurdon afligde deofla fram mannum ·
-  <line n="192"/>
+  
+								<line n="192"/>
   þa þe 
-  <choice>
-      <orig>onwodnysse</orig>
-      <reg>onwodnysse</reg>
-  </choice> ær wæron gedrehte ·Eac swil
-  <line n="193"/>
+  
+								<choice>
+									<orig>onwodnysse</orig>
+									<reg>onwodnysse</reg>
+								</choice> ær wæron gedrehte ·Eac swil
+  
+								<line n="193"/>
   ce 
-  <choice>
-      <orig>þærhe</orig>
-      <reg>þær he</reg>
-  </choice> feol 
-  <choice>
-      <orig>onþam</orig>
-      <reg>on þam</reg>
-  </choice> 
-  <choice>
-      <orig>ge feohte</orig>
-      <reg>gefeohte</reg>
-  </choice> ofslagen · men
-  <line n="194"/>
+  
+								<choice>
+									<orig>þærhe</orig>
+									<reg>þær he</reg>
+								</choice> feol 
+  
+								<choice>
+									<orig>onþam</orig>
+									<reg>on þam</reg>
+								</choice>
+								<choice>
+									<orig>ge feohte</orig>
+									<reg>gefeohte</reg>
+								</choice> ofslagen · men
+  
+								<line n="194"/>
   namon þa eorðan to adligum mannum · 
-  <choice>
-      <orig>⁊<tironianet/>dẏ</orig>
-      <reg>and dẏ</reg>
-  </choice>
-  <line n="195"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>dẏ
+									</orig>
+									<reg>and dẏ</reg>
+								</choice>
+								<line n="195"/>
   don 
-  <choice>
-      <orig>onwæter</orig>
-      <reg>on wæter</reg>
-  </choice> 
-  <choice>
-      <orig>wan halum</orig>
-      <reg>wanhalum</reg>
-  </choice> 
-  <choice>
-      <orig>toþicgenne</orig>
-      <reg>to þicgenne</reg>
-  </choice> · 
-  <choice>
-      <orig>⁊<tironianet/>hiwur</orig>
-      <reg>and hiwur</reg>
-  </choice>
-  <line n="196"/>
+  
+								<choice>
+									<orig>onwæter</orig>
+									<reg>on wæter</reg>
+								</choice>
+								<choice>
+									<orig>wan halum</orig>
+									<reg>wanhalum</reg>
+								</choice>
+								<choice>
+									<orig>toþicgenne</orig>
+									<reg>to þicgenne</reg>
+								</choice> · 
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>hiwur
+									</orig>
+									<reg>and hiwur</reg>
+								</choice>
+								<line n="196"/>
   don 
-  <choice>
-      <orig>ge hælede</orig>
-      <reg>gehælede</reg>
-  </choice> þurh þone halgan wer · Sum weg
-  <line n="197"/>
+  
+								<choice>
+									<orig>ge hælede</orig>
+									<reg>gehælede</reg>
+								</choice> þurh þone halgan wer · Sum weg
+  
+								<line n="197"/>
   farende man ferde wið þone feld · þa wearð
-  <line n="198"/>
+  
+								<line n="198"/>
   his hors gesicclod 
-  <choice>
-      <orig>⁊<tironianet/>sona</orig>
-      <reg>and sona</reg>
-  </choice> þær feol wealwigen
-  <line n="199"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>sona
+									</orig>
+									<reg>and sona</reg>
+								</choice> þær feol wealwigen
+  
+								<line n="199"/>
   de 
-  <choice>
-      <orig>geondða</orig>
-      <reg>geond ða</reg>
-  </choice> eorðan wodum gelicost · mid 
-  <choice>
-      <abbr>þa<macron/></abbr>
-      <expan>þam</expan>
-  </choice>
-  <line n="200"/>
-  <choice>
-      <orig>þehit</orig>
-      <reg>þe hit</reg>
-  </choice>swa wealweode geond þone widgillan feld <add place="inline">ferde.</add>	
-  <line n="201"/>
+  
+								<choice>
+									<orig>geondða</orig>
+									<reg>geond ða</reg>
+								</choice> eorðan wodum gelicost · mid 
+  
+								<choice>
+									<abbr>þa
+										<macron/>
+									</abbr>
+									<expan>þam</expan>
+								</choice>
+								<line n="200"/>
+								<choice>
+									<orig>þehit</orig>
+									<reg>þe hit</reg>
+								</choice>swa wealweode geond þone widgillan feld 
+								<add place="inline">ferde.</add>
+								<line n="201"/>
   þa becom hit embe lang þær se cẏnincg oswold
-  <line n="202"/>
-  <choice>
-      <orig>onþam</orig>
-      <reg>on þam</reg>
-  </choice> 
-  <choice>
-      <orig>ge feohte</orig>
-      <reg>gefeohte</reg>
-  </choice> feoll swa swa we ær fore sæ
-  <line n="203"/>
+  
+								<line n="202"/>
+								<choice>
+									<orig>onþam</orig>
+									<reg>on þam</reg>
+								</choice>
+								<choice>
+									<orig>ge feohte</orig>
+									<reg>gefeohte</reg>
+								</choice> feoll swa swa we ær fore sæ
+  
+								<line n="203"/>
   dan · 
-  <choice>
-      <orig>⁊<tironianet/>hit</orig>
-      <reg>and hit</reg>
-  </choice> sona aras swa hit hrepode 
-  <choice>
-      <orig>þastowe</orig>
-      <reg>þa stowe</reg>
-  </choice>.
-  <line n="204"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>hit
+									</orig>
+									<reg>and hit</reg>
+								</choice> sona aras swa hit hrepode 
+  
+								<choice>
+									<orig>þastowe</orig>
+									<reg>þa stowe</reg>
+								</choice>.
+  
+								<line n="204"/>
   hal eallum limum 
-  <choice>
-      <orig>⁊<tironianet/>sehlaford</orig>
-      <reg>and se hlaford</reg>
-  </choice> þæs fægnode.
-  <line n="205"/>
-  Se ridda <add place="inline">,</add><add @place="above">þa</add>ferde forð on his weg þider hē ge
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>sehlaford
+									</orig>
+									<reg>and se hlaford</reg>
+								</choice> þæs fægnode.
+  
+								<line n="205"/>
+  Se ridda 
+								<add place="inline">,</add>
+								<add place="above">þa</add>ferde forð on his weg þider hē ge
    
-  <line n="206"/>
+  
+								<line n="206"/>
   mẏnt hæfde. 
-  <choice>
-      <orig>þawæs</orig>
-      <reg>þa wæs</reg>
-  </choice> þær an mæden licgende
-  <line n="207"/>
-  <choice>
-      <orig>onparalisẏn</orig>
-      <reg>on paralisẏn</reg>
-  </choice> lange gebrocod · 
-  <choice>
-      <orig>Hebegan</orig>
-      <reg>He began</reg>
-  </choice> 
-  <choice>  
-      <orig>þato</orig>
-      <reg>þa to</reg>
-  </choice>
-   <line n="208"/>
-   <add @place="inline">ge</add>reccenne hu him 
-   <choice>
-      <orig>onrade</orig>
-      <reg>on rade</reg>
-   </choice> getimode · 
-   <choice>
-      <orig>⁊<tironianet/>mann</orig>
-      <reg>and mann</reg>
-   </choice> fe
-   <line n="209"/>
+  
+								<choice>
+									<orig>þawæs</orig>
+									<reg>þa wæs</reg>
+								</choice> þær an mæden licgende
+  
+								<line n="207"/>
+								<choice>
+									<orig>onparalisẏn</orig>
+									<reg>on paralisẏn</reg>
+								</choice> lange gebrocod · 
+  
+								<choice>
+									<orig>Hebegan</orig>
+									<reg>He began</reg>
+								</choice>
+								<choice>
+									<orig>þato</orig>
+									<reg>þa to</reg>
+								</choice>
+								<line n="208"/>
+								<add place="inline">ge</add>reccenne hu him 
+   
+								<choice>
+									<orig>onrade</orig>
+									<reg>on rade</reg>
+								</choice> getimode · 
+   
+								<choice>
+									<orig>⁊
+										<tironianet/>mann
+									</orig>
+									<reg>and mann</reg>
+								</choice> fe
+   
+								<line n="209"/>
    rode 
-   <choice>
-      <orig>ꝥ<thornwithstroke/>mæden</orig>
-      <reg>þæt mæden</reg>
-   </choice> toþære fore sædan stowe · Heo
-   <line n="210"/>
+   
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>mæden
+									</orig>
+									<reg>þæt mæden</reg>
+								</choice> toþære fore sædan stowe · Heo
+   
+								<line n="210"/>
    wearð 
-   <choice>
-      <orig>þaonslæpe</orig>
-      <reg>þa on slæpe</reg>
-   </choice> 
-   <choice>
-      <orig>⁊<tironianet/>sona</orig>
-      <reg>and sona</reg>
-   </choice> eft awoc <add @place="inline">an</add>sund
-   <choice>
-      <abbr>eallu<macron/></abbr>
-      <expan>eallum</expan>
-   </choice>
-   <line n="211"/>
+   
+								<choice>
+									<orig>þaonslæpe</orig>
+									<reg>þa on slæpe</reg>
+								</choice>
+								<choice>
+									<orig>⁊
+										<tironianet/>sona
+									</orig>
+									<reg>and sona</reg>
+								</choice> eft awoc 
+								<add place="inline">an</add>sund
+   
+								<choice>
+									<abbr>eallu
+										<macron/>
+									</abbr>
+									<expan>eallum</expan>
+								</choice>
+								<line n="211"/>
    limum fram þam egeslican broce · band 
-   <choice>
-      <orig>þahire</orig>
-      <reg>þa hire</reg>
-   </choice>
-   <line n="212"/>
+   
+								<choice>
+									<orig>þahire</orig>
+									<reg>þa hire</reg>
+								</choice>
+								<line n="212"/>
   heafod 
-  <choice>
-      <orig>⁊<tironianet/>bliðe</orig>
-      <reg>and bliðe</reg>
-  </choice> ham ferde · gangænde 
-  <choice>
-      <orig>onfotum</orig>
-      <reg>on fotum</reg>
-  </choice> swa
-  <line n="213"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>bliðe
+									</orig>
+									<reg>and bliðe</reg>
+								</choice> ham ferde · gangænde 
+  
+								<choice>
+									<orig>onfotum</orig>
+									<reg>on fotum</reg>
+								</choice> swa
+  
+								<line n="213"/>
   heo 
-  <choice>
-      <orig>ge fẏrn</orig>
-      <reg>gefẏrn</reg>
-  </choice> ær 
-  <choice>
-      <orig>nedẏde</orig>
-      <reg>ne dẏde</reg>
-  </choice>. Eft siððan ferde eac 
-  <choice>
-      <abbr>su<macron/></abbr>
-      <expan>sum</expan>
-  </choice>
-  <line n="214"/>
+  
+								<choice>
+									<orig>ge fẏrn</orig>
+									<reg>gefẏrn</reg>
+								</choice> ær 
+  
+								<choice>
+									<orig>nedẏde</orig>
+									<reg>ne dẏde</reg>
+								</choice>. Eft siððan ferde eac 
+  
+								<choice>
+									<abbr>su
+										<macron/>
+									</abbr>
+									<expan>sum</expan>
+								</choice>
+								<line n="214"/>
   ærendfæst ridda 
-  <choice>
-      <orig>beðǣre</orig>
-      <reg>be ðǣre</reg>
-  </choice> ẏlcan stowe · 
-  <choice>
-      <orig>⁊<tironianet/>geband</orig>
-      <reg>and geband</reg>
-  </choice>
-  <line n="215"/> 
+  
+								<choice>
+									<orig>beðǣre</orig>
+									<reg>be ðǣre</reg>
+								</choice> ẏlcan stowe · 
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>geband
+									</orig>
+									<reg>and geband</reg>
+								</choice>
+								<line n="215"/> 
   on anum claþe 
-  <choice>
-      <orig>ofþam</orig>
-      <reg>of þam</reg>
-  </choice> halgan duste þære deor
- <line n="216"/>  
+  
+								<choice>
+									<orig>ofþam</orig>
+									<reg>of þam</reg>
+								</choice> halgan duste þære deor
+ 
+								<line n="216"/>  
   wurðan stowe · 
-  <choice>
-      <orig>⁊<tironianet/>lædde</orig>
-      <reg>and lædde</reg>
-  </choice> forð 
-  <choice>
-      <orig>midhim</orig>
-      <reg>mid him</reg>
-  </choice> þær he fun
-  <line n="217"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>lædde
+									</orig>
+									<reg>and lædde</reg>
+								</choice> forð 
+  
+								<choice>
+									<orig>midhim</orig>
+									<reg>mid him</reg>
+								</choice> þær he fun
+  
+								<line n="217"/>
   dode to · 
-  <choice>
-      <orig>þagemette</orig>
-      <reg>þa gemette</reg>
-  </choice> he 
-  <choice>
-      <orig>ge beoras</orig>
-      <reg>gebeoras</reg>
-  </choice> bliðe 
-  <choice>
-      <orig>ætþam</orig>
-      <reg>æt þam</reg>
-  </choice>
-   <line n="218"/>
+  
+								<choice>
+									<orig>þagemette</orig>
+									<reg>þa gemette</reg>
+								</choice> he 
+  
+								<choice>
+									<orig>ge beoras</orig>
+									<reg>gebeoras</reg>
+								</choice> bliðe 
+  
+								<choice>
+									<orig>ætþam</orig>
+									<reg>æt þam</reg>
+								</choice>
+								<line n="218"/>
   huse · he aheng þa 
-  <choice>
-      <orig>ꝥ<thornwithstroke/>dust</orig>
-      <reg>þæt dust</reg>
-  </choice> 
-  <choice>
-      <orig>onænne</orig>
-      <reg>on ænne</reg>
-  </choice> heahne
-  <line n="219"/> 
+  
+								<choice>
+									<orig>ꝥ
+										<thornwithstroke/>dust
+									</orig>
+									<reg>þæt dust</reg>
+								</choice>
+								<choice>
+									<orig>onænne</orig>
+									<reg>on ænne</reg>
+								</choice> heahne
+  
+								<line n="219"/> 
   post · 
-  <choice>
-      <orig>⁊<tironianet/>sæt</orig>
-      <reg>and sæt</reg>
-  </choice> mid þam gebeorum blissigende sa
-   <line n="220"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>sæt
+									</orig>
+									<reg>and sæt</reg>
+								</choice> mid þam gebeorum blissigende sa
+   
+								<line n="220"/>
   mod · Man worhte þa micel fẏr tomiddes ðam 
-   <line n="221"/>
+   
+								<line n="221"/>
   gebeorum · 
-  <choice>
-    <orig>⁊<tironianet/>þa</orig>
-    <reg>and þa</reg>
-  </choice> spearcan wundon wið þæs rofes
-   <line n="222"/>
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>þa
+									</orig>
+									<reg>and þa</reg>
+								</choice> spearcan wundon wið þæs rofes
+   
+								<line n="222"/>
   swẏðe · 
-  <choice>
-      <orig>oðꝥ<thornwithstroke/>þæt</orig>
-      <reg>oð þæt þæt</reg>
-  </choice> hus færlice eall 
-  <choice>
-      <orig>onfẏre</orig>
-      <reg>on fẏre</reg>
-  </choice> wearð ·
-  <line n="223"/> 
-  <choice>
-      <orig>⁊<tironianet/>þa</orig>
-      <reg>and þa</reg>
-  </choice> 
-  <choice>
-      <orig>ge beoras</orig>
-      <reg>gebeoras</reg>
-  </choice> flugon afẏrhte aweg · 
-  <choice>
-      <abbr>ꝥ</abbr>
-      <expan>þæt</expan>
-  </choice> hus
-   <line n="224"/>
+  
+								<choice>
+									<orig>oðꝥ
+										<thornwithstroke/>þæt
+									</orig>
+									<reg>oð þæt þæt</reg>
+								</choice> hus færlice eall 
+  
+								<choice>
+									<orig>onfẏre</orig>
+									<reg>on fẏre</reg>
+								</choice> wearð ·
+  
+								<line n="223"/>
+								<choice>
+									<orig>⁊
+										<tironianet/>þa
+									</orig>
+									<reg>and þa</reg>
+								</choice>
+								<choice>
+									<orig>ge beoras</orig>
+									<reg>gebeoras</reg>
+								</choice> flugon afẏrhte aweg · 
+  
+								<choice>
+									<abbr>ꝥ</abbr>
+									<expan>þæt</expan>
+								</choice> hus
+   
+								<line n="224"/>
   wearþ ða forburnon buton þam anum poste
-   <line n="225"/>
-  <choice>
-      <orig>þeꝥ<thornwithstroke/>halige</orig>
-      <reg>þe þæt halige</reg>
-  </choice> dust on ahangen wæs · 
-  <choice>
-      <orig>sepost</orig>
-      <reg>se post</reg>
-  </choice> 
-  <choice>
-      <orig>anaæt</orig>
-      <reg>ana æt</reg>
-  </choice>
-   <line n="226"/>
+   
+								<line n="225"/>
+								<choice>
+									<orig>þeꝥ
+										<thornwithstroke/>halige
+									</orig>
+									<reg>þe þæt halige</reg>
+								</choice> dust on ahangen wæs · 
+  
+								<choice>
+									<orig>sepost</orig>
+									<reg>se post</reg>
+								</choice>
+								<choice>
+									<orig>anaæt</orig>
+									<reg>ana æt</reg>
+								</choice>
+								<line n="226"/>
   stod an sund mid þam duste · 
-  <choice>
-      <orig>⁊<tironianet/>hiswẏðe</orig>
-      <reg>and hi swẏðe</reg>
-  </choice> wun
-  <line n="227"/> 
-  drodė<add @place="above"/>o</add>n þæs halgan weres 
-  <choice>
-      <orig>ge earnunga</orig>
-      <reg>geearnunga</reg>
-  </choice> 
-  <choice>
-      <orig>ꝥ<thornwithstroke/>ꝥ<thornwithstroke/>fẏrne</orig>
-      <reg>þæt þæt fẏrne</reg>
-  </choice>
-  <line n="228"/> 
+  
+								<choice>
+									<orig>⁊
+										<tironianet/>hiswẏðe
+									</orig>
+									<reg>and hi swẏðe</reg>
+								</choice> wun
+  
+								<line n="227"/> 
+  drodė
+								<add place="above"/>o</add>n þæs halgan weres 
+  
+							<choice>
+								<orig>ge earnunga</orig>
+								<reg>geearnunga</reg>
+							</choice>
+							<choice>
+								<orig>ꝥ
+									<thornwithstroke/>ꝥ
+									<thornwithstroke/>fẏrne
+								</orig>
+								<reg>þæt þæt fẏrne</reg>
+							</choice>
+							<line n="228"/> 
   mihte 
-  <choice>
-      <orig>þamoldan</orig>
-      <reg>þa moldan</reg>
-  </choice> forbærnan · 
-  <choice>
-      <orig>⁊<tironianet/>manega</orig>
-      <reg>and manega</reg>
-  </choice> menn
-   <line n="229"/>
+  
+							<choice>
+								<orig>þamoldan</orig>
+								<reg>þa moldan</reg>
+							</choice> forbærnan · 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>manega
+								</orig>
+								<reg>and manega</reg>
+							</choice> menn
+   
+							<line n="229"/>
   siððan gesohton þone stede heora hæle feccen
-   <line n="230"/>
+   
+							<line n="230"/>
   de · 
-  <choice>
-      <orig>⁊<tironianet/>heora</orig>
-      <reg>and heora</reg>
-  </choice> freonda gehwilcum · 
-  <choice>
-      <orig>Þaasprang</orig>
-      <reg>Þa asprang</reg>
-  </choice> his
-   <line n="231"/>
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>heora
+								</orig>
+								<reg>and heora</reg>
+							</choice> freonda gehwilcum · 
+  
+							<choice>
+								<orig>Þaasprang</orig>
+								<reg>Þa asprang</reg>
+							</choice> his
+   
+							<line n="231"/>
   hlisa geond þa land wide · 
-  <choice>
-      <orig>⁊<tironianet/>eac</orig>
-      <reg>and eac</reg>
-  </choice> swilce to irlande ·
-  <line n="232"/> 
- <choice>
-    <orig>⁊<tironianet/>eac</orig>
-    <reg>and eac</reg>
- </choice> suþ to franc lande · 
- <choice>
-      <orig>swaswa</orig>
-      <reg>swa swa</reg>
- </choice> sum mæsse
-  <line n="233"/> 
-  preost beanum <add place="above">men</add> sæde · Se preost 
-  <choice>
-      <abbr>cw<macron/></abbr>
-      <expan>cwæð</expan>
-  </choice> 
-  <choice>
-      <abbr>ꝥ<thornwithstroke/></abbr>
-      <expan>þæt</expan>
-  </choice> an wer wæ
-   <line n="234"/>
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>eac
+								</orig>
+								<reg>and eac</reg>
+							</choice> swilce to irlande ·
+  
+							<line n="232"/>
+							<choice>
+								<orig>⁊
+									<tironianet/>eac
+								</orig>
+								<reg>and eac</reg>
+							</choice> suþ to franc lande · 
+ 
+							<choice>
+								<orig>swaswa</orig>
+								<reg>swa swa</reg>
+							</choice> sum mæsse
+  
+							<line n="233"/> 
+  preost beanum 
+							<add place="above">men</add> sæde · Se preost 
+  
+							<choice>
+								<abbr>cw
+									<macron/>
+								</abbr>
+								<expan>cwæð</expan>
+							</choice>
+							<choice>
+								<abbr>ꝥ
+									<thornwithstroke/>
+								</abbr>
+								<expan>þæt</expan>
+							</choice> an wer wæ
+   
+							<line n="234"/>
   re 
-  <choice>
-      <orig>onirlande</orig>
-      <reg>on irlande</reg>
-  </choice> gelæred · se <add place="inline">:</add><add place="above">ne</add>gẏmde his lare · 
-  <choice>
-      <orig>⁊<tironianet/>he</orig>
-      <reg>and he</reg>
-  </choice>
-  <line n="235"/> 
-  lithwon hogode embe his sawle þearfa <add place="above">e</add> · oððe
-   <line n="236"/>
-  his scẏppendes beboda · ac <add place="above">a</add>dreah his lif ondẏs
-  <line n="237"/> 
+  
+							<choice>
+								<orig>onirlande</orig>
+								<reg>on irlande</reg>
+							</choice> gelæred · se 
+							<add place="inline">:</add>
+							<add place="above">ne</add>gẏmde his lare · 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>he
+								</orig>
+								<reg>and he</reg>
+							</choice>
+							<line n="235"/> 
+  lithwon hogode embe his sawle þearfa 
+							<add place="above">e</add> · oððe
+   
+							<line n="236"/>
+  his scẏppendes beboda · ac 
+							<add place="above">a</add>dreah his lif ondẏs
+  
+							<line n="237"/> 
   licum weorcum · 
-  <choice>
-      <orig>oððæt</orig>
-      <reg>oð ðæt</reg>
-  </choice> 
-  <choice>
-      <orig>hewearð</orig>
-      <reg>he wearð</reg>
-  </choice> ge untrumod
-  <line n="238"/> 
-  <choice>
-      <orig>⁊<tironianet/>to</orig>
-      <reg>and to</reg>
-  </choice> ende gebroht · 
-  <choice>
-      <orig>Þaclẏpode</orig>
-      <reg>Þa clẏpode</reg>
-  </choice> <add place="above">he</add> þone preost þe
-   <line n="239"/>
+  
+							<choice>
+								<orig>oððæt</orig>
+								<reg>oð ðæt</reg>
+							</choice>
+							<choice>
+								<orig>hewearð</orig>
+								<reg>he wearð</reg>
+							</choice> ge untrumod
+  
+							<line n="238"/>
+							<choice>
+								<orig>⁊
+									<tironianet/>to
+								</orig>
+								<reg>and to</reg>
+							</choice> ende gebroht · 
+  
+							<choice>
+								<orig>Þaclẏpode</orig>
+								<reg>Þa clẏpode</reg>
+							</choice>
+							<add place="above">he</add> þone preost þe
+   
+							<line n="239"/>
   hit cẏdde eft þus · 
-  <choice>
-      <orig>⁊<tironianet/>cw<macron/></orig>
-      <reg>and cwæð</reg>
-  </choice> him to sona mid sarlicre
-  <line n="240"/> 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>cw
+									<macron/>
+								</orig>
+								<reg>and cwæð</reg>
+							</choice> him to sona mid sarlicre
+  
+							<line n="240"/> 
   stemne. Nu 
-  <choice>
-      <orig>icsceall</orig>
-      <reg>ic sceall</reg>
-  </choice> 
-  <choice>
-      <orig>ge endian</orig>
-      <reg>geendian</reg>
-  </choice> earmlicum dea
-  <line n="241"/> 
+  
+							<choice>
+								<orig>icsceall</orig>
+								<reg>ic sceall</reg>
+							</choice>
+							<choice>
+								<orig>ge endian</orig>
+								<reg>geendian</reg>
+							</choice> earmlicum dea
+  
+							<line n="241"/> 
   þe · 
-  <choice>
-      <orig>⁊<tironianet/>to</orig>
-      <reg>and to</reg>
-  </choice> helle faran for 
-  <choice>
-      <abbr>fracodu<macron/></abbr>
-      <expan>fracodum</expan>
-  </choice> dædum. Nu
-  <line n="242"/> 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>to
+								</orig>
+								<reg>and to</reg>
+							</choice> helle faran for 
+  
+							<choice>
+								<abbr>fracodu
+									<macron/>
+								</abbr>
+								<expan>fracodum</expan>
+							</choice> dædum. Nu
+  
+							<line n="242"/> 
   wolde ic 
-  <choice>
-      <orig>ge betan</orig>
-      <reg>gebetan</reg>
-  </choice> gif ic abidan moste · 
-  <choice>
-      <orig>⁊<tironianet/>togode</orig>
-      <reg>and to gode</reg>
-  </choice> gecẏr
-  <line n="243"/> 
+  
+							<choice>
+								<orig>ge betan</orig>
+								<reg>gebetan</reg>
+							</choice> gif ic abidan moste · 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>togode
+								</orig>
+								<reg>and to gode</reg>
+							</choice> gecẏr
+  
+							<line n="243"/> 
   ran 
-  <choice>
-      <orig>⁊<tironianet/>togodum</orig>
-      <reg>and to godum</reg>
-  </choice> þeawum · 
-  <choice>
-      <orig>⁊<tironianet/>minlif</orig>
-      <reg>and min lif</reg>
-  </choice> awendan eall to
-  <line n="244"/> 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>togodum
+								</orig>
+								<reg>and to godum</reg>
+							</choice> þeawum · 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>minlif
+								</orig>
+								<reg>and min lif</reg>
+							</choice> awendan eall to
+  
+							<line n="244"/> 
   godes willan · 
-  <choice>
-      <orig>⁊<tironianet/>icwat</orig>
-      <reg>and ic wat</reg>
-  </choice> 
-  <choice>
-      <orig>ꝥ<thornwithstroke/>ic</orig>
-      <reg>þæt ic</reg>
-  </choice> ne eom wẏrðe þæs fẏrstes
-  <line n="245"/> 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>icwat
+								</orig>
+								<reg>and ic wat</reg>
+							</choice>
+							<choice>
+								<orig>ꝥ
+									<thornwithstroke/>ic
+								</orig>
+								<reg>þæt ic</reg>
+							</choice> ne eom wẏrðe þæs fẏrstes
+  
+							<line n="245"/> 
   buton sum halga 
-  <choice>
-      <orig>meþingie</orig>
-      <reg>me þingie</reg>
-  </choice> 
-  <choice>
-      <orig>toþam</orig>
-      <reg>to þam</reg>
-  </choice> hælende cri
-  <line n="246"/> 
+  
+							<choice>
+								<orig>meþingie</orig>
+								<reg>me þingie</reg>
+							</choice>
+							<choice>
+								<orig>toþam</orig>
+								<reg>to þam</reg>
+							</choice> hælende cri
+  
+							<line n="246"/> 
   ste · Nu is us 
-  <choice>
-      <orig>ge sæd</orig>
-      <reg>gesæd</reg>
-  </choice> 
-  <choice>
-      <orig>ꝥ<thornwithstroke/>sum</orig>
-      <reg>þæt sum</reg>
-  </choice> halig cẏning is 
-  <choice>
-      <orig>oneow</orig>
-      <reg>on eow</reg>
-  </choice>
-  <line n="247"/> 
+  
+							<choice>
+								<orig>ge sæd</orig>
+								<reg>gesæd</reg>
+							</choice>
+							<choice>
+								<orig>ꝥ
+									<thornwithstroke/>sum
+								</orig>
+								<reg>þæt sum</reg>
+							</choice> halig cẏning is 
+  
+							<choice>
+								<orig>oneow</orig>
+								<reg>on eow</reg>
+							</choice>
+							<line n="247"/> 
   rum earde oswold gehaten · nu gif þu ænig þincg
-  <line n="248"/> 
+  
+							<line n="248"/> 
   hæfst 
-  <choice>
-      <orig>ofþæs</orig>
-      <reg>of þæs</reg>
-  </choice> halgan reliquium · sẏle me 
-  <choice>
-      <orig>icþe</orig>
-      <reg>ic þe</reg>
-  </choice> bid
-  <line n="249"/> 
+  
+							<choice>
+								<orig>ofþæs</orig>
+								<reg>of þæs</reg>
+							</choice> halgan reliquium · sẏle me 
+  
+							<choice>
+								<orig>icþe</orig>
+								<reg>ic þe</reg>
+							</choice> bid
+  
+							<line n="249"/> 
   de · Ðā sæde se preost him · 
-  <choice>
-      <orig>Ichæbbe</orig>
-      <reg>Ic hæbbe</reg>
-  </choice> 
-  <choice>
-      <orig>ofþam</orig>
-      <reg>of þam</reg>
-  </choice> stoc
-  <line n="250"/> 
+  
+							<choice>
+								<orig>Ichæbbe</orig>
+								<reg>Ic hæbbe</reg>
+							</choice>
+							<choice>
+								<orig>ofþam</orig>
+								<reg>of þam</reg>
+							</choice> stoc
+  
+							<line n="250"/> 
   ce 
-  <choice>
-      <orig>þehis</orig>
-      <reg>þe his</reg>
-  </choice> heafod 
-  <choice>
-      <orig>onstod</orig>
-      <reg>on stod</reg>
-  </choice> · 
-  <choice>
-      <orig>⁊<tironianet/>gif</orig>
-  </choice> 
-  <choice>
-      <orig>þugelẏfan</orig>
-      <reg>þu gelẏfan</reg>
-  </choice> wẏlt þu
-  <line n="251"/> 
+  
+							<choice>
+								<orig>þehis</orig>
+								<reg>þe his</reg>
+							</choice> heafod 
+  
+							<choice>
+								<orig>onstod</orig>
+								<reg>on stod</reg>
+							</choice> · 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>gif
+								</orig>
+							</choice>
+							<choice>
+								<orig>þugelẏfan</orig>
+								<reg>þu gelẏfan</reg>
+							</choice> wẏlt þu
+  
+							<line n="251"/> 
   wurþest hal sona · Hwæt þa se 
-  <choice>
-      <orig>mæsse preost</orig>
-      <reg>mæssepreost</reg>
-  </choice> þæs
-  <line n="252"/> 
+  
+							<choice>
+								<orig>mæsse preost</orig>
+								<reg>mæssepreost</reg>
+							</choice> þæs
+  
+							<line n="252"/> 
   mannes ofhrēow · 
-  <choice>
-      <orig>⁊<tironianet/>scof</orig>
-      <reg>and scof</reg>
-  </choice> 
-  <choice>
-      <orig>onhalig</orig>
-      <reg>on halig</reg>
-  </choice> wæter 
-  <choice>
-      <orig>ofþam</orig>
-      <reg>of þam</reg>
-  </choice> hal
-  <line n="253"/> 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>scof
+								</orig>
+								<reg>and scof</reg>
+							</choice>
+							<choice>
+								<orig>onhalig</orig>
+								<reg>on halig</reg>
+							</choice> wæter 
+  
+							<choice>
+								<orig>ofþam</orig>
+								<reg>of þam</reg>
+							</choice> hal
+  
+							<line n="253"/> 
   gan treowe · sealde þam adligan of 
-  <choice>
-      <orig>tosupenne</orig>
-      <reg>to supenne</reg>
-  </choice> ·
-  <line n="254"/> 
-  <choice>
-      <orig>⁊<tironianet/>he</orig>
-      <reg>and he</reg>
-  </choice>sona 
-  <choice>
-      <orig>ge wẏrpte</orig>
-      <reg>gewẏrpte</reg>
-  </choice> · 
-  <choice>
-      <orig>⁊<tironianet/>sẏððan</orig>
-      <reg>and sẏððan</reg>
-  </choice> leofode lange on
-  <line n="255"/> 
+  
+							<choice>
+								<orig>tosupenne</orig>
+								<reg>to supenne</reg>
+							</choice> ·
+  
+							<line n="254"/>
+							<choice>
+								<orig>⁊
+									<tironianet/>he
+								</orig>
+								<reg>and he</reg>
+							</choice>sona 
+  
+							<choice>
+								<orig>ge wẏrpte</orig>
+								<reg>gewẏrpte</reg>
+							</choice> · 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>sẏððan
+								</orig>
+								<reg>and sẏððan</reg>
+							</choice> leofode lange on
+  
+							<line n="255"/> 
   worulde · 
-  <choice>
-      <orig>⁊<tironianet/>gewende</orig>
-      <reg>and gewende</reg>
-  </choice> 
-  <choice>
-      <orig>togode</orig>
-      <reg>to gode</reg>
-  </choice> mid eallra<add place="above">e</add> heortan ·
-  <line n="256"/>
-  <choice>
-      <orig>⁊<tironianet/>midhalgum</orig>
-      <reg>and mid halgum</reg>
-  </choice>
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>gewende
+								</orig>
+								<reg>and gewende</reg>
+							</choice>
+							<choice>
+								<orig>togode</orig>
+								<reg>to gode</reg>
+							</choice> mid eallra
+							<add place="above">e</add> heortan ·
+  
+							<line n="256"/>
+							<choice>
+								<orig>⁊
+									<tironianet/>midhalgum
+								</orig>
+								<reg>and mid halgum</reg>
+							</choice>
    weorcum · 
-   <choice>
-      <orig>⁊<tironianet/>swa</orig>
-      <reg>and swa</reg>
-   </choice> hwider swa 
-   <choice>
-      <orig>heco<macron/></orig>
-      <reg>he com</reg>
-   </choice> · he
-  <line n="257"/> 
+   
+							<choice>
+								<orig>⁊
+									<tironianet/>swa
+								</orig>
+								<reg>and swa</reg>
+							</choice> hwider swa 
+   
+							<choice>
+								<orig>heco
+									<macron/>
+								</orig>
+								<reg>he com</reg>
+							</choice> · he
+  
+							<line n="257"/> 
   cẏdde þas wundra · 
-  <choice>
-      <orig>Forþẏ</orig>
-      <reg>For þẏ</reg>
-  </choice> ne sceall nan mann
-  <line n="258"/> 
+  
+							<choice>
+								<orig>Forþẏ</orig>
+								<reg>For þẏ</reg>
+							</choice> ne sceall nan mann
+  
+							<line n="258"/> 
   awægan 
-  <choice>
-      <orig>ꝥ<thornwithstroke/>he</orig>
-      <reg>þæt he</reg>
-  </choice> sẏlf wẏlles 
-  <choice>
-      <orig>behæt</orig>
-      <reg>be hæt</reg>
-  </choice> þam ælmihtigan
-  <line n="259"/> 
+  
+							<choice>
+								<orig>ꝥ
+									<thornwithstroke/>he
+								</orig>
+								<reg>þæt he</reg>
+							</choice> sẏlf wẏlles 
+  
+							<choice>
+								<orig>behæt</orig>
+								<reg>be hæt</reg>
+							</choice> þam ælmihtigan
+  
+							<line n="259"/> 
   gode · 
-  <choice>
-      <orig>þonnehe</orig>
-      <reg>þonne he</reg>
-  </choice> adlig bið 
-  <choice>
-      <orig>þelæs</orig>
-      <reg>þe læs</reg>
-  </choice> 
-  <choice>
-      <orig>þehe</orig>
-      <reg>þe he</reg>
-  </choice> sẏlf losige ·
-  <line n="260"/> 
+  
+							<choice>
+								<orig>þonnehe</orig>
+								<reg>þonne he</reg>
+							</choice> adlig bið 
+  
+							<choice>
+								<orig>þelæs</orig>
+								<reg>þe læs</reg>
+							</choice>
+							<choice>
+								<orig>þehe</orig>
+								<reg>þe he</reg>
+							</choice> sẏlf losige ·
+  
+							<line n="260"/> 
   gif he alihð gode 
-  <choice>
-      <abbr>ꝥ<thornwithstroke/></abbr>
-      <expan>þæt</expan>
-  </choice> · Nu 
-  <choice>
-      <orig>cw<macron/>.sehalga</orig>
-      <reg>cwæð se halga</reg>
-  </choice> beda 
-  <choice>
-      <orig>þeðas</orig>
-      <reg>þe ðas</reg>
-  </choice>	
-  <line n="261"/> 
+  
+							<choice>
+								<abbr>ꝥ
+									<thornwithstroke/>
+								</abbr>
+								<expan>þæt</expan>
+							</choice> · Nu 
+  
+							<choice>
+								<orig>cw
+									<macron/>.sehalga
+								</orig>
+								<reg>cwæð se halga</reg>
+							</choice> beda 
+  
+							<choice>
+								<orig>þeðas</orig>
+								<reg>þe ðas</reg>
+							</choice>
+							<line n="261"/> 
   boc gedihte · 
-  <choice>
-      <orig>ꝥ<thornwithstroke/>hit</orig>
-      <reg>þæt hit</reg>
-  </choice> 
-  <choice>
-      <orig>nanwundor</orig>
-      <reg>nan wundor</reg>
-  </choice> nẏs · 
-  <choice>
-      <orig>ꝥ<thornwithstroke/>sehalga</orig>
-      <reg>þæt se halga</reg>
-  </choice>
-  <line n="262"/> 
+  
+							<choice>
+								<orig>ꝥ
+									<thornwithstroke/>hit
+								</orig>
+								<reg>þæt hit</reg>
+							</choice>
+							<choice>
+								<orig>nanwundor</orig>
+								<reg>nan wundor</reg>
+							</choice> nẏs · 
+  
+							<choice>
+								<orig>ꝥ
+									<thornwithstroke/>sehalga
+								</orig>
+								<reg>þæt se halga</reg>
+							</choice>
+							<line n="262"/> 
   cẏnincg untrumnẏsse gehæle 
-  <choice>
-      <orig>nuhe</orig>
-      <reg>nu he</reg>
-  </choice> 
-  <choice>
-      <orig>onheofo</orig>
-      <reg>on heofo</reg>
-  </choice>
-  <line n="263"/> 
-  <choice>
-      <orig>num<add place="inline">leo</add>fað</orig>
-      <reg>num <add place="inline">leo</add>fað</reg>
-  </choice> · 
-  <choice>
-      <orig>forðan</orig>
-      <reg>for ðan</reg>
-  </choice> 
-  <choice>
-      <orig>þehe</orig>
-      <reg>þe he</reg>
-  </choice> wolde gehelpan 
-  <choice>
-      <orig>þaþa</orig>
-      <reg>þa þa</reg>
-  </choice>
-  <line n="264"/> 
+  
+							<choice>
+								<orig>nuhe</orig>
+								<reg>nu he</reg>
+							</choice>
+							<choice>
+								<orig>onheofo</orig>
+								<reg>on heofo</reg>
+							</choice>
+							<line n="263"/>
+							<choice>
+								<orig>num
+									<add place="inline">leo</add>fað
+								</orig>
+								<reg>num 
+									<add place="inline">leo</add>fað
+								</reg>
+							</choice> · 
+  
+							<choice>
+								<orig>forðan</orig>
+								<reg>for ðan</reg>
+							</choice>
+							<choice>
+								<orig>þehe</orig>
+								<reg>þe he</reg>
+							</choice> wolde gehelpan 
+  
+							<choice>
+								<orig>þaþa</orig>
+								<reg>þa þa</reg>
+							</choice>
+							<line n="264"/> 
   he her 
-  <choice>
-      <orig>onlife</orig>
-      <reg>on life</reg>
-  </choice> wæs · þearfum 
-  <choice>
-      <orig>⁊<tironianet/>wann</orig>
-      <reg>and wann</reg>
-  </choice> halum · 
-  <choice>
-      <orig>⁊<tironainet/>him</orig>
-      <reg>and him</reg>
-  </choice>
-  <line n="265"/> 
-  <choice>
-      <orig>big wiste</orig>
-      <reg>bigwiste</reg>
-  </choice> sẏllan · Nu hæfð he þone wurðmẏnt
-  <line n="266"/> 
-  <choice>
-      <orig>onþære</orig>
-      <reg>on  þære</reg>
-  </choice> ecan worulde · mid þam ælmihtigan gode
-  <line n="267"/> 
-  <choice>
-      <orig>forhis</orig>
-      <reg>for his</reg>
-  </choice> godnẏsse · Eft 
-  <choice>
-      <orig>sehalga</orig>
-      <reg>se halga</reg>
-  </choice> cuðberht 
-  <choice>
-      <orig>þaþa</orig>
-      <reg>þa þa</reg>
-  </choice>
-  <line n="268"/> 
+  
+							<choice>
+								<orig>onlife</orig>
+								<reg>on life</reg>
+							</choice> wæs · þearfum 
+  
+							<choice>
+								<orig>⁊
+									<tironianet/>wann
+								</orig>
+								<reg>and wann</reg>
+							</choice> halum · 
+  
+							<choice>
+								<orig>⁊
+									<tironainet/>him
+								</orig>
+								<reg>and him</reg>
+							</choice>
+							<line n="265"/>
+							<choice>
+								<orig>big wiste</orig>
+								<reg>bigwiste</reg>
+							</choice> sẏllan · Nu hæfð he þone wurðmẏnt
+  
+							<line n="266"/>
+							<choice>
+								<orig>onþære</orig>
+								<reg>on  þære</reg>
+							</choice> ecan worulde · mid þam ælmihtigan gode
+  
+							<line n="267"/>
+							<choice>
+								<orig>forhis</orig>
+								<reg>for his</reg>
+							</choice> godnẏsse · Eft 
+  
+							<choice>
+								<orig>sehalga</orig>
+								<reg>se halga</reg>
+							</choice> cuðberht 
+  
+							<choice>
+								<orig>þaþa</orig>
+								<reg>þa þa</reg>
+							</choice>
+							<line n="268"/> 
   he git cnapa wæs · geseah 
-  <choice>
-      <orig>hugodes</orig>
-      <reg>hu godes</reg>
-  </choice> ænglas · feredon
-  <line n="269"/> 
+  
+							<choice>
+								<orig>hugodes</orig>
+								<reg>hu godes</reg>
+							</choice> ænglas · feredon
+  
+							<line n="269"/> 
   aidanes sawle þæs halgan bisceopes. bliðe 
-  <choice>
-      <orig>toheo</orig>
-      <reg>to heo</reg>
-  </choice>
-  <line n="270"/> 
+  
+							<choice>
+								<orig>toheo</orig>
+								<reg>to heo</reg>
+							</choice>
+							<line n="270"/> 
   fonum 
-  <choice>
-      <orig>toþam</orig>
-      <reg>to þam</reg>
-  </choice> ecan wuldre 
-  <choice>
-      <orig>þehe</orig>
-      <reg>þe he</reg>
-  </choice> 
-  <choice>
-      <orig>onworulde</orig>
-      <reg>on worulde</reg>
-  </choice>	
-  <line n="271"/> 
-  <choice>
-      <orig>ge earnode</orig>
-      <reg>geearnode</reg>
-  </choice> . Þæs halgan oswoldes ban wurdon
-  <line n="272"/> 
+  
+							<choice>
+								<orig>toþam</orig>
+								<reg>to þam</reg>
+							</choice> ecan wuldre 
+  
+							<choice>
+								<orig>þehe</orig>
+								<reg>þe he</reg>
+							</choice>
+							<choice>
+								<orig>onworulde</orig>
+								<reg>on worulde</reg>
+							</choice>
+							<line n="271"/>
+							<choice>
+								<orig>ge earnode</orig>
+								<reg>geearnode</reg>
+							</choice> . Þæs halgan oswoldes ban wurdon
+  
+							<line n="272"/> 
   eft gebroht æfter manegum gearum 
-  <choice>
-      <orig>tomẏr</orig>
-      <reg>to mẏr</reg>
-  </choice>
-  <line n="273"/> 
+  
+							<choice>
+								<orig>tomẏr</orig>
+								<reg>to mẏr</reg>
+							</choice>
+							<line n="273"/> 
   cena lande into gleawceastre · 
-  <choice>
-      <orig>⁊<tironainet/>god</orig>
-      <reg>and god</reg>
-  </choice> þær geswute
-  <line n="274"/> 
-  lode oft fe<add @place="above">a</add>la wundra þurh þone hālgan wer. Sẏ      	
-  <line n="275"/>
-  þæs wuldor þam ælmihtigan<add @place="above">:gode · ðeonecnysse rixað</add><add @place="inline">:</add> a 
-  <choice>
-      <orig>toworulde</orig>
-      <reg>to worulde</reg>
-  </choice> · AMEN ·
-  </body>
-</text>
-</TEI>
+  
+							<choice>
+								<orig>⁊
+									<tironainet/>god
+								</orig>
+								<reg>and god</reg>
+							</choice> þær geswute
+  
+							<line n="274"/> 
+  lode oft fe
+							<add place="above">a</add>la wundra þurh þone hālgan wer. Sẏ      	
+  
+							<line n="275"/>
+  þæs wuldor þam ælmihtigan
+							<add place="above">:gode · ðeonecnysse rixað</add>
+							<add place="inline">:</add> a 
+  
+							<choice>
+								<orig>toworulde</orig>
+								<reg>to worulde</reg>
+							</choice> · AMEN ·
+  
+						</body>
+					</text>
+				</TEI>
