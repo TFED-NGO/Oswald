@@ -155,18 +155,19 @@
 				<!-- include all other editorial declarations and decisions here -->
 			</editorialDecl>
 			<charDecl>
-    <char xml:id="w_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
-        <localProp name="name"
-            value="W CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="standard">w&#x00AF;</mapping>
-    </char>
-    <char xml:id="n_macron">
-        <unicodeProp name="Canonical_Combining_Class" value="230"/>
-        <localProp name="name"
-            value="N CHARACTER WITH A MACRON OVER IT"/>
-        <mapping type="standard">n&#x00AF;</mapping>
-    </char></charDecl>
+				<char xml:id="w_macron">
+					<unicodeProp name="Canonical_Combining_Class" value="230"/>
+					<localProp name="name"
+						value="W CHARACTER WITH A MACRON OVER IT"/>
+					<mapping type="standard">w&#x00AF;</mapping>
+				</char>
+				<char xml:id="n_macron">
+					<unicodeProp name="Canonical_Combining_Class" value="230"/>
+					<localProp name="name"
+						value="N CHARACTER WITH A MACRON OVER IT"/>
+					<mapping type="standard">n&#x00AF;</mapping>
+				</char>
+			</charDecl>
 		</encodingDesc>
 		<revisionDesc>
 			<list>
