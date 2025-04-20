@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI
@@ -350,10 +350,10 @@
 									</orig>
 										<reg>and to sceame</reg>
 									</choice>
-									<line n= "11"/>
+									<lb n= "11"/>
   tucode þa norðhẏmbran leode æfter heora hla
  
-									<line n="12"/>
+									<lb n="12"/>
     fordes fẏlle ⋅ 
   
 									<choice>
@@ -364,7 +364,7 @@
 									</choice>
   oswold se eadiga his ẏfelnẏsse
   
-									<line n="13"/>
+									<lb n="13"/>
   adwæscte ⋅ Oswold him 
   
 									<choice>
@@ -380,7 +380,7 @@
 										<reg> and him</reg>
 									</choice>cenlice wiðfeaht 
   
-									<line n="14"/>
+									<lb n="14"/>
   mid lẏtlum werode ⋅ 
   
 									<choice>
@@ -392,7 +392,7 @@
 										<orig>ge trẏm</orig>
 										<reg>getrẏm</reg>
 									</choice>
-									<line n="15"/>
+									<lb n="15"/>
   de ⋅ 
   
 									<choice>
@@ -411,7 +411,7 @@
 										<reg>to his</reg>
 									</choice> feonda slege ⋅ Os
   
-									<line n="16"/>
+									<lb n="16"/>
   wold 
   
 									<choice>
@@ -419,7 +419,7 @@
 										<reg>þa arærde</reg>
 									</choice> ane rode sona gode to wurðmẏn
   
-									<line n="17"/>
+									<lb n="17"/>
   te ær þan 
   
 									<choice>
@@ -437,7 +437,7 @@
 										</orig>
 										<reg>and clypode</reg>
 									</choice>
-									<line n="18"/>
+									<lb n="18"/>
   to his geferum ⋅ Uton feallan 
   
 									<choice>
@@ -451,7 +451,7 @@
 										</orig>
 										<reg>and þo</reg>
 									</choice>
-									<line n="19"/>
+									<lb n="19"/>
   ne ælmihtigan biddan 
   
 									<choice>
@@ -461,7 +461,7 @@
 										<expan>þæt</expan>
 									</choice>he us ahredde wið þone mo
   
-									<line n="20"/>
+									<lb n="20"/>
   digan feond 
   
 									<choice>
@@ -469,7 +469,7 @@
 										<reg>þe us</reg>
 									</choice>afẏllan wile ⋅ god sẏlf wat gea
   
-									<line n="21"/>
+									<lb n="21"/>
   re  
   
 									<choice>
@@ -479,7 +479,7 @@
 										<reg>þæt we</reg>
 									</choice>winnað rihtlice wið þẏsne reðan cẏning
   
-									<line n="22"/>
+									<lb n="22"/>
   to ahreddenne ure leode ⋅
   
 									<choice>
@@ -487,7 +487,7 @@
 										<reg>Hi feollon</reg>
 									</choice>þa ealle
   
-									<line n="23"/>
+									<lb n="23"/>
   mid oswolde: 
 									<add place="above">:cyninge</add>
 									<choice>
@@ -505,7 +505,7 @@
 										<orig>onoðerne</orig>
 										<reg>on oðerne</reg>
 									</choice>
-									<line n="24"/>
+									<lb n="24"/>
   me
 									<add place="above">r</add>gen eodon 
   
@@ -521,12 +521,12 @@
 										<reg>and gewunnon</reg>
 									</choice> þær 
   
-									<line n="25"/>
+									<lb n="25"/>
   sige swa swa se: 
 									<add place="above">:eall</add> wealdend hi
 									<add place="above">eo</add>m uðe ⋅for oswoldes ge
   
-									<line n="26"/>
+									<lb n="26"/>
   leafan ⋅
   
 									<choice>
@@ -536,7 +536,7 @@
 										<reg>and aledon</reg>
 									</choice> heora fẏnd þone modigan ced
  
-									<line n="27"/> 
+									<lb n="27"/> 
  wallan mid his micclan werode ⋅ 
  
 									<choice>
@@ -549,10 +549,10 @@
 										</orig>
 										<reg>þæt him</reg>
 									</choice>
-									<line n="28"/>
+									<lb n="28"/>
  ne mihte nan werod wiðstandan ⋅ Seo ẏlce rod
  
-									<line n="29"/>
+									<lb n="29"/>
  siððan þe oswold þær arærde 
  
 									<choice>
@@ -560,7 +560,7 @@
 										<reg>on worðmẏnte</reg>
 									</choice> þær
  
-									<line n="30"/>
+									<lb n="30"/>
  stod⋅ 
   
 									<choice>
@@ -570,7 +570,7 @@
 										<reg>and wurdon</reg>
 									</choice> fela gehælde untrumra manna 
   
-									<line n="31"/>
+									<lb n="31"/>
 									<choice>
 										<orig>⁊
 											<tironianet/>eacswilce
@@ -578,7 +578,7 @@
 										<reg>and eac swilce</reg>
 									</choice> nẏtena þurh ða ẏlcan rode ⋅ swa
   
-									<line n="32"/>
+									<lb n="32"/>
   swa us rehte beda ⋅ Sum man feoll 
   
 									<choice>
@@ -591,7 +591,7 @@
 										</orig>
 										<reg>þæt his</reg>
 									</choice>
-									<line n="33"/>
+									<lb n="33"/>
   earm tobærst ⋅
   
 									<choice>
@@ -606,7 +606,7 @@
 										<reg>on bedde</reg>
 									</choice> gebrocod forðear
   
-									<line n="34"/> 
+									<lb n="34"/> 
   le 
   
 									<choice>
@@ -621,7 +621,7 @@
 										<reg>of ðære</reg>
 									</choice> foresædan rode ⋅	
   
-									<line n="35"/>
+									<lb n="35"/>
   sumne dæl þæs meoses 
   
 									<choice>
@@ -630,7 +630,7 @@
                               </reg>
 									</choice>mid beweaxen wæs⋅
   
-									<line n="36"/>
+									<lb n="36"/>
 									<choice>
 										<orig>⁊
 											<tironianet/>seadliga
@@ -647,7 +647,7 @@
 										<orig>onðære</orig>
 										<reg>on ðære</reg>
 									</choice>
-									<line n="37"/>
+									<lb n="37"/>
 									<choice>
 										<orig>ẏlcannihte</orig>
 										<reg>ẏlcan nihte</reg>
@@ -664,7 +664,7 @@
 										<orig>seostow</orig>
 										<reg>seo stow</reg>
 									</choice>
-									<line n="38"/>
+									<lb n="38"/>
   is gehaten  heofon feld 
   
 									<choice>
@@ -672,7 +672,7 @@
 										<reg>on englisc</reg>
 									</choice> ⋅ wið þone langan 
   
-									<line n="39"/>
+									<lb n="39"/>
   weall 
   
 									<choice>
@@ -685,7 +685,7 @@
 										<reg>þær þær</reg>
 									</choice> oswold 
   
-									<line n="40"/>
+									<lb n="40"/>
   ofer wan
 									<add place="inline">n</add> þone wælhreowan cẏnincg ⋅ 
   
@@ -696,14 +696,14 @@
 										<reg>and þær</reg>
 									</choice>wearð 
   
-									<line n="41"/>
+									<lb n="41"/>
   siþþan aræred swiðe mære cẏrce gode 
   
 									<choice>
 										<orig>towurð</orig>
 										<reg>to wurð</reg>
 									</choice>
-									<line n="42"/>
+									<lb n="42"/>
   mẏnte þe wunað a 
   
 									<choice>
@@ -716,7 +716,7 @@
 										<reg>Hwaet ða</reg>
 									</choice> oswold 
   
-									<line n="43"/>
+									<lb n="43"/>
   ongann embe godes willan 
   
 									<choice>
@@ -724,7 +724,7 @@
 										<reg>to smeagenne</reg>
 									</choice> sona 
   
-									<line n="44"/>
+									<lb n="44"/>
   swa he rices geweold ⋅ 
   
 									<choice>
@@ -734,7 +734,7 @@
 										<reg>and wolde</reg>
 									</choice> gebigan his leoda 
   
-									<line n="45"/>
+									<lb n="45"/>
   to geleafan 
   
 									<choice>
@@ -748,7 +748,7 @@
 										<orig>sendeða</orig>
 										<reg>sende ða</reg>
 									</choice>
-									<line n="46"/>
+									<lb n="46"/>
   to scotlande þær 
   
 									<choice>
@@ -766,7 +766,7 @@
 										</orig>
 										<reg>and bæd ða hea</reg>
 									</choice>
-									<line n="47"/>
+									<lb n="47"/>
  fodmenn
  
 									<choice>
@@ -784,7 +784,7 @@
 										<reg>and him</reg>
 									</choice> sumne 
  
-									<line n="48"/>
+									<lb n="48"/>
  lareow sendon 
  
 									<choice>
@@ -797,7 +797,7 @@
 										<reg>to gode</reg>
 									</choice> gewe
  
-									<line n="49"/>
+									<lb n="49"/>
  man ⋅
  
 									<choice>
@@ -812,7 +812,7 @@
 										<reg>Hi sendon</reg>
 									</choice> þa 
  
-									<line n="50"/>
+									<lb n="50"/>
  sona 
  
 									<choice>
@@ -820,7 +820,7 @@
 										<reg>þam gesæligan</reg>
 									</choice> cẏninge sumne arwurðne 
  
-									<line n="51"/> 
+									<lb n="51"/> 
  bisceop aidan gehaten ⋅ 
  
 									<choice>
@@ -828,7 +828,7 @@
 										<reg>se wæs mæres</reg>
 									</choice> lifes man 
 									<add place="margin">Bishop Aydan</add>
-									<line n="52"/>
+									<lb n="52"/>
  on munuclicre drohtnunge ⋅ 
  
 									<choice>
@@ -838,13 +838,13 @@
 										<reg>and he</reg>
 									</choice> ealle woruld
  
-									<line n="53"/>
+									<lb n="53"/>
  cara awearp fram his heortan nanes þinges
  
-									<line n="54"/>
+									<lb n="54"/>
  wilnigende butan godes willan ⋅ Swa hwæt swa
  
-									<line n="55"/>
+									<lb n="55"/>
  him becom 
  
 									<choice>
@@ -852,7 +852,7 @@
 										<reg>of þæs</reg>
 									</choice> cẏninges gifum ⋅ oððe ricra 
  
-									<line n="56"/>
+									<lb n="56"/>
  manna 
  
 									<choice>
@@ -869,11 +869,11 @@
 										</orig>
 										<reg>and wædlum⋅</reg>
 									</choice>
-									<line n="57"/>
+									<lb n="57"/>
  mid wilwillend
 									<add place="inline">um</add> mode ⋅Hwæt ða oswold cẏning 
  
-									<line n="58"/>
+									<lb n="58"/>
  his cẏmes fægnode ⋅ 
  
 									<choice>
@@ -883,7 +883,7 @@
 										<reg>and hine</reg>
 									</choice> arwurðlice under
  
-									<line n="59"/>
+									<lb n="59"/>
  feng 
 									<del rend="scraped">⋅</del> his folce 
  
@@ -899,7 +899,7 @@
 										<reg>þæt heora</reg>
 									</choice> geleafa 
  
-									<line n="60"/>
+									<lb n="60"/>
  wurde awend eft 
  
 									<choice>
@@ -907,7 +907,7 @@
 										<reg> to gode</reg>
 									</choice> fram þam wiþersace 
  
-									<line n="61"/>
+									<lb n="61"/>
 									<choice>
 										<orig>þehi</orig>
 										<reg>þe hi</reg>
@@ -920,7 +920,7 @@
 										<orig>þaswa</orig>
 										<reg>þa swa</reg>
 									</choice>
-									<line n="62"/>
+									<lb n="62"/>
 									<choice>
 										<orig>ꝥ
 											<thornwithstroke/>segeleaffulla
@@ -929,11 +929,11 @@
 									</choice>
  cẏning gerehte his witan on 
  
-									<line n="63"/>
+									<lb n="63"/>
  heora agenum gereorde þæs bisceopes 
 									<del rend="scraped">ge</del>bo
  
-									<line n="64"/>
+									<lb n="64"/>
  dunge mid bliþum mode. 
  
 									<choice>
@@ -943,7 +943,7 @@
 										<reg>and wæs</reg>
 									</choice> his wealhstod
  
-									<line n="65"/>
+									<lb n="65"/>
 									<choice>
 										<orig>forþan</orig>
 										<reg>for þan</reg>
@@ -959,7 +959,7 @@
 										</orig>
 										<reg>and se bisceop</reg>
 									</choice>
-									<line n="66"/>
+									<lb n="66"/>
  aidan 
  
 									<choice>
@@ -971,7 +971,7 @@
 										<orig>tonorðhẏm</orig>
 										<reg>to norðhẏm</reg>
 									</choice>
-									<line n="67"/>
+									<lb n="67"/>
  briscum gereorde swa hraþe 
  
 									<choice>
@@ -983,14 +983,14 @@
 										<orig>Sebiscop</orig>
 										<reg>Se biscop</reg>
 									</choice>
-									<line n="68"/>
+									<lb n="68"/>
  þa ferde bodigende geond eall 
  
 									<choice>
 										<sic>Norhẏmbra</sic>
 										<corr>Norðhẏmbra</corr>
 									</choice>
-									<line n="69"/>
+									<lb n="69"/>
  lande geleafan ⋅ 
  
 									<choice>
@@ -1007,7 +1007,7 @@
 										<reg>⁊ þa leode</reg>
 									</choice> gebig
  
-									<line n="70"/>
+									<lb n="70"/>
  de
  
 									<choice>
@@ -1022,7 +1022,7 @@
 										<reg>and him</reg>
 									</choice> wel gebẏsnode mid 
  
-									<line n="71"/>
+									<lb n="71"/>
  weorcum sẏmle ⋅ 
  
 									<choice>
@@ -1037,7 +1037,7 @@
 										<reg>swa swa</reg>
 									</choice> he 
  
-									<line n="72"/>
+									<lb n="72"/>
  lærde oðre 
 									<del rend="scraped">
 										<gap/>
@@ -1049,7 +1049,7 @@
 										</orig>
 										<reg>and ha</reg>
 									</choice>
-									<line n="73"/>
+									<lb n="73"/>
  lige rædinge ⋅ 
  
 									<choice>
@@ -1064,7 +1064,7 @@
 										<reg>mid lare</reg>
 									</choice>.
  
-									<line n="74"/> 
+									<lb n="74"/> 
  swa 
  
 									<choice>
@@ -1079,17 +1079,17 @@
 										<reg>þe him</reg>
 									</choice> mid eodon sceoldon 
  
-									<line n="75"/>
+									<lb n="75"/>
  sealmas leornian ⋅ oððe sume rædinge 
  
 									<choice>
 										<orig>swahwi</orig>
 										<reg>swa hwi</reg>
 									</choice>
-									<line n="76"/>
+									<lb n="76"/>
  der swa hi ferdon þam folce bodigende ⋅ Seldon 
  
-									<line n="77"/>
+									<lb n="77"/>
  he wolde ridan ac siðode 
  
 									<choice>
@@ -1103,7 +1103,7 @@
 										</orig>
 										<reg>and munuc</reg>
 									</choice>
-									<line n="78"/>
+									<lb n="78"/>
  lice leofode betwux ðam 
  
 									<choice>
@@ -1116,7 +1116,7 @@
 										<orig>midmẏ</orig>
 										<reg>mid mẏ</reg>
 									</choice>
-									<line n="79"/>
+									<lb n="79"/>
  celre gesceadwisnẏsse 
  
 									<choice>
@@ -1135,7 +1135,7 @@
 										<orig>Þawe</orig>
 										<reg>Þa we</reg>
 									</choice>
-									<line n="80"/>
+									<lb n="80"/>
  arð 
  
 									<choice>
@@ -1149,7 +1149,7 @@
 										</orig>
 										<reg>and ead</reg>
 									</choice>
-									<line n="81"/>
+									<lb n="81"/>
  mod 
  
 									<choice>
@@ -1170,7 +1170,7 @@
 										</abbr>
 										<expan>and</expan>
 									</choice>
-									<line n="82"/>
+									<lb n="82"/>
  man ahrærde cẏrcan 
  
 									<choice>
@@ -1178,7 +1178,7 @@
 										<reg>on his</reg>
 									</choice> rice geond eall. 
  
-									<line n="83"/>
+									<lb n="83"/>
 									<choice>
 										<orig>⁊
 											<tironianet/>mẏnsterlice
@@ -1187,7 +1187,7 @@
 									</choice> gesetnẏssẹ
 									<add place="above">a</add>  mid micelre geornful
  
-									<line n="84"/>
+									<lb n="84"/>
  nẏsse ⋅ Hit gelamp 
  
 									<choice>
@@ -1202,7 +1202,7 @@
 										<reg>þæt hi</reg>
 									</choice> sæton æt
  
-									<line n="85"/>
+									<lb n="85"/>
  gædere ⋅ oswold ⋅ 
  
 									<choice>
@@ -1217,10 +1217,10 @@
 										<reg>on þam</reg>
 									</choice> halgan eastėr
  
-									<line n="86"/>
+									<lb n="86"/>
  dæge ⋅ Þa bær man þam cẏninge cynelice þenun
  
-									<line n="87"/>
+									<lb n="87"/>
  ga on anum sẏlfrenan disce ⋅ 
  
 									<choice>
@@ -1230,7 +1230,7 @@
 										<reg>and sona</reg>
 									</choice> þa inn 
  
-									<line n="88"/>
+									<lb n="88"/>
  eode 
  
 									<choice>
@@ -1243,7 +1243,7 @@
 										<reg>þe his</reg>
 									</choice> ælmẏssan 
  
-									<line n="89"/>
+									<lb n="89"/>
  bewiste ⋅ 
  
 									<choice>
@@ -1259,7 +1259,7 @@
 										<reg>þæt fela</reg>
 									</choice> þearfan sætan geond þa 
  
-									<line n="90"/>
+									<lb n="90"/>
  stræt ⋅ gehwanon cumene 
  
 									<choice>
@@ -1267,7 +1267,7 @@
 										<reg>to þæs</reg>
 									</choice> cẏninges ælmẏs
  
-									<line n="91"/>
+									<lb n="91"/>
  san ⋅ Þa sende 
  
 									<choice>
@@ -1281,7 +1281,7 @@
 										<expan>þearfum</expan>
 									</chocie> þo
  
-									<line n="92"/>
+									<lb n="92"/>
  ne sẏlfrenan disc 
  
 									<choice>
@@ -1299,7 +1299,7 @@
 										</orig>
 										<reg>and het</reg>
 									</choice>
-									<line n="93"/>
+									<lb n="93"/>
 									<choice>
 										<orig>to ceorfan</orig>
 										<reg>toceorfan</reg>
@@ -1318,7 +1318,7 @@
 										<expan>þearfum</expan>
 									</choice> heo
  
-									<line n="94"/> 
+									<lb n="94"/> 
  ra ælcum his dæl ⋅ 
  
 									<choice>
@@ -1328,7 +1328,7 @@
 										<reg>and man dẏde ða</reg>
 									</choice> swa ⋅ Þa ge
  
-									<line n="95"/>
+									<lb n="95"/>
  nam aidanus 
  
 									<choice>
@@ -1336,7 +1336,7 @@
 										<reg>se æðela</reg>
 									</choice> bisceop þæs cẏninges swẏ
  
-									<line n="96"/>
+									<lb n="96"/>
  þran hand 
  
 									<choice>
@@ -1351,7 +1351,7 @@
 										<reg>and clẏpode</reg>
 									</chocie> mid 
  
-									<line n="97"/>
+									<lb n="97"/>
  geleafan þus cwæðende 
  
 									<choice>
@@ -1359,7 +1359,7 @@
 										<reg>him to</reg>
 									</choice> ⋅ Ne for rotige 
  
-									<line n="98"/>
+									<lb n="98"/>
 									<choice>
 										<orig>onbrosnung
 											<add place="inline">e</add>
@@ -1377,7 +1377,7 @@
 										<reg>and him</reg>
 									</choice> eac 
  
-									<line n="99"/>
+									<lb n="99"/>
  swa 
  
 									<choice>
@@ -1396,10 +1396,10 @@
 										</orig>
 										<reg>þæt his</reg>
 									</choice>
-									<line n="100"/>
+									<lb n="100"/>
  swiðre hand is gesundful oð þis ⋅ Oswoldes cẏne
  
-									<line n="101"/>
+									<lb n="101"/>
  rice wearð gerẏmed þa swẏðe ⋅ 
  
 									<choice>
@@ -1410,7 +1410,7 @@
 									</choice>
  þeoda
  
-									<line n="102"/>
+									<lb n="102"/>
  hine 
  
 									<choice>
@@ -1424,7 +1424,7 @@
 										</orig>
 										<reg>and brẏt</reg>
 									</choice>
-									<line n="103"/>
+									<lb n="103"/>
  tas ⋅ Scottas ⋅ 
  
 									<choice>
@@ -1443,7 +1443,7 @@
 										<reg>se ælmihtiga</reg>
 									</choice> god 
  
-									<line n="104"/>
+									<lb n="104"/>
  hi 
  
 									<choice>
@@ -1460,14 +1460,14 @@
 										</orig>
 										<reg>geearnungum</reg>
 									</choice>
-									<line n="105"/>
+									<lb n="105"/>
  þe hine æfre wurðode ⋅ He fulworhte 
  
 									<choice>
 										<orig>oneferwic</orig>
 										<reg>on eferwic</reg>
 									</choice>
-									<line n="106"/>
+									<lb n="106"/>
 									<choice>
 										<abbr>ꝥ
 											<thornwithstroke/>
@@ -1480,7 +1480,7 @@
 										<reg>þe his</reg>
 									</choice> mæg eadwine ær begun
  
-									<line n="107"/>
+									<lb n="107"/>
  non hæfde 
  
 									<choice>
@@ -1494,10 +1494,10 @@
 										<reg>for heofonan</reg>
 									</choice>rice mid 
   
-									<line n="108"/>
+									<lb n="108"/>
   singalum gebedum ⋅ swiþor þonne he hogode
   
-									<line n="109"/>
+									<lb n="109"/>
 									<choice>
 										<orig>huhe</orig>
 										<reg>hu he</reg>
@@ -1508,7 +1508,7 @@
 										<reg>on worulde</reg>
 									</choice> þa hwilwend lican ge
   
-									<line n="110"/>
+									<lb n="110"/>
   þincðu ⋅ 
   
 									<choice>
@@ -1516,7 +1516,7 @@
 										<reg>þe he</reg>
 									</choice> hwonlice lufode ⋅ He wolde æfter 	
   
-									<line n="111"/>
+									<lb n="111"/>
   uht sange oftost hine gebiddan ⋅ 
   
 									<choice>
@@ -1525,7 +1525,7 @@
 										</orig>
 										<reg>and on cẏrcan</reg>
 									</choice>
-									<line n="112"/>
+									<lb n="112"/>
   standan 
   
 									<choice>
@@ -1533,7 +1533,7 @@
 										<reg>on sẏndrigum</reg>
 									</choice> gebedum of sunnan 
   
-									<line n="113"/>
+									<lb n="113"/>
   up gange mid swẏðlicre onbrẏrdnẏsse ⋅
  
 									<choice>
@@ -1546,7 +1546,7 @@
 											<add place="inline">and</add>and swa
 										</reg>
 									</choice>
-								<line n="114"/>
+								<lb n="114"/>
   hwær swa he wæs 
   
 								<choice>
@@ -1554,7 +1554,7 @@
 									<reg>he wurðode</reg>
 								</choice> æfre god . up awen
   
-								<line n="115"/>
+								<lb n="115"/>
   dum handbredum wiþ: 
 								<add place="above">þæs</add> heofones weard.
   
@@ -1563,10 +1563,10 @@
 									</orig>
 									<reg>On þam</reg>
 								</choice>
-								<line n="116"/>
+								<lb n="116"/>
   ẏlcan timan  com eac sum bisceop fram rome
   
-								<line n="117"/>
+								<lb n="117"/>
   bẏrig 
   
 								<choice>
@@ -1576,7 +1576,7 @@
 									<expan>birinus</expan>
 								</choice> gehaten ⋅ to west sexena kẏninge
   
-								<line n="118"/>
+								<lb n="118"/>
   cẏnegẏls gehaten ⋅ 
   
 								<choice>
@@ -1590,10 +1590,10 @@
 									</orig>
 									<reg>and eall west</reg>
 								</choice>
-								<line n="119"/>
+								<lb n="119"/>
   sexena land ⋅ Birinus witodlice gewende fram ro
   
-								<line n="120"/>
+								<lb n="120"/>
   me 
   
 								<choice>
@@ -1616,7 +1616,7 @@
 									</abbr>
 									<expan>and</expan>
 								</choice>
-								<line n="121"/>
+								<lb n="121"/>
   behet 
   
 								<choice>
@@ -1630,10 +1630,10 @@
 									<abbr>⁊</abbr>
 									<expan>and</expan>
 								</choice>
-								<line n="122"/>
+								<lb n="122"/>
   bodian þam hæþenum þæs hælendes naman ⋅
   
-								<line n="123"/>
+								<lb n="123"/>
 								<choice>
 									<orig>⁊
 										<tironianet/>
@@ -1649,7 +1649,7 @@
 									<reg>on fẏrlenum</reg>
 								</choice> landum ⋅
   
-								<line n="124"/>
+								<lb n="124"/>
   Þa becom he 
   
 								<choice>
@@ -1662,7 +1662,7 @@
 									<reg>þe wæs</reg>
 								</choice> ða gẏt hæ
   
-								<line n="125"/>
+								<lb n="125"/>
   þen ⋅ 
   
 								<choice>
@@ -1672,7 +1672,7 @@
 									<reg>and gebigde</reg>
 								</choice> þone cẏnincg kẏnegẏls to gode⋅
   
-								<line n="126"/>
+								<lb n="126"/>
 								<choice>
 									<orig>⁊
 										<tironianet/>ealle
@@ -1685,7 +1685,7 @@
 									<reg>to gelēafan</reg>
 								</choice> mid him ⋅  Hit ge
   
-								<line n="127"/>
+								<lb n="127"/>
   lamp þa swa 
   
 								<choice>
@@ -1695,7 +1695,7 @@
 									<reg>þæt se geleaffulla</reg>
 								</choice> oswold norðhẏm
   
-								<line n="128"/>
+								<lb n="128"/>
   bra cẏning wæs cumen to cẏnegẏlse ⋅ 
   
 								<choice>
@@ -1705,10 +1705,10 @@
 									<reg>and hine</reg>
 								</choice> to 
   
-								<line n="129"/>
+								<lb n="129"/>
   fulluhte nam ⋅ fægen his gecẏrred nẏsse ⋅ Þa 
   
-								<line n="130"/>
+								<lb n="130"/>
   geafon 
   
 								<choice>
@@ -1723,10 +1723,10 @@
 									<reg>and oswold</reg>
 								</choice> þam halgan
   
-								<line n="131"/>
+								<lb n="131"/>
   birine him to bisceop stole þa burh dorcan cea
   
-								<line n="132"/>
+								<lb n="132"/>
   ster ⋅ 
   
 								<choice>
@@ -1736,7 +1736,7 @@
 									<reg>and he þær</reg>
 								</choice> binnan wunode godes lof aræren
   
-								<line n="133"/>
+								<lb n="133"/>
   de ⋅ 
   
 								<choice>
@@ -1757,7 +1757,7 @@
 									<orig>togeleafan</orig>
 									<reg>to geleafan</reg>
 								</choice>
-								<line n="134"/>
+								<lb n="134"/>
   to langum fẏrste 
   
 								<choice>
@@ -1771,7 +1771,7 @@
 									<reg>gesælig</reg>
 								</choice> siþode to criste ⋅
   
-								<line n="135"/>
+								<lb n="135"/>
 								<choice>
 									<orig>⁊
 										<tironianet/>his
@@ -1784,7 +1784,7 @@
 									<reg>on ðære</reg>
 								</choice> ẏlcan bẏrig ⋅ oð 
   
-								<line n="136"/>
+								<lb n="136"/>
 								<choice>
 									<orig>ꝥ
 										<thornwithstroke/>hædde
@@ -1796,7 +1796,7 @@
 									<orig>towintan</orig>
 									<reg>to wintan</reg>
 								</choice>
-								<line n="137"/>
+								<lb n="137"/>
   ceastre  ⋅ 
   
 								<chocie>
@@ -1806,13 +1806,13 @@
 									<reg>and mid</reg>
 								</chocie> wurð mẏnte gelogode binnan eal
   
-								<line n="138"/>
+								<lb n="138"/>
   dan mẏnstre ⋅ þær man hine wurðað gẏt ⋅ Hwæt 
   
-								<line n="139"/>
+								<lb n="139"/>
   þa oswold cẏning his cẏnedom geheold hlisful 
   
-								<line n="140"/>
+								<lb n="140"/>
   lice for worulde
   
 								<choice>
@@ -1833,7 +1833,7 @@
 									</orig>
 									<reg>and on</reg>
 								</choice>
-								<line n="141"/>
+								<lb n="141"/>
   eallum dædum his drihten arwurðode · 
   
 								<choice>
@@ -1842,7 +1842,7 @@
 									</orig>
 									<reg>oð þæt he of</reg>
 								</choice>
-								<line n="142"/>
+								<lb n="142"/>
   slagen wearð 
   
 								<choice>
@@ -1855,7 +1855,7 @@
 									<reg>on þam</reg>
 								</choice> nigoðan
  
-								<line n="143"/>
+								<lb n="143"/>
  geare 
  
 								<choice>
@@ -1882,7 +1882,7 @@
 										<add place="inline">e</add>
 									</reg>
 								</choice>
-								<line n="144"/>
+								<lb n="144"/>
  eahta 
  
 								<choice>
@@ -1902,7 +1902,7 @@
 									<orig>beþam</orig>
 									<reg>be þam</reg>
 								</choice>
-								<line n="145"/>
+								<lb n="145"/>
 								<choice>
 									<orig>ꝥhim</orig>
 									<reg>þæt him</reg>
@@ -1912,11 +1912,11 @@
 									<orig>þeæt</orig>
 									<reg>þe æt</reg>
 								</choice>
-								<line n="146"/>
+								<lb n="146"/>
  his mæges slege his ær eadwines cẏninges ce
 								<add place="above">a</add>dwallan
  
-								<line n="147"/>
+								<lb n="147"/>
  fẏlste · 
  
 								<choice>
@@ -1939,7 +1939,7 @@
 									</abbr>
 									<expan>and</expan>
 								</choice>
-								<line n="148"/>
+								<lb n="148"/>
  eall mẏrcena folc wæs 
  
 								<choice>
@@ -1950,7 +1950,7 @@
 									<orig>Hico</orig>
 									<reg>Hi co</reg>
 								</choice>
-								<line n="149"/>
+								<lb n="149"/>
  mon þa 
  
 								<choice>
@@ -1969,7 +1969,7 @@
 									</orig>
 									<reg>and fen</reg>
 								</choice>
-								<line n="150"/>
+								<lb n="150"/>
  gon togædere oð 
  
 								<choice>
@@ -1990,7 +1990,7 @@
 									</orig>
 									<reg>and þa</reg>
 								</choice>
-								<line n="151"/>
+								<lb n="151"/>
  hæðenan 
  
 								<choice>
@@ -2002,13 +2002,13 @@
 									<reg>to þam halgan</reg>
 								</choice> oswolde ·
  
-								<line n="152"/>
+								<lb n="152"/>
 								<choice>
 									<orig>þageseah</orig>
 									<reg>þa geseah</reg>
 								</choice>he genealecan his lifes geendunge ·
  
-								<line n="153"/>
+								<lb n="153"/>
 								<choice>
 									<orig>⁊
 										<tironianet/>gebæd
@@ -2031,7 +2031,7 @@
 									</abbr>
 									<expan>and</expan>
 								</choice>
-								<line n="154"/>
+								<lb n="154"/>
  betæhte heora sawla 
  
 								<choice>
@@ -2047,7 +2047,7 @@
 									</orig>
 									<reg>and þus</reg>
 								</choice>
-								<line n="155"/>
+								<lb n="155"/>
  clẏpode 
  
 								<choice>
@@ -2055,7 +2055,7 @@
 									<reg>on his</reg>
 								</choice> fẏlle · God gemiltsa urum saw
  
-								<line n="156"/>
+								<lb n="156"/>
  lum · þa het 
  
 								<choice>
@@ -2063,7 +2063,7 @@
 									<reg>se hæþena</reg>
 								</choice> cẏnincg his heafod of
  
-								<line n="157"/>
+								<lb n="157"/>
  aslean · 
  
 								<choice>
@@ -2080,10 +2080,10 @@
 									<reg>and settan</reg>
 								</choice> hi to mẏr
  
-								<line n="158"/>
+								<lb n="158"/>
  celse · þa æfter oswoldes slege feng oswig his
  
-								<line n="159"/>
+								<lb n="159"/>
  broðor to norðhẏmbra rice · 
  
 								<choice>
@@ -2093,10 +2093,10 @@
 									<reg>and rad</reg>
 								</choice> mid werode
  
-								<line n="160"/>
+								<lb n="160"/>
  to þær his broðor heafod stod onstacan gefæst
  
-								<line n="161"/>
+								<lb n="161"/>
  nod · 
  
 								<choice>
@@ -2123,7 +2123,7 @@
 									</orig>
 									<reg>and mid</reg>
 								</choice>
-								<line n="162"/>
+								<lb n="162"/>
  arwurðnẏsse ferode 
  
 								<choice>
@@ -2131,7 +2131,7 @@
 									<reg>to lindis</reg>
 								</choice> farnea cẏrcan ·
  
-								<line n="163"/>
+								<lb n="163"/>
 								<choice>
 									<orig>þawearð</orig>
 									<reg>þa wearð</reg>
@@ -2144,7 +2144,7 @@
 									<reg>þæt his</reg>
 								</choice> ·
  
-								<line n="164"/>
+								<lb n="164"/>
  swiðre hand wunað hal 
  
 								<choice>
@@ -2152,7 +2152,7 @@
 									<reg>mid þam</reg>
 								</choice> flæsce. butan
  
-								<line n="165"/>
+								<lb n="165"/>
  ælcere brosnunge swa se bisceop. 
 								<add place="above">ge</add>
 								<choice>
@@ -2161,7 +2161,7 @@
 									<expan>cwæð</expan>
 								</choice>. Se earm
  
-								<line n="166"/>
+								<lb n="166"/>
  wearþ geled arwurðlice 
  
 								<choice>
@@ -2172,7 +2172,7 @@
 									<orig>ofseolfre</orig>
 									<reg>of seolfre</reg>
 								</choice>
-								<line n="167"/>
+								<lb n="167"/>
  asmiþod · 
  
 								<choice>
@@ -2185,7 +2185,7 @@
 									<orig>b ebban</orig>
 									<reg>bæbban</reg>
 								</choice>
-								<line n="168"/>
+								<lb n="168"/>
  byrig 
  
 								<choice>
@@ -2200,10 +2200,10 @@
 									<reg>and lið</reg>
 								</choice> þær swa andsund
  
-								<line n="169"/>
+								<lb n="169"/>
  swa he ofaslagen wæs · His broþor dohtor eft
  
-								<line n="170"/>
+								<lb n="170"/>
  siððan 
  
 								<choice>
@@ -2218,7 +2218,7 @@
 									<reg>and geaxode</reg>
 								</choice> his	
  
-								<line n="171"/>
+								<lb n="171"/>
  ba<g ref="#n_macron"/> · 
  
 								<choice>
@@ -2246,17 +2246,17 @@
 									</orig>
 									<reg>to bardanige</reg>
 								</choice>
-								<line n="172"/>
+								<lb n="172"/>
  mẏnstre þe heo micclum lufode · ac 
  
 								<choice>
 									<orig>þamẏnster</orig>
 									<reg>þa mẏnster</reg>
 								</choice>
-								<line n="173"/>
+								<lb n="173"/>
  menn noldon for menniscum gedwẏlde þone
  
-								<line n="174"/>
+								<lb n="174"/>
  sanct 
  
 								<choice>
@@ -2269,11 +2269,11 @@
 									<reg>an geteld</reg>
 								</choice> ofer
  
-								<line n="175"/>
+								<lb n="175"/>
  þa halgan ba<g ref="#n_macron"/> binnan þære licr
 								<del rend="scraped">a</del>este · Hwæt
  
-								<line n="176"/>
+								<lb n="176"/>
  þa god 
  
 								<choice>
@@ -2293,7 +2293,7 @@
 									</orig>
 									<reg>swa þæt</reg>
 								</choice>
-								<line n="177"/>
+								<lb n="177"/>
  heofon: 
 								<add place="above">lic</add>leoht ofer 
  
@@ -2308,7 +2308,7 @@
 								</del>teld astr
 								<del rend="scraped">a</del>eht stod up to
  
-								<line n="178"/>
+								<lb n="178"/>
  heofonum swilce healic 
  
 								<choice>
@@ -2316,7 +2316,7 @@
 									<reg>sunnbeam</reg>
 								</choice> ofer ealle ða
  
-								<line n="179"/>
+								<lb n="179"/>
  niht · 
  
 								<choice>
@@ -2326,14 +2326,14 @@
 									<reg>and þa</reg>
 								</choice> leoda beheoldon geond ealle þa scire        
  
-								<line n="180"/>
+								<lb n="180"/>
  swiðe wundrigende · þa wurdon þa 
  
 								<choice>
 									<orig>mẏnster men</orig>
 									<reg>mẏnstermen</reg>
 								</choice>
-								<line n="181"/>
+								<lb n="181"/>
  micclum afẏrhte · 
  
 								<choice>
@@ -2349,7 +2349,7 @@
 									</orig>
 									<reg>þæt hi</reg>
 								</choice>
-								<line n="182"/>
+								<lb n="182"/>
    moston þone sanct 
    
 								<choice>
@@ -2357,7 +2357,7 @@
 									<reg>mid arwurðnẏsse</reg>
 								</choice> underfon ·
    
-								<line n="183"/>
+								<lb n="183"/>
    þone 
    
 								<choice>
@@ -2365,7 +2365,7 @@
 									<reg>þe hi</reg>
 								</choice> ær forsocon · þa ðwōh man þa halgan
   
-								<line n="184"/>
+								<lb n="184"/>
  bān 
  
 								<choice>
@@ -2380,7 +2380,7 @@
 									<reg>on scrine</reg>
 								</choice> ·
   
-								<line n="185"/>
+								<lb n="185"/>
 								<choice>
 									<orig>⁊
 										<tironianet/>gelogodon
@@ -2395,7 +2395,7 @@
 									<reg>and þær</reg>
 								</choice> wurdon gehælede þurh
   
-								<line n="186"/>
+								<lb n="186"/>
   his halgan geearnunge fela mettrume menn 
   
 								<choice>
@@ -2403,7 +2403,7 @@
 									</abbr>
 									<expan>fram</expan>
 								</choice>
-								<line n="187"/>
+								<lb n="187"/>
  mislicum coþum · 
  
 								<choice>
@@ -2418,11 +2418,11 @@
 									<reg>þe man</reg>
 								</choice>  þa mid
   
-								<line n="188"/>
+								<lb n="188"/>
   aþwoh binnan þære cẏrcan wearð agoten swa
   
  
-								<line n="189"/>
+								<lb n="189"/>
  on anre hẏrnan · 
  
 								<choice>
@@ -2438,7 +2438,7 @@
 									</orig>
 									<reg>þe þæt wæter</reg>
 								</choice>
-								<line n="190"/>
+								<lb n="190"/>
 								<choice>
 									<orig>under feng</orig>
 									<reg>underfeng</reg>
@@ -2449,10 +2449,10 @@
 									<reg>to bote</reg>
 								</choice> · Mid þam
   
-								<line n="191"/>
+								<lb n="191"/>
   duste wurdon afligde deofla fram mannum ·
   
-								<line n="192"/>
+								<lb n="192"/>
   þa þe 
   
 								<choice>
@@ -2460,7 +2460,7 @@
 									<reg>onwodnysse</reg>
 								</choice> ær wæron gedrehte ·Eac swil
   
-								<line n="193"/>
+								<lb n="193"/>
   ce 
   
 								<choice>
@@ -2477,7 +2477,7 @@
 									<reg>gefeohte</reg>
 								</choice> ofslagen · men
   
-								<line n="194"/>
+								<lb n="194"/>
   namon þa eorðan to adligum mannum · 
   
 								<choice>
@@ -2486,7 +2486,7 @@
 									</orig>
 									<reg>and dẏ</reg>
 								</choice>
-								<line n="195"/>
+								<lb n="195"/>
   don 
   
 								<choice>
@@ -2508,7 +2508,7 @@
 									</orig>
 									<reg>and hiwur</reg>
 								</choice>
-								<line n="196"/>
+								<lb n="196"/>
   don 
   
 								<choice>
@@ -2516,10 +2516,10 @@
 									<reg>gehælede</reg>
 								</choice> þurh þone halgan wer · Sum weg
   
-								<line n="197"/>
+								<lb n="197"/>
   farende man ferde wið þone feld · þa wearð
   
-								<line n="198"/>
+								<lb n="198"/>
   his hors gesicclod 
   
 								<choice>
@@ -2529,7 +2529,7 @@
 									<reg>and sona</reg>
 								</choice> þær feol wealwigen
   
-								<line n="199"/>
+								<lb n="199"/>
   de 
   
 								<choice>
@@ -2542,16 +2542,16 @@
 									</abbr>
 									<expan>þam</expan>
 								</choice>
-								<line n="200"/>
+								<lb n="200"/>
 								<choice>
 									<orig>þehit</orig>
 									<reg>þe hit</reg>
 								</choice>swa wealweode geond þone widgillan feld 
 								<add place="inline">ferde.</add>
-								<line n="201"/>
+								<lb n="201"/>
   þa becom hit embe lang þær se cẏnincg oswold
   
-								<line n="202"/>
+								<lb n="202"/>
 								<choice>
 									<orig>onþam</orig>
 									<reg>on þam</reg>
@@ -2561,7 +2561,7 @@
 									<reg>gefeohte</reg>
 								</choice> feoll swa swa we ær fore sæ
   
-								<line n="203"/>
+								<lb n="203"/>
   dan · 
   
 								<choice>
@@ -2576,7 +2576,7 @@
 									<reg>þa stowe</reg>
 								</choice>.
   
-								<line n="204"/>
+								<lb n="204"/>
   hal eallum limum 
   
 								<choice>
@@ -2586,13 +2586,13 @@
 									<reg>and se hlaford</reg>
 								</choice> þæs fægnode.
   
-								<line n="205"/>
+								<lb n="205"/>
   Se ridda 
 								<add place="inline">,</add>
 								<add place="above">þa</add>ferde forð on his weg þider hē ge
    
   
-								<line n="206"/>
+								<lb n="206"/>
   mẏnt hæfde. 
   
 								<choice>
@@ -2600,7 +2600,7 @@
 									<reg>þa wæs</reg>
 								</choice> þær an mæden licgende
   
-								<line n="207"/>
+								<lb n="207"/>
 								<choice>
 									<orig>onparalisẏn</orig>
 									<reg>on paralisẏn</reg>
@@ -2614,7 +2614,7 @@
 									<orig>þato</orig>
 									<reg>þa to</reg>
 								</choice>
-								<line n="208"/>
+								<lb n="208"/>
 								<add place="inline">ge</add>reccenne hu him 
    
 								<choice>
@@ -2629,7 +2629,7 @@
 									<reg>and mann</reg>
 								</choice> fe
    
-								<line n="209"/>
+								<lb n="209"/>
    rode 
    
 								<choice>
@@ -2639,7 +2639,7 @@
 									<reg>þæt mæden</reg>
 								</choice> toþære fore sædan stowe · Heo
    
-								<line n="210"/>
+								<lb n="210"/>
    wearð 
    
 								<choice>
@@ -2659,14 +2659,14 @@
 									</abbr>
 									<expan>eallum</expan>
 								</choice>
-								<line n="211"/>
+								<lb n="211"/>
    limum fram þam egeslican broce · band 
    
 								<choice>
 									<orig>þahire</orig>
 									<reg>þa hire</reg>
 								</choice>
-								<line n="212"/>
+								<lb n="212"/>
   heafod 
   
 								<choice>
@@ -2681,7 +2681,7 @@
 									<reg>on fotum</reg>
 								</choice> swa
   
-								<line n="213"/>
+								<lb n="213"/>
   heo 
   
 								<choice>
@@ -2699,7 +2699,7 @@
 									</abbr>
 									<expan>sum</expan>
 								</choice>
-								<line n="214"/>
+								<lb n="214"/>
   ærendfæst ridda 
   
 								<choice>
@@ -2713,7 +2713,7 @@
 									</orig>
 									<reg>and geband</reg>
 								</choice>
-								<line n="215"/> 
+								<lb n="215"/> 
   on anum claþe 
   
 								<choice>
@@ -2721,7 +2721,7 @@
 									<reg>of þam</reg>
 								</choice> halgan duste þære deor
  
-								<line n="216"/>  
+								<lb n="216"/>  
   wurðan stowe · 
   
 								<choice>
@@ -2736,7 +2736,7 @@
 									<reg>mid him</reg>
 								</choice> þær he fun
   
-								<line n="217"/>
+								<lb n="217"/>
   dode to · 
   
 								<choice>
@@ -2753,7 +2753,7 @@
 									<orig>ætþam</orig>
 									<reg>æt þam</reg>
 								</choice>
-								<line n="218"/>
+								<lb n="218"/>
   huse · he aheng þa 
   
 								<choice>
@@ -2767,7 +2767,7 @@
 									<reg>on ænne</reg>
 								</choice> heahne
   
-								<line n="219"/> 
+								<lb n="219"/> 
   post · 
   
 								<choice>
@@ -2777,10 +2777,10 @@
 									<reg>and sæt</reg>
 								</choice> mid þam gebeorum blissigende sa
    
-								<line n="220"/>
+								<lb n="220"/>
   mod · Man worhte þa micel fẏr tomiddes ðam 
    
-								<line n="221"/>
+								<lb n="221"/>
   gebeorum · 
   
 								<choice>
@@ -2790,7 +2790,7 @@
 									<reg>and þa</reg>
 								</choice> spearcan wundon wið þæs rofes
    
-								<line n="222"/>
+								<lb n="222"/>
   swẏðe · 
   
 								<choice>
@@ -2805,7 +2805,7 @@
 									<reg>on fẏre</reg>
 								</choice> wearð ·
   
-								<line n="223"/>
+								<lb n="223"/>
 								<choice>
 									<orig>⁊
 										<tironianet/>þa
@@ -2822,10 +2822,10 @@
 									<expan>þæt</expan>
 								</choice> hus
    
-								<line n="224"/>
+								<lb n="224"/>
   wearþ ða forburnon buton þam anum poste
    
-								<line n="225"/>
+								<lb n="225"/>
 								<choice>
 									<orig>þeꝥ
 										<thornwithstroke/>halige
@@ -2841,7 +2841,7 @@
 									<orig>anaæt</orig>
 									<reg>ana æt</reg>
 								</choice>
-								<line n="226"/>
+								<lb n="226"/>
   stod an sund mid þam duste · 
   
 								<choice>
@@ -2851,7 +2851,7 @@
 									<reg>and hi swẏðe</reg>
 								</choice> wun
   
-								<line n="227"/> 
+								<lb n="227"/> 
   drodė
 								<add place="above">o</add>n þæs halgan weres 
   
@@ -2866,7 +2866,7 @@
 								</orig>
 								<reg>þæt þæt fẏrne</reg>
 							</choice>
-							<line n="228"/> 
+							<lb n="228"/> 
   mihte 
   
 							<choice>
@@ -2881,10 +2881,10 @@
 								<reg>and manega</reg>
 							</choice> menn
    
-							<line n="229"/>
+							<lb n="229"/>
   siððan gesohton þone stede heora hæle feccen
    
-							<line n="230"/>
+							<lb n="230"/>
   de · 
   
 							<choice>
@@ -2899,7 +2899,7 @@
 								<reg>Þa asprang</reg>
 							</choice> his
    
-							<line n="231"/>
+							<lb n="231"/>
   hlisa geond þa land wide · 
   
 							<choice>
@@ -2909,7 +2909,7 @@
 								<reg>and eac</reg>
 							</choice> swilce to irlande ·
   
-							<line n="232"/>
+							<lb n="232"/>
 							<choice>
 								<orig>⁊
 									<tironianet/>eac
@@ -2922,7 +2922,7 @@
 								<reg>swa swa</reg>
 							</choice> sum mæsse
   
-							<line n="233"/> 
+							<lb n="233"/> 
   preost beanum 
 							<add place="above">men</add> sæde · Se preost 
   
@@ -2938,7 +2938,7 @@
 								<expan>þæt</expan>
 							</choice> an wer wæ
    
-							<line n="234"/>
+							<lb n="234"/>
   re 
   
 							<choice>
@@ -2954,15 +2954,15 @@
 								</orig>
 								<reg>and he</reg>
 							</choice>
-							<line n="235"/> 
+							<lb n="235"/> 
   lithwon hogode embe his sawle þearfa 
 							<add place="above">e</add> · oððe
    
-							<line n="236"/>
+							<lb n="236"/>
   his scẏppendes beboda · ac 
 							<add place="above">a</add>dreah his lif ondẏs
   
-							<line n="237"/> 
+							<lb n="237"/> 
   licum weorcum · 
   
 							<choice>
@@ -2974,7 +2974,7 @@
 								<reg>he wearð</reg>
 							</choice> ge untrumod
   
-							<line n="238"/>
+							<lb n="238"/>
 							<choice>
 								<orig>⁊
 									<tironianet/>to
@@ -2988,7 +2988,7 @@
 							</choice>
 							<add place="above">he</add> þone preost þe
    
-							<line n="239"/>
+							<lb n="239"/>
   hit cẏdde eft þus · 
   
 							<choice>
@@ -2998,7 +2998,7 @@
 								<reg>and cwæð</reg>
 							</choice> him to sona mid sarlicre
   
-							<line n="240"/> 
+							<lb n="240"/> 
   stemne. Nu 
   
 							<choice>
@@ -3010,7 +3010,7 @@
 								<reg>geendian</reg>
 							</choice> earmlicum dea
   
-							<line n="241"/> 
+							<lb n="241"/> 
   þe · 
   
 							<choice>
@@ -3026,7 +3026,7 @@
 								<expan>fracodum</expan>
 							</choice> dædum. Nu
   
-							<line n="242"/> 
+							<lb n="242"/> 
   wolde ic 
   
 							<choice>
@@ -3041,7 +3041,7 @@
 								<reg>and to gode</reg>
 							</choice> gecẏr
   
-							<line n="243"/> 
+							<lb n="243"/> 
   ran 
   
 							<choice>
@@ -3058,7 +3058,7 @@
 								<reg>and min lif</reg>
 							</choice> awendan eall to
   
-							<line n="244"/> 
+							<lb n="244"/> 
   godes willan · 
   
 							<choice>
@@ -3074,7 +3074,7 @@
 								<reg>þæt ic</reg>
 							</choice> ne eom wẏrðe þæs fẏrstes
   
-							<line n="245"/> 
+							<lb n="245"/> 
   buton sum halga 
   
 							<choice>
@@ -3086,7 +3086,7 @@
 								<reg>to þam</reg>
 							</choice> hælende cri
   
-							<line n="246"/> 
+							<lb n="246"/> 
   ste · Nu is us 
   
 							<choice>
@@ -3104,10 +3104,10 @@
 								<orig>oneow</orig>
 								<reg>on eow</reg>
 							</choice>
-							<line n="247"/> 
+							<lb n="247"/> 
   rum earde oswold gehaten · nu gif þu ænig þincg
   
-							<line n="248"/> 
+							<lb n="248"/> 
   hæfst 
   
 							<choice>
@@ -3120,7 +3120,7 @@
 								<reg>ic þe</reg>
 							</choice> bid
   
-							<line n="249"/> 
+							<lb n="249"/> 
   de · Ðā sæde se preost him · 
   
 							<choice>
@@ -3132,7 +3132,7 @@
 								<reg>of þam</reg>
 							</choice> stoc
   
-							<line n="250"/> 
+							<lb n="250"/> 
   ce 
   
 							<choice>
@@ -3155,7 +3155,7 @@
 								<reg>þu gelẏfan</reg>
 							</choice> wẏlt þu
   
-							<line n="251"/> 
+							<lb n="251"/> 
   wurþest hal sona · Hwæt þa se 
   
 							<choice>
@@ -3163,7 +3163,7 @@
 								<reg>mæssepreost</reg>
 							</choice> þæs
   
-							<line n="252"/> 
+							<lb n="252"/> 
   mannes ofhrēow · 
   
 							<choice>
@@ -3182,7 +3182,7 @@
 								<reg>of þam</reg>
 							</choice> hal
   
-							<line n="253"/> 
+							<lb n="253"/> 
   gan treowe · sealde þam adligan of 
   
 							<choice>
@@ -3190,7 +3190,7 @@
 								<reg>to supenne</reg>
 							</choice> ·
   
-							<line n="254"/>
+							<lb n="254"/>
 							<choice>
 								<orig>⁊
 									<tironianet/>he
@@ -3210,7 +3210,7 @@
 								<reg>and sẏððan</reg>
 							</choice> leofode lange on
   
-							<line n="255"/> 
+							<lb n="255"/> 
   worulde · 
   
 							<choice>
@@ -3225,7 +3225,7 @@
 							</choice> mid eallra
 							<add place="above">e</add> heortan ·
   
-							<line n="256"/>
+							<lb n="256"/>
 							<choice>
 								<orig>⁊
 									<tironianet/>midhalgum
@@ -3247,7 +3247,7 @@
 								<reg>he com</reg>
 							</choice> · he
   
-							<line n="257"/> 
+							<lb n="257"/> 
   cẏdde þas wundra · 
   
 							<choice>
@@ -3255,7 +3255,7 @@
 								<reg>For þẏ</reg>
 							</choice> ne sceall nan mann
   
-							<line n="258"/> 
+							<lb n="258"/> 
   awægan 
   
 							<choice>
@@ -3270,7 +3270,7 @@
 								<reg>be hæt</reg>
 							</choice> þam ælmihtigan
   
-							<line n="259"/> 
+							<lb n="259"/> 
   gode · 
   
 							<choice>
@@ -3287,7 +3287,7 @@
 								<reg>þe he</reg>
 							</choice> sẏlf losige ·
   
-							<line n="260"/> 
+							<lb n="260"/> 
   gif he alihð gode 
   
 							<choice>
@@ -3307,7 +3307,7 @@
 								<orig>þeðas</orig>
 								<reg>þe ðas</reg>
 							</choice>
-							<line n="261"/> 
+							<lb n="261"/> 
   boc gedihte · 
   
 							<choice>
@@ -3327,7 +3327,7 @@
 								</orig>
 								<reg>þæt se halga</reg>
 							</choice>
-							<line n="262"/> 
+							<lb n="262"/> 
   cẏnincg untrumnẏsse gehæle 
   
 							<choice>
@@ -3338,7 +3338,7 @@
 								<orig>onheofo</orig>
 								<reg>on heofo</reg>
 							</choice>
-							<line n="263"/>
+							<lb n="263"/>
 							<choice>
 								<orig>num
 									<add place="inline">leo</add>fað
@@ -3361,7 +3361,7 @@
 								<orig>þaþa</orig>
 								<reg>þa þa</reg>
 							</choice>
-							<line n="264"/> 
+							<lb n="264"/> 
   he her 
   
 							<choice>
@@ -3382,19 +3382,19 @@
 								</orig>
 								<reg>and him</reg>
 							</choice>
-							<line n="265"/>
+							<lb n="265"/>
 							<choice>
 								<orig>big wiste</orig>
 								<reg>bigwiste</reg>
 							</choice> sẏllan · Nu hæfð he þone wurðmẏnt
   
-							<line n="266"/>
+							<lb n="266"/>
 							<choice>
 								<orig>onþære</orig>
 								<reg>on  þære</reg>
 							</choice> ecan worulde · mid þam ælmihtigan gode
   
-							<line n="267"/>
+							<lb n="267"/>
 							<choice>
 								<orig>forhis</orig>
 								<reg>for his</reg>
@@ -3409,7 +3409,7 @@
 								<orig>þaþa</orig>
 								<reg>þa þa</reg>
 							</choice>
-							<line n="268"/> 
+							<lb n="268"/> 
   he git cnapa wæs · geseah 
   
 							<choice>
@@ -3417,14 +3417,14 @@
 								<reg>hu godes</reg>
 							</choice> ænglas · feredon
   
-							<line n="269"/> 
+							<lb n="269"/> 
   aidanes sawle þæs halgan bisceopes. bliðe 
   
 							<choice>
 								<orig>toheo</orig>
 								<reg>to heo</reg>
 							</choice>
-							<line n="270"/> 
+							<lb n="270"/> 
   fonum 
   
 							<choice>
@@ -3440,20 +3440,20 @@
 								<orig>onworulde</orig>
 								<reg>on worulde</reg>
 							</choice>
-							<line n="271"/>
+							<lb n="271"/>
 							<choice>
 								<orig>ge earnode</orig>
 								<reg>geearnode</reg>
 							</choice> . Þæs halgan oswoldes ban wurdon
   
-							<line n="272"/> 
+							<lb n="272"/> 
   eft gebroht æfter manegum gearum 
   
 							<choice>
 								<orig>tomẏr</orig>
 								<reg>to mẏr</reg>
 							</choice>
-							<line n="273"/> 
+							<lb n="273"/> 
   cena lande into gleawceastre · 
   
 							<choice>
@@ -3463,11 +3463,11 @@
 								<reg>and god</reg>
 							</choice> þær geswute
   
-							<line n="274"/> 
+							<lb n="274"/> 
   lode oft fe
 							<add place="above">a</add>la wundra þurh þone hālgan wer. Sẏ      	
   
-							<line n="275"/>
+							<lb n="275"/>
   þæs wuldor þam ælmihtigan
 							<add place="above">:gode · ðeonecnysse rixað</add>
 							<add place="inline">:</add> a 
