@@ -358,7 +358,7 @@
   
 									<choice>
 										<orig>oðꝥ
-											<thornwithstroke/>
+											
 										</orig>
 										<reg>oð þæt</reg>
 									</choice>
@@ -456,7 +456,7 @@
   
 									<choice>
 										<abbr>ꝥ
-											<thornwithstroke/>
+											
 										</abbr>
 										<expan>þæt</expan>
 									</choice>he us ahredde wið þone mo
@@ -474,7 +474,7 @@
   
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>we
+											we
 										</orig>
 										<reg>þæt we</reg>
 									</choice>winnað rihtlice wið þẏsne reðan cẏning
@@ -545,7 +545,7 @@
 									</choice>
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>hī
+											hī
 										</orig>
 										<reg>þæt him</reg>
 									</choice>
@@ -587,7 +587,7 @@
 									</choice>
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>his
+											his
 										</orig>
 										<reg>þæt his</reg>
 									</choice>
@@ -611,7 +611,7 @@
   
 									<choice>
 										<orig>oðꝥ
-											<thornwithstroke/>man
+											man
 										</orig>
 										<reg>oð þæt man</reg>
 									</choice>him fette 
@@ -771,7 +771,7 @@
  
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>hi
+											hi
 										</orig>
 										<reg>þæt hi</reg>
 									</choice> his benum 
@@ -857,7 +857,7 @@
  
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>hehraðe
+											hehraðe
 										</orig>
 										<reg>þæt he hraðe</reg>
 									</choice>
@@ -894,7 +894,7 @@
  
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>heora
+											heora
 										</orig>
 										<reg>þæt heora</reg>
 									</choice> geleafa 
@@ -923,7 +923,7 @@
 									<lb n="62"/>
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>segeleaffulla
+											segeleaffulla
 										</orig>
 										<reg>þæt se geleaffulla</reg>
 									</choice>
@@ -1069,7 +1069,7 @@
  
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>
+											
 										</orig>
 										<reg>þæt</reg>
 									</choice> ealle his geferan 
@@ -1197,7 +1197,7 @@
  
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>hi
+											hi
 										</orig>
 										<reg>þæt hi</reg>
 									</choice> sæton æt
@@ -1254,7 +1254,7 @@
 									</choice>
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>fela
+											fela
 										</orig>
 										<reg>þæt fela</reg>
 									</choice> þearfan sætan geond þa 
@@ -1392,7 +1392,7 @@
  
 									<choice>
 										<orig>ꝥ
-											<thornwithstroke/>his
+											his
 										</orig>
 										<reg>þæt his</reg>
 									</choice>
@@ -1404,7 +1404,7 @@
  
 									<choice>
 										<orig>swaꝥ
-											<thornwithstroke/>feower
+											feower
 										</orig>
 										<reg>swa þæt feower</reg>
 									</choice>
@@ -1470,7 +1470,7 @@
 									<lb n="106"/>
 									<choice>
 										<abbr>ꝥ
-											<thornwithstroke/>
+											
 										</abbr>
 										<expan>þæt</expan>
 									</choice> ænlice mẏnster 
@@ -1621,7 +1621,7 @@
   
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>he
+										he
 									</orig>
 									<reg>þæt he</reg>
 								</choice> þæt he wolde godes willan gefremman ⋅ 
@@ -1690,7 +1690,7 @@
   
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>segeleaffulla
+										segeleaffulla
 									</orig>
 									<reg>þæt se geleaffulla</reg>
 								</choice> oswold norðhẏm
@@ -1748,7 +1748,7 @@
   
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>folc
+										folc
 									</orig>
 									<reg>þæt folc</reg>
 								</choice> mid lare 
@@ -1762,7 +1762,7 @@
   
 								<choice>
 									<orig>oðꝥ
-										<thornwithstroke/>he
+										he
 									</orig>
 									<reg>oð þæt he</reg>
 								</choice>
@@ -1787,7 +1787,7 @@
 								<lb n="136"/>
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>hædde
+										hædde
 									</orig>
 									<reg>þæt hædde</reg>
 								</choice> bisceop eft his ban ferode 
@@ -1974,7 +1974,7 @@
  
 								<choice>
 									<abbr>ꝥ
-										<thornwithstroke/>
+										
 									</abbr>
 									<expan>þæt</expan>
 								</choice> þær feollon 
@@ -2107,7 +2107,7 @@
 								</choice>
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>heafod
+										heafod
 									</orig>
 									<reg>þæt heafod</reg>
 								</choice>
@@ -2139,7 +2139,7 @@
  
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>his
+										his
 									</orig>
 									<reg>þæt his</reg>
 								</choice> ·
@@ -2282,14 +2282,14 @@
 								</choice>
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>hehalig
+										hehalig
 									</orig>
 									<reg>þæt he halig</reg>
 								</choice> sanct wæs · 
  
 								<choice>
 									<orig>swaꝥ
-										<thornwithstroke/>
+										
 									</orig>
 									<reg>swa þæt</reg>
 								</choice>
@@ -2299,7 +2299,7 @@
  
 								<choice>
 									<abbr>ꝥ
-										<thornwithstroke/>
+										
 									</abbr>
 									<expan>þæt </expan>
 								</choice>ge
@@ -2345,7 +2345,7 @@
    
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>hi
+										hi
 									</orig>
 									<reg>þæt hi</reg>
 								</choice>
@@ -2408,7 +2408,7 @@
  
 								<choice>
 									<abbr>ꝥ
-										<thornwithstroke/>
+										
 									</abbr>
 									<expan>þæt</expan>
 								</choice> wæter 
@@ -2434,7 +2434,7 @@
  
 								<choice>
 									<orig>þeꝥ
-										<thornwithstroke/>wæter
+										wæter
 									</orig>
 									<reg>þe þæt wæter</reg>
 								</choice>
@@ -2634,7 +2634,7 @@
    
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>mæden
+										mæden
 									</orig>
 									<reg>þæt mæden</reg>
 								</choice> toþære fore sædan stowe · Heo
@@ -2758,7 +2758,7 @@
   
 								<choice>
 									<orig>ꝥ
-										<thornwithstroke/>dust
+										dust
 									</orig>
 									<reg>þæt dust</reg>
 								</choice>
@@ -2795,7 +2795,7 @@
   
 								<choice>
 									<orig>oðꝥ
-										<thornwithstroke/>þæt
+										þæt
 									</orig>
 									<reg>oð þæt þæt</reg>
 								</choice> hus færlice eall 
@@ -2828,7 +2828,7 @@
 								<lb n="225"/>
 								<choice>
 									<orig>þeꝥ
-										<thornwithstroke/>halige
+										halige
 									</orig>
 									<reg>þe þæt halige</reg>
 								</choice> dust on ahangen wæs · 
@@ -2861,8 +2861,8 @@
 							</choice>
 							<choice>
 								<orig>ꝥ
-									<thornwithstroke/>ꝥ
-									<thornwithstroke/>fẏrne
+									ꝥ
+									fẏrne
 								</orig>
 								<reg>þæt þæt fẏrne</reg>
 							</choice>
@@ -2933,7 +2933,7 @@
 							</choice>
 							<choice>
 								<abbr>ꝥ
-									<thornwithstroke/>
+									
 								</abbr>
 								<expan>þæt</expan>
 							</choice> an wer wæ
@@ -3069,7 +3069,7 @@
 							</choice>
 							<choice>
 								<orig>ꝥ
-									<thornwithstroke/>ic
+									ic
 								</orig>
 								<reg>þæt ic</reg>
 							</choice> ne eom wẏrðe þæs fẏrstes
@@ -3095,7 +3095,7 @@
 							</choice>
 							<choice>
 								<orig>ꝥ
-									<thornwithstroke/>sum
+									sum
 								</orig>
 								<reg>þæt sum</reg>
 							</choice> halig cẏning is 
@@ -3260,7 +3260,7 @@
   
 							<choice>
 								<orig>ꝥ
-									<thornwithstroke/>he
+									he
 								</orig>
 								<reg>þæt he</reg>
 							</choice> sẏlf wẏlles 
@@ -3292,7 +3292,7 @@
   
 							<choice>
 								<abbr>ꝥ
-									<thornwithstroke/>
+									
 								</abbr>
 								<expan>þæt</expan>
 							</choice> · Nu 
@@ -3312,7 +3312,7 @@
   
 							<choice>
 								<orig>ꝥ
-									<thornwithstroke/>hit
+									hit
 								</orig>
 								<reg>þæt hit</reg>
 							</choice>
@@ -3323,7 +3323,7 @@
   
 							<choice>
 								<orig>ꝥ
-									<thornwithstroke/>sehalga
+									sehalga
 								</orig>
 								<reg>þæt se halga</reg>
 							</choice>
