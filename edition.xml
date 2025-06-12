@@ -1570,9 +1570,7 @@
   bẏrig 
   
 								<choice>
-									<abbr>birin
-										<tironiannote/>
-									</abbr>
+									<abbr>birin</abbr>
 									<expan>birinus</expan>
 								</choice> gehaten ⋅ to west sexena kẏninge
   
@@ -1740,9 +1738,9 @@
   de ⋅ 
   
 								<choice>
-									<choice>⁊
+									<orig>⁊
 										geriht
-									</choice>
+									</orig>
 									<reg>and geriht</reg>
 								</choice> læcende
   
@@ -1838,7 +1836,7 @@
   
 								<choice>
 									<orig>oðꝥ
-										<thronwithstroke/>heof
+										heof
 									</orig>
 									<reg>oð þæt he of</reg>
 								</choice>
@@ -1923,6 +1921,7 @@
 									<orig>⁊
 										sependa
 									</orig>
+									<reg>and sependa</reg>
 								</choice>
 								<choice>
 									<orig>necuðe</orig>
@@ -2100,9 +2099,9 @@
  nod · 
  
 								<choice>
-									<oirg>⁊
+									<orig>⁊
 										ge nam
-									</oirg>
+									</orig>
 									<reg>and genam</reg>
 								</choice>
 								<choice>
@@ -2115,6 +2114,7 @@
 									<orig>⁊
 										his
 									</orig>
+									<reg>and his</reg>
 								</choice> swiðran hand · 
  
 								<choice>
@@ -3149,6 +3149,7 @@
 								<orig>⁊
 									gif
 								</orig>
+								<reg>and gif</reg>
 							</choice>
 							<choice>
 								<orig>þugelẏfan</orig>
@@ -3378,7 +3379,7 @@
   
 							<choice>
 								<orig>⁊
-									<tironainet/>him
+									him
 								</orig>
 								<reg>and him</reg>
 							</choice>
@@ -3458,7 +3459,7 @@
   
 							<choice>
 								<orig>⁊
-									<tironainet/>god
+									god
 								</orig>
 								<reg>and god</reg>
 							</choice> þær geswute
