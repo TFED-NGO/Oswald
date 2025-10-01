@@ -179,7 +179,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb n="153r" facs=".png" />
+			<pb n="153r" facs="153r.jpg" />
 			<div type="manuscript">
 				<head style="text-align: left; font-variant: smallcaps">
 					<choice>
@@ -437,6 +437,7 @@
 										</orig>
 										<reg>and clypode</reg>
 									</choice>
+			<pb n="153v" facs="153v.jpg" />
 									<lb n="18"/>
   to his geferum ⋅ Uton feallan 
   
@@ -811,7 +812,9 @@
 										<orig>Hisendon</orig>
 										<reg>Hi sendon</reg>
 									</choice> þa 
- 
+
+ 			<pb n="154r" facs="154r.jpg" />
+
 									<lb n="50"/>
  sona 
  
@@ -1171,6 +1174,9 @@
 										<expan>and</expan>
 									</choice>
 									<lb n="82"/>
+
+			<pb n="154v" facs="154v.jpg" />
+
  man ahrærde cẏrcan 
  
 									<choice>
@@ -1547,6 +1553,9 @@
 										</reg>
 									</choice>
 								<lb n="114"/>
+
+			<pb n="155r" facs="155r.jpg" />
+
   hwær swa he wæs 
   
 								<choice>
@@ -1910,6 +1919,9 @@
 									<orig>þeæt</orig>
 									<reg>þe æt</reg>
 								</choice>
+
+			<pb n="155v" facs="155v.jpg" />
+
 								<lb n="146"/>
  his mæges slege his ær eadwines cẏninges ce
 								<add place="above">a</add>dwallan
@@ -2307,6 +2319,9 @@
 									<gap/>
 								</del>teld astr
 								<del rend="scraped">a</del>eht stod up to
+
+			<pb n="156r" facs="156r.jpg" />
+
  
 								<lb n="178"/>
  heofonum swilce healic 
@@ -2638,6 +2653,9 @@
 									</orig>
 									<reg>þæt mæden</reg>
 								</choice> toþære fore sædan stowe · Heo
+
+			<pb n="156v" facs="156v.jpg" />
+
    
 								<lb n="210"/>
    wearð 
@@ -3025,6 +3043,9 @@
 								</abbr>
 								<expan>fracodum</expan>
 							</choice> dædum. Nu
+
+			<pb n="157r" facs="157r.jpg" />
+
   
 							<lb n="242"/> 
   wolde ic 
@@ -3464,6 +3485,8 @@
 								<reg>and god</reg>
 							</choice> þær geswute
   
+			<pb n="157v" facs="157v.jpg" />
+
 							<lb n="274"/> 
   lode oft fe
 							<add place="above">a</add>la wundra þurh þone hālgan wer. Sẏ      	
