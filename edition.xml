@@ -184,19 +184,19 @@
 				<head style="text-align: left; font-variant: smallcaps">
 					<choice>
 						<orig>NON</orig>
-						<reg>NONAS</reg>
+						<expand>NONAS</expand>
 					</choice>
 					<choice>
 						<orig>AG</orig>
-						<reg>AUGUSTI.</reg>
+						<expand>AUGUSTI.</expand>
 					</choice>
 					<choice>
 						<orig>NATL</orig>
-						<reg>NATALE</reg>
+						<expand>NATALE</expand>
 					</choice>
 					<choice>
 						<orig>SCI</orig>
-						<reg>SANCTI</reg>
+						<expand>SANCTI</expand>
 					</choice> OSWALDI REGIS ET MARTẎRIS
             </head>
 					<ab>
