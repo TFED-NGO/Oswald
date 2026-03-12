@@ -182,8 +182,11 @@
 			<pb n="153r" facs="153r.jpg" />
 			<div type="manuscript">
 				<head style="text-align: left; font-variant: smallcaps">
-					<choice><orig>NON </orig><expan>NONAS</expan></choice>
-				    OSWALDI REGIS ET MARTẎRIS
+					<choice>
+					<orig>NON </orig>
+					<expan>NONAS</expan>
+					</choice>
+				    OSWALDI REGIS ET MARTẎRIS!
             	</head>
 					<ab>
 						<lb n="1"/>
