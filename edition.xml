@@ -182,13 +182,12 @@
 			<pb n="153r" facs="153r.jpg" />
 			<div type="manuscript">
 				<head style="text-align: left; font-variant: smallcaps">
-					<choice>
+					<s><choice>
 					<orig>NON </orig>
 					<expan>NONAS</expan>
 					</choice>
 					<choice>
-					<orig>AG </orig>
-					<expan>AUGUSTI.</expan>
+					<orig>AG </orig></expan>
 					</choice>
 					<choice>
 					<orig>NAT </orig>
@@ -198,7 +197,7 @@
 					<orig>SCI </orig>
 					<expan>SANCTI</expan>
 					</choice>
-				    OSWALDI REGIS ET MARTẎRIS!
+				    OSWALDI REGIS ET MARTẎRIS</s>
             	</head>
 					<ab>
 						<lb n="1"/>
